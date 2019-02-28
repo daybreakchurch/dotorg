@@ -5,7 +5,7 @@
   </div>
   <div></div>
   {% if section.button_link %}
-    <a class="btn btn-primary" href="{{ section.button_link | relative_url }}">{{ section.button_label | default: "Learn
+    <a class="btn btn-primary" href="{{ section.button_link }}">{{ section.button_label | default: "Learn
       More" }}</a>
   {% endif %}
 </section>
