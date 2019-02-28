@@ -38,13 +38,11 @@ layout: default
         {{ page.meta_text | markdownify }}
       </div>
       {% if page.primary_button.label and page.primary_button.link %}
-        <a class="btn btn-primary" href="{{ page.primary_button.link }}">{{
-          page.primary_button.label }}</a>
+        <a class="btn btn-primary" href="{{ page.primary_button.link }}" target="_blank">{{ page.primary_button.label }}</a>
       {% endif %}
       {% for button in page.seconday_buttons %}
         {% if button.label and button.link %}
-          <a class="btn btn-secondary" href="{{ button.link }}">{{ button.label
-            }}</a>
+          <a class="btn btn-secondary" href="{{ button.link }}" target="_blank">{{ button.label }}</a>
         {% endif %}
       {% endfor %}
     </div>
