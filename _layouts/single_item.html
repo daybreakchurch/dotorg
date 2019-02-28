@@ -33,7 +33,9 @@ layout: default
       {% endunless %}
       <div class="lead">{{ page.summary_text | markdownify }}</div>
       {{ content }}
-      <hr>
+      {% if page.meta_text or page.primary_button.label or page.seconday_buttons.first.label %}
+        <hr>
+      {% endif %}
       <div class="small text-muted">
         {{ page.meta_text | markdownify }}
       </div>
