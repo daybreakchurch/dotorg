@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <video autoplay muted loop class="hero-video d-none d-sm-block">
+    <source src="{{ "/assets/homepage-hero.mp4" | relative_url }}" type="video/mp4">
+  </video>
+  <div class="hero-shade"></div>
+  <h1 class="hero-title">{{ site.homepage.title }}</h1>
+  <p class="hero-title-tag">{{ site.homepage.subtitle }}</p>
+  <a class="hero-action" href="{{ site.baseurl }}/new-to-daybreak">Learn More</a>
+</section>
+
+{% include sections/location_and_svc_times.html %}
+
+<section class="p-dyn-4-5">
+  <h2 class="text-center pb-4">Current Series</h2>
+  <div style="max-width: 1280px; margin: 0 auto;">
+    {% assign first_series = site.series | sort: "date" | reverse | first %}
+    <a href="{{ first_series.url | relative_url }}">
+      <img class="img-fluid rounded border-slight" src="{{ first_series.image |
+      relative_url }}" alt="{{ first_series.title }} Series Art">
+    </a>
+  </div>
+  <div class="text-center pt-4">
+    <a class="btn btn-primary" href="{{ "/messages" | relative_url }}">
+      Watch Messages
+    </a>
+  </div>
+</section>
+
+<section class="p-dyn-5 bg-white">
+  <h2 class="text-center">Upcoming Events</h2>
+  {% assign events = site.events | sort: "position" | slice: 0,3 %}
+  {% include _events_grid.html events=events %}
+  <div class="d-flex pt-4 justify-content-center">
+    <a class="btn btn-primary" href="{{ site.baseurl }}/events">See More</a>
+  </div>
+</section>

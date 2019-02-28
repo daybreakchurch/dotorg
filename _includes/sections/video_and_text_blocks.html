@@ -1,0 +1,20 @@
+<section class="p-dyn-5 bg-white" id="{{ section.title | slugify }}">
+  <div class="mx-auto" style="max-width: 1280px;">
+    <div class="text-center">
+      {% if section.has_visible_title %}
+        <h2>{{ section.title }}</h2>
+      {% endif %}
+      {{ section.content }}
+    </div>
+    <div class="embed-responsive embed-responsive-16by9 my-4">
+      {{ section.video_embed }}
+    </div>
+    <div class="row flex-wrap">
+      {% for block in section.blocks %}
+        <div class="col text-block">
+          {{ block.text | markdownify }}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

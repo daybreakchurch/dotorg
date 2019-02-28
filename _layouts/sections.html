@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+{% assign header_image = page.header_bg_image | absolute_url %}
+{% include image_header.html image=header_image text=page.title %}
+
+<div class="alternating-sections">
+
+  {% assign actual_content_size = content | strip | size %}
+  {% if actual_content_size > 0 %}
+    <section class="p-dyn-5">
+      <div class="text-block mx-auto">
+        {{ content }}
+      </div>
+    </section>
+  {% endif %}
+
+  {% assign section_names = page.sections %}
+  {% for name in section_names %}
+    {% assign section = site.sections | where: "title", name | first %}
+
+    {% if section.template %}
+      {% include sections/{{ section.template }}.html %}
+    {% else %}
+      {{ section.content }}
+    {% endif %}
+
+  {% endfor %}
+
+</div>
