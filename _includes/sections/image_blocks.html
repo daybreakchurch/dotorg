@@ -9,7 +9,7 @@
     {% for block in section.blocks %}
       <div class="col-12 col-sm-6 col-lg-4 mb-4">
         <div class="card text-white with-shade">
-          <img class="card-img" src="{{ block.image | absolute_url }}" alt="{{
+          <img class="card-img" src="{{ block.image | relative_url }}" alt="{{
           block.name }}">
           <div class="card-img-overlay d-flex flex-column justify-content-center
           align-items-center">

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign header_image = page.header_bg_image | absolute_url %}
+{% assign header_image = page.header_bg_image | relative_url %}
 {% include image_header.html image=header_image text=page.title %}
 
 <div class="alternating-sections">

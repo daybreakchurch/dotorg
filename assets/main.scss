@@ -70,7 +70,7 @@ html                                    { font-size: .8rem; }
 }
 
 .hero {
-  background-image: url("{{ '/assets/homepage-hero.jpg' | absolute_url }}");
+  background-image: url("{{ '/assets/homepage-hero.jpg' | relative_url }}");
   background-size: cover;
   @extend .text-white;
   padding: 20% 10%;
@@ -252,7 +252,7 @@ hr {
 }
 
 .map-texture {
-  background-image: url("{{ '/assets/map-bg.svg' | absolute_url }}");
+  background-image: url("{{ '/assets/map-bg.svg' | relative_url }}");
   background-size: 60em;
   position: relative;
 }

@@ -12,11 +12,11 @@ layout: default
     </div>
   {% elsif page.image %}
     <div class="mx-auto py-3" style="max-width: 960px;">
-      <img class="d-block rounded img-fluid" src="{{ page.image | absolute_url
+      <img class="d-block rounded img-fluid" src="{{ page.image | relative_url
       }}" alt="{{ page.title }}">
     </div>
   {% elsif page.header_bg_image %}
-    {% assign header_image = page.header_bg_image | absolute_url %}
+    {% assign header_image = page.header_bg_image | relative_url %}
     {% include image_header.html image=header_image text=page.title %}
   {% elsif page.header_bg_unsplash_id %}
     {% capture header_image %}//source.unsplash.com/{{ page.header_bg_unsplash_id }}/1600x900{% endcapture %}

@@ -12,7 +12,7 @@
       <div class="col text-block">
         {% if block.image %}
           <div class="card text-white with-shade mb-3">
-            <img class="card-img" src="{{ block.image | absolute_url }}" alt="{{
+            <img class="card-img" src="{{ block.image | relative_url }}" alt="{{
             block.name }}">
             <div class="card-img-overlay d-flex flex-column justify-content-center align-items-center">
               <h4 class="card-title">{{ block.name }}</h4>

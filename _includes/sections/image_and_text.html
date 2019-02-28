@@ -9,7 +9,7 @@
 <section class="p-dyn-3 {{ section.css_classes }}" id="{{ section.title | slugify }}">
   <div class="row align-items-center justify-content-center">
     <div class="col-8 col-sm-5 {{ image_class }}">
-      <img class="border-slight img-fluid rounded" src="{{ section.image | absolute_url }}"
+      <img class="border-slight img-fluid rounded" src="{{ section.image | relative_url }}"
       alt="{{ section.title }}">
     </div>
     <div class="col-12 col-sm-7 order-2 py-4 text-center text-sm-left {{ text_class }}">
