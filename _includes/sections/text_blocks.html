@@ -1,7 +1,7 @@
 <section class="p-dyn-5 {{ section.css_classes }}" id="{{ section.title | slugify }}">
   <div class="text-center">
     {% if section.has_visible_title %}
-      <h2>{{ section.title }}</h2>
+      <h2 class="mb-4">{{ section.title }}</h2>
     {% endif %}
     <div class="text-block mx-auto">
       {{ section.content }}

@@ -1,9 +1,10 @@
 ---
 title: Our Beliefs
 date: 2018-08-19 17:08:00 -07:00
+has_visible_title: true
 template: text_blocks
 blocks:
-- text: "## Our Beliefs\n  \n##### The Bible\nWe affirm the Holy Bible as the inspired
+- text: "##### The Bible\nWe affirm the Holy Bible as the inspired
     Word of God, and as the only basis for our beliefs.  The Bible was written by
     men who were inspired and is God’s revelation of Himself to man. It has God for
     its author, salvation for its end, and truth without any mixture of error for
