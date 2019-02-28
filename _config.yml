@@ -134,7 +134,7 @@ footer_nav:
   link: "/messages"
 future: true
 description: Carlsbad, California based Christian Church.
-baseurl: ""
+baseurl: ''
 url: http://nicksheck.com
 facebook_username: daybreakchurch
 instagram_username: daybreak.church
