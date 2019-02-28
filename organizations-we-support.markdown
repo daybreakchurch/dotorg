@@ -15,19 +15,27 @@ header_bg_image: "/uploads/missions_2.jpg"
 * Expanded radio broadcasts to 92 languages that generated over 1 million  letters, emails and calls
 * 68% financial growth from previous year to 56 million
 
+---
+
 ## World Orphans - Haiti, [worldorphans.org](worldorphans.org)
 
 * Local support of 20 orphans in Christian homes
 * Support of Eglise Evangelique Haiti
+
+---
 
 ## Dynamic Church Planting
 
 * The role of DCPI is to "equip leaders to plant 5 million dynamic churches to reach the world for Christ."
 * Daybreak supports Pastor Scott Kirk and his family as a leader at DCPI and also provides support for materials, transportation and other costs related to teaching and training targeted seminars around the world.
 
+---
+
 ## La Red Church - El Salvador
 
 * Pastor Salvador Castellapos' church "La Red" works in may areas such as teaching and showing the Word and love of God in orphanages and schools.  La Red feeds lunches and supports the local community with an emphasis to serving the local kids.
+
+---
 
 ## Young Life Capernaum - North County
 
@@ -36,6 +44,8 @@ header_bg_image: "/uploads/missions_2.jpg"
 *North County Capernaum meets most Tuesday evenings for CLUB and other social gatherings.
 *Capernaum Club Meetings are held at Daybreak Church.
 *For more information, contact Matthew Anderson at 760.685.5345.
+
+---
 
 ## Spectrum Ministries - Mexico
 
@@ -50,9 +60,13 @@ header_bg_image: "/uploads/missions_2.jpg"
 * Working with three Tijuana orphanages: Emmanuel, El Pozo and Casa de Emmanuel
 * Camps each year for Mexican children and teens
 
+---
+
 ## Home of Christ Church - China
 
 * Home of Christ Church China is a growing church in China that meets under the constant protection of God from the communist party. They have grown from a small group to filling a large building in a very short amount of time -- and now are adding space for children's ministries. Daybreak members John and Linda Lim provide oversight of both Harvest International and the Home of Christ Church China.
+
+---
 
 ## Daybreak Church Plants
 
