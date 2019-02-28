@@ -1,9 +1,9 @@
 ---
 ---
 
-@import "../vendor/bootstrap/scss/functions";
-@import "../vendor/bootstrap/scss/variables";
-@import "../vendor/bootstrap/scss/mixins";
+@import "vendor/bootstrap/scss/functions";
+@import "vendor/bootstrap/scss/variables";
+@import "vendor/bootstrap/scss/mixins";
 
 $headings-font-family: "futura-pt", $font-family-base;
 
@@ -31,7 +31,7 @@ $custom-btn-size-modifier: .75;
 
 $btn-border-width: .15em;
 
-@import "bootstrap";
+@import "vendor/bootstrap/scss/bootstrap";
 
 body {
   background: var(--light);
