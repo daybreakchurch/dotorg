@@ -1,0 +1,172 @@
+---
+title: Daybreak Church
+timezone: America/Los_Angeles
+collections:
+  communicators:
+    title: Communicators
+    output: false
+  events:
+    title: Events
+    output: true
+  messages:
+    title: Messages
+    output: true
+  posts:
+    title: Posts
+    output: true
+  sections:
+    title: Sections
+    output: false
+  series:
+    title: Series
+    output: true
+  staff:
+    title: Staff
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: events
+  values:
+    layout: event_details
+    custom_dates: 
+    location: 
+    external_url: 
+    image: 
+    small_image: 
+    meta_text: 
+    primary_button:
+      label: 
+      link: 
+    seconday_buttons:
+    - label: 
+      link: 
+- scope:
+    path: ''
+    type: messages
+  values:
+    layout: message
+    series: 
+    communicator: 
+    vimeo_id: 
+- scope:
+    path: ''
+    type: series
+  values:
+    layout: series
+    image: 
+    small_image: 
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: single_item
+    is_in_top_nav: false
+    video_embed: 
+    image: 
+    header_bg_image: 
+    header_bg_unsplash_id: 
+    meta_text: 
+    primary_button:
+      label: 
+      link: 
+    seconday_buttons:
+    - label: 
+      link: 
+- scope:
+    path: ''
+    type: sections
+  values:
+    is_in_subnav: true
+    template: 
+- scope:
+    path: ''
+    type: staff
+  values:
+    job_title: 
+    email: 
+    image: 
+footer_nav:
+- label: About
+  link: "/about"
+  sub_links:
+  - label: New to Daybreak?
+    link: "/new-to-daybreak"
+  - label: Our Beliefs
+    link: "/about/#our-beliefs"
+  - label: Missions
+    link: "/about/#missions"
+  - label: Our Staff
+    link: "/about/#our-staff"
+  - label: Contact Us
+    link: "/contact"
+- label: Kids & Students
+  link: "/kids-and-students"
+  sub_links:
+  - label: Kids
+    link: "/kids-and-students/#kids"
+  - label: Students
+    link: "/kids-and-students/#students"
+  - label: Young Adults
+    link: "/kids-and-students/#young-adults"
+- label: Events
+  link: "/events"
+  sub_links:
+  - label: Upcoming Events
+    link: "/events"
+  - label: Classes and Groups
+    link: "/events/#classes-and-groups"
+- label: Get Connected
+  link: "/get-connected"
+  sub_links:
+  - label: Taking the Next Step
+    link: "/get-connected/#taking-the-next-step"
+  - label: Life Groups
+    link: "/life-groups"
+  - label: Prayer Requests
+    link: "/get-connected/#prayer-requests"
+- label: Give
+  link: "/give"
+- label: Messages
+  link: "/messages"
+future: true
+description: Carlsbad, California based Christian Church.
+baseurl: "/daybreak"
+url: http://nicksheck.com
+facebook_username: daybreakchurch
+instagram_username: daybreak.church
+google_analytics: UA-35147736-1
+markdown: kramdown
+permalink: pretty
+sass:
+  style: compressed
+exclude:
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+- bin
+- Rakefile
+- vendor/bootstrap/
+homepage:
+  title: Welcome Home.
+  subtitle: We’ve been expecting you, we’ve been praying for you.
+address:
+  street: 6515 Ambrosia Ln
+  city: Carlsbad
+  state: CA
+  zip: 92011
+phone: "(760) 931-7773"
+email: info@daybreakchurch.org
+service_times:
+- Sunday: 8:30, 10:00 & 11:30 am
+youth_service_times:
+- Birth - 5th Grade: Sunday  8:30, 10:00 & 11:30 am
+- 6th-8th Grade: Sunday 8:30 & 11:30 am
+- High School: Sunday  7:00 pm

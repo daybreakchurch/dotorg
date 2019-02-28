@@ -1,0 +1,335 @@
+---
+---
+
+@import "../vendor/bootstrap/scss/functions";
+@import "../vendor/bootstrap/scss/variables";
+@import "../vendor/bootstrap/scss/mixins";
+
+$headings-font-family: "futura-pt", $font-family-base;
+
+$display1-weight: 500;
+$display2-weight: 500;
+$display3-weight: 500;
+$display4-weight: 500;
+
+$lead-font-size: ($font-size-base * 1.5);
+
+$input-btn-padding-y: .5rem !default;
+$input-btn-padding-x: 1rem !default;
+
+$input-btn-padding-y-sm:      .375rem !default;
+$input-btn-padding-x-sm:      .75rem !default;
+
+$input-btn-padding-y-lg:      .75rem !default;
+$input-btn-padding-x-lg:      1.25rem !default;
+
+$border-radius:               .5rem !default;
+$border-radius-lg:            .6rem !default;
+$border-radius-sm:            .4rem !default;
+
+$custom-btn-size-modifier: .75;
+
+$btn-border-width: .15em;
+
+@import "bootstrap";
+
+body {
+  background: var(--light);
+  max-width: 1920px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+html {
+  background: #fff;
+}
+
+html                                    { font-size: .8rem; }
+@include media-breakpoint-up(sm) { html { font-size: .9rem; } }
+@include media-breakpoint-up(md) { html { font-size: 1rem; } }
+@include media-breakpoint-up(lg) { html { font-size: 1.05rem; } }
+@include media-breakpoint-up(xl) { html { font-size: 1.1rem; } }
+
+.site-navbar .nav-item {
+  border-bottom: .25rem solid #fff;
+  &.active,
+  &:hover {
+    border-color: $yellow;
+  }
+}
+.navbar-brand {
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: .125rem;
+  text-rendering: geometricPrecision;
+}
+
+.logo {
+  height: 1.8em;
+  // TODO: change color
+}
+
+.hero {
+  background-image: url("{{ '/assets/homepage-hero.jpg' | absolute_url }}");
+  background-size: cover;
+  @extend .text-white;
+  padding: 20% 10%;
+  position: relative;
+  overflow: hidden; // prevent video from overflowing
+
+  > * { position: relative; }
+}
+  .hero-video {
+    display: block;
+    position: absolute;
+    object-fit: cover;
+    min-width: 100%;
+    min-height: 100%;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    bottom: 0px;
+    // opacity: 0.8;
+    left: 0px;
+    right: 0px;
+  }
+  .hero-shade {
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    background-color: rgba(0,0,0, .5);
+  }
+  .hero-title {
+    @extend .display-4;
+  }
+  .hero-title-tag {
+    font-size: 1.5rem;
+    font-weight: 400;
+  }
+  .hero-action {
+    @extend .btn;
+    @extend .btn-outline-light;
+    @extend .btn-lg;
+  }
+
+// Bootstrap overrides
+
+.btn {
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: .125rem;
+  @include button-size($btn-padding-y, $btn-padding-x, $font-size-base * $custom-btn-size-modifier, $btn-line-height, $btn-border-radius);
+}
+.btn-lg {
+  @include button-size($btn-padding-y-lg, $btn-padding-x-lg, $font-size-lg *
+  $custom-btn-size-modifier, $btn-line-height-lg, $btn-border-radius-lg);
+}
+.btn-sm {
+  @include button-size($btn-padding-y-sm, $btn-padding-x-sm, $font-size-sm *
+  $custom-btn-size-modifier, $btn-line-height-sm, $btn-border-radius-sm);
+}
+h1, h2, h3, h4, h5,
+.h1, .h2, .h3, .h4, .h5 {
+  text-transform: uppercase;
+  letter-spacing: .025em;
+}
+h6, .h6 {
+  @extend .lead;
+  font-family: $font-family-base;
+  margin-bottom: 1rem;
+}
+blockquote {
+  @extend .blockquote;
+}
+
+// Stand alones
+
+.p-dyn-3-5 {
+  padding: 3% 5%!important;
+}
+.p-dyn-4-5 {
+  padding: 4% 5%!important;
+}
+.p-dyn-5 {
+  padding: 5% 5%!important;
+}
+.p-dyn-4 {
+  padding: 4% 4%!important;
+}
+.p-dyn-3 {
+  padding: 3% 3%!important;
+}
+
+.px-dyn-5 {
+  padding-left: 5%!important;
+  padding-right: 5%!important;
+}
+.px-dyn-4 {
+  padding-left: 4%!important;
+  padding-right: 4%!important;
+}
+.px-dyn-3 {
+  padding-left: 3%!important;
+  padding-right: 3%!important;
+}
+
+.py-dyn-5 {
+  padding-top: 5%!important;
+  padding-bottom: 5%!important;
+}
+.py-dyn-4 {
+  padding-top: 4%!important;
+  padding-bottom: 4%!important;
+}
+.py-dyn-3 {
+  padding-top: 3%!important;
+  padding-bottom: 3%!important;
+}
+
+.has-icon-left {
+  @include media-breakpoint-up(lg) {
+    position: relative;
+    > svg {
+      position: absolute;
+      left: (-24px - 8px);
+      top: 50%;
+      margin-top: -12px;
+    }
+  }
+}
+
+.footer-nav {
+  padding-left: 0;
+  font-size: .9em;
+  a {
+    color: rgba(255,255,255,.75);
+  }
+  > li {
+    min-width: 10rem;
+    list-style: none;
+    padding-bottom: 1rem;
+    &.no-sublinks {
+      min-width: 8rem;
+      max-width: 50%;
+    }
+    .footer-nav-heading {
+      white-space: nowrap;
+      text-transform: uppercase;
+      font-weight: 700;
+      border-bottom: .125rem solid $yellow;
+      display: block;
+      text-decoration: none;
+      &:hover {
+        border-color: #fff;
+      }
+    }
+    > ul {
+      padding-left: 0;
+      list-style: none;
+      padding-top: .5rem;
+      > li {
+        padding-bottom: .5rem;
+      }
+    }
+  }
+}
+
+.footer-meta {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  margin-left: -$grid-gutter-width/2;
+  margin-right: -$grid-gutter-width/2;
+  > * {
+    padding-left: $grid-gutter-width/2;
+    padding-right: $grid-gutter-width/2;
+  }
+}
+
+hr {
+  border-color: $yellow;
+  box-sizing: inherit;
+  border-width: .15em;
+}
+
+.map-texture {
+  background-image: url("{{ '/assets/map-bg.svg' | absolute_url }}");
+  background-size: 60em;
+  position: relative;
+}
+
+.text-block {
+  min-width: 22em;
+  max-width: 43em;
+}
+
+// If we had an auto-prefixer, we wouldn't need this
+.sticky-top {
+  position: -webkit-sticky;
+  top: 0;
+  z-index: $zindex-sticky;
+}
+
+.section-with-bg {
+  background-size: cover;
+  background-position: center center;
+}
+
+.subnav {
+  background-color: $gray-800;
+  .nav-link {
+    color: $gray-500;
+    &:hover,
+    &.active {
+      color: $white;
+    }
+  }
+}
+
+.with-shade {
+  position: relative;
+  &:before {
+    content: "";
+    position: absolute;
+    top:0; right: 0; bottom: 0; left: 0;
+    background-color: rgba(100,100,100,.5);
+  }
+}
+
+.image-header {
+  @extend .section-with-bg;
+  @extend .with-shade;
+  padding-bottom: 30%;
+  min-height: 15rem;
+}
+  .image-header-text {
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem;
+  }
+
+.bg-16x9 {
+  padding-bottom: calc(9 / 16 * 100%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.border-slight {
+  border: $card-border-width solid $card-border-color;
+}
+
+.h7 {
+  @extend .small;
+  @extend .text-muted;
+  text-transform: uppercase;
+  letter-spacing: .1875em;
+}
+
+.alternating-sections {
+  section:nth-child(even) {
+    background-color: #fff;
+  }
+}

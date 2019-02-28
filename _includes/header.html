@@ -1,0 +1,39 @@
+<header class="site-header" role="banner">
+
+  <nav class="site-navbar navbar navbar-expand-lg navbar-light navbar-expand
+  bg-white py-md-4 px-md-2 justify-content-between flex-wrap px-0">
+
+    <a class="navbar-brand px-3 mr-0" href="{{ "/" | relative_url }}">
+      <img class="logo" src="{{ '/assets/logo.svg' | absolute_url }}" alt="{{ site.title | escape }}">
+    </a>
+
+    <ul class="navbar-nav pl-2 pr-3 flex-wrap">
+      {% assign sorted_pages = site.pages | sort: 'position', 'last' %}
+      {% for my_page in sorted_pages %}
+        {% if my_page.title and my_page.is_in_top_nav %}
+          {% assign item_class = '' %}
+          {% if page.url == my_page.url %}
+            {% assign item_class = ' active' %}
+          {% endif %}
+          <li class="nav-item{{ item_class }}">
+            <a class="nav-link" href="{{ my_page.url | relative_url }}" title="{{ my_page.title | escape }}">{{ my_page.title | escape }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+  </nav>
+
+  {% assign section_names = page.sections %}
+  {% if section_names %}
+    <nav class="subnav nav sticky-top" id="subnav">
+      {% for name in section_names %}
+        {% assign section = site.sections | where: "title", name | first %}
+        {% if section.is_in_subnav %}
+          <a class="nav-link" href="#{{ name | slugify }}">{{ name }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
+  {% endif %}
+
+</header>

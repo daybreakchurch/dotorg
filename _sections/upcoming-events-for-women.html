@@ -1,0 +1,14 @@
+---
+title: Upcoming Events for Men
+is_in_subnav: false
+---
+
+<section class="p-dyn-3-5">
+  {% assign events = site.events | where_exp: "event", "event.tags contains
+  'mens'" %}
+  {% unless events == empty %}
+    <h4 class="mb-4">{{ page.title }}</h4>
+    {% include _events_grid.html events=events %}
+  {% endunless %}
+</section>
+

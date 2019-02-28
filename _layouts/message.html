@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+<div class="mx-auto py-3" style="max-width: 960px;">
+  <div style="padding:56.25% 0 0 0;position:relative;">
+    <iframe src="https://player.vimeo.com/video/{{ page.vimeo_id
+      }}?color=5d9e49&portrait=0"
+      style="position:absolute;top:0;left:0;width:100%;height:100%;"
+      frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+    </iframe>
+  </div>
+  <script src="https://player.vimeo.com/api/player.js"></script>
+</div>
+
+<div class="p-dyn-3-5 bg-white">
+  <div class="text-block mx-auto">
+    <div class="d-flex align-items-end flex-wrap justify-content-between">
+      <div>
+        <div class="h7">{{ page.series }}</div>
+        <h1 class="mb-0">{{ page.title }}</h1>
+      </div>
+      <div>
+        <div class="h7">
+          {{ page.date | date: "%-m/%-d/%y" }}
+        </div>
+        <div class="mb-1">
+          <strong>{{ page.communicator }}</strong>
+        </div>
+      </div>
+    </div>
+
+    {% assign messages = site.messages | where: "series", page.series %}
+    {% assign series = site.series | where: "title", page.series | first %}
+    {% unless messages == empty or messages.size == 1 %}
+      <hr class="my-5">
+      <div class="h7 mb-3 text-center">All messages in the <a href="{{ series.url |
+      relative_url }}">{{ page.series }}</a> Series</div>
+        <table class="table">
+          <thead class="sr-only">
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Title</th>
+              <th scope="col">Date</th>
+              <th scope="col">Speaker</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for message in messages %}
+              <tr>
+                <td scope="row">{{ forloop.index }}</td>
+                <td>
+                  <a href="{{ message.url | relative_url }}">
+                    {{ message.title }}
+                  </a>
+                </td>
+                <td>
+                  {{ message.date | date: "%-m/%-d/%y" }}
+                </td>
+                <td>
+                  {{ message.communicator }}
+                </td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+    {% endunless %}
+
+  </div>
+</div>
+

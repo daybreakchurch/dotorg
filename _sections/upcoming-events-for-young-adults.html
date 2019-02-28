@@ -1,0 +1,15 @@
+---
+title: Upcoming Events for Young Adults
+date: 2018-08-20 06:38:00 -07:00
+is_in_subnav: false
+---
+
+<section class="p-dyn-3-5">
+  {% assign events = site.events | where_exp: "event", "event.tags contains
+  'young adults'" %}
+  {% unless events == empty %}
+    <h4 class="mb-4">{{ page.title }}</h4>
+    {% include _events_grid.html events=events %}
+  {% endunless %}
+</section>
+
