@@ -20,7 +20,7 @@ blocks:
   image: "/uploads/UTS_small.jpg"
   button_link: 
 - name: Lego Room
-  text: K - 3rd Grade
+  text: 'Kindergarten '
   image: "/uploads/lego-room_960.jpg"
   button_link: 
 - name: Kids Zone
