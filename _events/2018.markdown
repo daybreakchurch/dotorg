@@ -1,7 +1,0 @@
----
-title: '2018'
-date: 2018-08-31 16:46:00 -07:00
-published: false
-position: 1
----
-
