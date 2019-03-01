@@ -4,7 +4,7 @@ date: 2019-02-12 10:00:00 -08:00
 tags:
 - events
 - womens
-position: 5
+position: 4
 image: "/uploads/mommies-park_960.jpg"
 small_image: "/uploads/mommies-park_480.jpg"
 ---

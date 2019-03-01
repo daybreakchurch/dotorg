@@ -4,7 +4,7 @@ date: 2019-03-13 18:30:00 -07:00
 tags:
 - womens
 - events
-position: 7
+position: 6
 image: "/uploads/MomSix16_960.png"
 small_image: "/uploads/MomSix16_480.png"
 ---
