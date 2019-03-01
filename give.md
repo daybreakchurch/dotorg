@@ -15,6 +15,6 @@ We don't give because God needs our money, and we don't give because the church 
 
 At Daybreak there are multiples ways you can give to support your home church:
 
-1. Give online using the button below
-2. Text any dollar amount to 84321
-3. Using the offering envelopes during weekend services.
+* Give online using the button below;
+* Text any dollar amount to 84321;
+* Using the offering envelopes during weekend services.
