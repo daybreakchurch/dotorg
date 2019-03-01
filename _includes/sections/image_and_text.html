@@ -16,8 +16,9 @@
       <h3>{{ section.title }}</h3>
       <p>{{ section.content }}</p>
       {% if section.button_link %}
-        <a class="btn btn-primary" href="{{ section.button_link | relative_url
-          }}">{{ section.button_label | default: "Learn More" }}</a>
+        <a class="btn btn-primary" href="{{ section.button_link }}">
+          {{ section.button_label | default: "Learn More" }}
+        </a>
       {% endif %}
     </div>
   </div>
