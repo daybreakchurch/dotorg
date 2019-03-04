@@ -5,7 +5,7 @@ tags:
 - anchoredman
 - events
 - mens
-position: 0
+position: 2
 location: Daybreak Church
 image: "/uploads/Mancave-Madness_1920.jpg"
 small_image: "/uploads/Mancave-Madness_480.jpg"
