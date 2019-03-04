@@ -35,6 +35,7 @@ defaults:
     custom_dates: 
     location: 
     external_url: 
+    video_embed: 
     image: 
     small_image: 
     meta_text: 
