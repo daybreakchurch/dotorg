@@ -6,8 +6,10 @@ header_bg_image: "/uploads/daybreak-104%20(edited-Pixlr).jpg"
 meta_text: If you have any questions about giving, feel free to [contact us](/contact).
 primary_button:
   label: Give Online
-  link: https://daybreak.churchcenter.com/giving
+  link: https://daybreak.churchcenter.com/giving?open-in-church-center-modal=true
 ---
+
+<script src="https://js.churchcenter.com/modal/v1"></script>
 
 ###### Money and church can be a touchy issue - but it doesn't have to be.
 
