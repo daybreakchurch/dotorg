@@ -5,7 +5,7 @@ published: false
 tags:
 - events
 - womens
-position: 14
+position: 15
 custom_dates: February 22 - 24
 location: Murrieta, CA
 image: "/uploads/2019-womens-retreat_960.jpg"

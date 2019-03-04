@@ -4,7 +4,7 @@ date: 2019-03-29 18:30:00 -07:00
 tags:
 - events
 - kids
-position: 1
+position: 2
 image: "/uploads/Midnight-Bash.jpg"
 small_image: "/uploads/midnight-bash_480.jpg"
 primary_button:
