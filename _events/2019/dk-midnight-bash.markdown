@@ -5,6 +5,9 @@ tags:
 - events
 - kids
 position: 1
+video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/qu7D4uN6VxE"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 image: "/uploads/Midnight-Bash.jpg"
 small_image: "/uploads/midnight-bash_480.jpg"
 primary_button:
