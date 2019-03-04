@@ -12,7 +12,7 @@ image: "/uploads/Midnight-Bash.jpg"
 small_image: "/uploads/midnight-bash_480.jpg"
 primary_button:
   label: Register Here
-  link: https://daybreak.churchcenter.com/registrations/events/213185
+  link: https://daybreak.churchcenter.com/registrations/events/213185/session/new
 ---
 
 3RD – 5TH GRADES ONLY
