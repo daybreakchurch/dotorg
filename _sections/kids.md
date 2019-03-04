@@ -4,7 +4,7 @@ date: 2018-08-20 05:58:00 -07:00
 template: image_blocks
 blocks:
 - name: Nursery
-  text: Birth - 2 years
+  text: Birth - 12 months
   image: "/uploads/nursery_small.jpg"
   button_link: 
 - name: The Lodge
@@ -20,7 +20,7 @@ blocks:
   image: "/uploads/UTS_small.jpg"
   button_link: 
 - name: Lego Room
-  text: 'Kindergarten '
+  text: '4 years - Kindergarten '
   image: "/uploads/lego-room_960.jpg"
   button_link: 
 - name: Kids Zone
