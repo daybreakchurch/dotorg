@@ -36,6 +36,7 @@ defaults:
     location: 
     external_url: 
     video_embed: 
+    non_header_video_embed: 
     image: 
     small_image: 
     meta_text: 
@@ -67,6 +68,7 @@ defaults:
     layout: single_item
     is_in_top_nav: false
     video_embed: 
+    non_header_video_embed: 
     image: 
     header_bg_image: 
     header_bg_unsplash_id: 

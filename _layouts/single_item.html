@@ -28,11 +28,21 @@ layout: default
 
   <div class="p-dyn-3-5 bg-white">
     <div class="text-block mx-auto">
+      {% if page.non_header_video_embed %}
+        <div class="mx-auto py-3" style="max-width: 960px;">
+          <div class="embed-responsive embed-responsive-16by9 my-4">
+            {{ page.non_header_video_embed }}
+          </div>
+        </div>
+      {% endif %}
+
       {% unless page.header_bg_unsplash_id or page.header_bg_image %}
         <h1>{{ page.title }}</h1>
       {% endunless %}
       <div class="lead">{{ page.summary_text | markdownify }}</div>
+
       {{ content }}
+
       {% if page.meta_text or page.primary_button.label or page.seconday_buttons.first.label %}
         <hr>
       {% endif %}
