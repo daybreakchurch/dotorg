@@ -19,6 +19,6 @@ Imagine if you and your spouse stopped fighting about money. Imagine teaching yo
 
 During this life-changing class, you will learn how to take control of your money, stop struggling to make ends meet and change your family’s future. Proverbs 22:7 states that “...the borrower is slave to the lender.” Are you ready to take the first step? Join us for our next nine-week class.
 
-Classes meet at Daybreak on Monday evenings from 6:00–8:00p beginning September 24th. Childcare is available for ages 2-10 for a small fee.
+Classes meet at Daybreak on Monday evenings from 6:00–8:00p beginning September 24th.
 
 Please come to the first night for a free preview. After the first class, course kit is required to be purchased for this class and is available through the link below for $109, through the DaveRamsey.Com store for $129, or a few kits will be available on the first night of class for $109.
