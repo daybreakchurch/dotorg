@@ -17,7 +17,6 @@ blocks:
     MIXHS is our high school group, grades 9th-12th
     * Sundays at 7:00p
     * [Instagram](https://www.instagram.com/mixhs/)
-    * [MIXHS.com](http://mixhs.com)
 ---
 
 Every week, Daybreak students come together for high-energy, unpredictable and meaningful services. Whether you have a mid school or high school student, Daybreak is the place where they can meet friends, grow in faith, and learn how to make a difference.
