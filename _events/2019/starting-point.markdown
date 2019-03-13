@@ -4,7 +4,7 @@ date: 2019-01-27 10:00:00 -08:00
 tags:
 - group
 - classes
-position: 4
+position: 5
 image: "/uploads/Starting_point_960.jpg"
 small_image: "/uploads/Starting_point_480.jpg"
 primary_button:

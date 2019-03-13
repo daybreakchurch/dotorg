@@ -3,7 +3,7 @@ title: DivorceCare
 date: 2018-08-31 15:59:00 -07:00
 tags:
 - groups
-position: 9
+position: 10
 image: "/uploads/DivorceCare_960.jpg"
 small_image: "/uploads/DivorceCare_480.jpg"
 primary_button:
