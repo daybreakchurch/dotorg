@@ -1,9 +1,9 @@
 ---
-title: Nigh School All Nighter
+title: High School All Nighter
 date: 2019-03-13 14:03:00 -07:00
 tags:
-- high school
-- event
+- events
+- students
 position: 3
 custom_dates: Friday, April 12 - Saturday, April 13
 location: Daybreak Church
