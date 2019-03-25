@@ -5,7 +5,7 @@ published: false
 tags:
 - classes
 - mens
-position: 14
+position: 15
 image: "/uploads/Anchoredman-Bootcamp_960.jpg"
 small_image: "/uploads/Anchoredman-Bootcamp_480.jpg"
 primary_button:
