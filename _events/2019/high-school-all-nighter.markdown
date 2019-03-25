@@ -4,7 +4,7 @@ date: 2019-04-12 19:30:00 -07:00
 tags:
 - events
 - students
-position: 3
+position: 4
 custom_dates: Friday, April 12 - Saturday, April 13
 location: Daybreak Church
 image: "/uploads/hs-all-nighter_2019.jpg"
