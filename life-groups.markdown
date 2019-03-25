@@ -1,6 +1,5 @@
 ---
 title: Life Groups
-date: 2018-09-03 14:45:00 -07:00
 image: "/uploads/Life-Groups_960-9224bc.jpg"
 primary_button:
   label: Click Here
