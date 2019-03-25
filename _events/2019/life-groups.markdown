@@ -4,7 +4,7 @@ date: 2019-03-31 07:29:00 -07:00
 tags:
 - group
 - classes
-position: 12
+position: 11
 image: "/uploads/Life-Groups_960.jpg"
 small_image: "/uploads/Life-Groups_480.jpg"
 primary_button:
