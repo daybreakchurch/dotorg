@@ -3,7 +3,7 @@ title: Financial Peace University
 date: 2018-09-24 18:00:00 -07:00
 tags:
 - classes
-position: 6
+position: 7
 image: "/uploads/Financial-Peace-University_960.jpg"
 small_image: "/uploads/Financial-Peace-University_480.jpg"
 meta_text: For more information, contact Eric or Theresa at 760.943.7780 or email
