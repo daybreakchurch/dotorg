@@ -5,7 +5,7 @@ published: false
 tags:
 - classes
 - mens
-position: 15
+position: 6
 custom_dates: May 8 - Jun 5, 2019
 image: "/uploads/Anchoredman-Bootcamp_960.jpg"
 small_image: "/uploads/Anchoredman-Bootcamp_480.jpg"
