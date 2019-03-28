@@ -1,7 +1,6 @@
 ---
 title: Anchoredman Boot Camp
 date: 2019-05-08 16:00:00 -07:00
-published: false
 tags:
 - classes
 - mens
