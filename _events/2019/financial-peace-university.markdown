@@ -1,5 +1,6 @@
 ---
 title: Financial Peace University
+published: false
 tags:
 - classes
 position: 9
