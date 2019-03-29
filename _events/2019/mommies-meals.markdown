@@ -3,7 +3,6 @@ title: Mommies Meals
 date: 2019-03-31 12:44:00 -07:00
 tags:
 - womens
-- groups
 position: 15
 image: "/uploads/mommies-meals_1920.jpg"
 small_image: "/uploads/mommies-meals_480.jpg"
