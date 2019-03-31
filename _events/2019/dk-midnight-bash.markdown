@@ -1,6 +1,7 @@
 ---
 title: dK Midnight Bash
 date: 2019-03-29 18:30:00 -07:00
+published: false
 tags:
 - events
 - kids
