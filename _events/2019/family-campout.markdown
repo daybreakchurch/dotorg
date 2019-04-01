@@ -1,7 +1,7 @@
 ---
 title: Family Campout
 date: 2019-05-03 08:57:00 -07:00
-position: 1
+position: 3
 custom_dates: May 3-5
 image: "/uploads/family-campout_1920.jpg"
 small_image: "/uploads/family-campout_480.jpg"
