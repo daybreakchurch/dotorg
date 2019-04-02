@@ -4,7 +4,7 @@ date: 2019-01-20 12:45:00 -08:00
 published: false
 tags:
 - events
-position: 18
+position: 19
 image: "/uploads/Pastor's-Chat_960.jpg"
 small_image: "/uploads/Pastor's-Chat_480.jpg"
 primary_button:

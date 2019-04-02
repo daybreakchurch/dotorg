@@ -3,6 +3,7 @@ title: Easter at Daybreak
 date: 2019-04-21 08:30:00 -07:00
 tags:
 - events
+position: 0
 custom_dates: Friday, April 19 - Sunday, April 21
 image: "/uploads/good-friday-easter_1920.jpg"
 small_image: "/uploads/good-friday-easter_480.jpg"

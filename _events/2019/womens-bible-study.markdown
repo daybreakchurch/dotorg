@@ -4,7 +4,7 @@ date: 2019-03-14 09:00:00 -07:00
 tags:
 - womens
 - classes
-position: 4
+position: 5
 custom_dates: March 14 - April 25
 image: "/uploads/WBS_spring_1920.jpg"
 small_image: "/uploads/WBS_spring_480.jpg"
