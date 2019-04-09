@@ -4,13 +4,20 @@ date: 2019-05-05 12:45:00 -07:00
 tags:
 - events
 position: 4
-image: "/uploads/Pastor's-Chat_960.jpg"
+image: "/uploads/Pastor's-Chat_1920.jpg"
 small_image: "/uploads/Pastor's-Chat_480.jpg"
 primary_button:
   label: Register Here
   link: https://daybreak.churchcenter.com/registrations/events/230062
 ---
 
-Are you new to Daybreak? Would you like to learn more about our church? We'd like to invite you to an informal luncheon with Pastor Jason. Childcare and lunch will be provided.
+Are you new to Daybreak? Would you like to learn more about our church?
 
-For questions, please contact <laura@daybreakchurch.org>
+Pastor’s Chat is an informal lunch where you’ll get to meet and interact with Pastor Jason, some of our staff and other people that are new to Daybreak, just like you. It’s a great first step in getting connected. Childcare and lunch will be provided.
+
+For questions, please contact:
+
+Laura Berg
+Connections Pastor
+760-931-7773 x15
+[lauraberg@daybreakchurch.org](lauraberg@daybreakchurch.org)
