@@ -5,7 +5,7 @@ tags:
 - kids
 - events
 position: 4
-video_embed: https://www.youtube.com/playlist?list=PLEmkzyaAYUPGEdOY_5YlFoaFJMH0AyV4E
+non_header_video_embed: https://www.youtube.com/playlist?list=PLEmkzyaAYUPGEdOY_5YlFoaFJMH0AyV4E
 image: "/uploads/dk-worship_1920.jpg"
 small_image: "/uploads/dk-worship_480.jpg"
 ---
