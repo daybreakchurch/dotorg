@@ -4,7 +4,8 @@
       <a href="{{ event.external_url | default: event.url | relative_url }}">
         {% assign img = event.small_image | default: event.image | relative_url %}
         <div class="border-slight bg-16x9 rounded" style="background-image:
-          url('{{ img | cgi_escape | replace: '%2F', '/' }}')"></div>
+        url('{{ img | default: "" | cgi_escape | replace: '%2F', '/' }}')">
+        </div>
       </a>
       <p class="h5 small m-1">{{ event.title }}</p>
     </div>
