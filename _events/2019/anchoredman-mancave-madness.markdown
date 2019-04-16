@@ -1,6 +1,7 @@
 ---
 title: Anchoredman Mancave Madness
 date: 2019-04-08 18:00:00 -07:00
+published: false
 tags:
 - anchoredman
 - events
