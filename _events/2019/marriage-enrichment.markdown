@@ -3,7 +3,7 @@ title: Marriage Enrichment
 date: 2019-04-23 19:00:00 -07:00
 tags:
 - classes
-position: 7
+position: 6
 custom_dates: April 23 - May 28
 image: "/uploads/marriage_960.jpg"
 small_image: "/uploads/marriage_480.jpg"

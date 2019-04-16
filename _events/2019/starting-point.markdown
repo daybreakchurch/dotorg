@@ -4,7 +4,7 @@ date: 2019-04-28 10:00:00 -07:00
 tags:
 - group
 - classes
-position: 9
+position: 8
 custom_dates: April 28 - June 16
 image: "/uploads/Starting_point_960.jpg"
 small_image: "/uploads/Starting_point_480.jpg"

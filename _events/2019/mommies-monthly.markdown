@@ -5,7 +5,7 @@ tags:
 - events
 - womens
 - group
-position: 4
+position: 3
 image: "/uploads/mommies-monthly._960jpg"
 small_image: "/uploads/mommies-monthly_480.jpg"
 ---

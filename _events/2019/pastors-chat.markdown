@@ -3,7 +3,7 @@ title: Pastor's Chat
 date: 2019-05-05 12:45:00 -07:00
 tags:
 - events
-position: 3
+position: 2
 image: "/uploads/Pastor's-Chat_1920.jpg"
 small_image: "/uploads/Pastor's-Chat_480.jpg"
 primary_button:
