@@ -1,6 +1,7 @@
 ---
 title: High School All Nighter
 date: 2019-04-12 19:30:00 -07:00
+published: false
 tags:
 - events
 - students
