@@ -3,7 +3,7 @@ title: DivorceCare
 date: 2019-04-09 18:30:00 -07:00
 tags:
 - groups
-position: 11
+position: 10
 custom_dates: February 5 - May 7, 2019
 image: "/uploads/DivorceCare_960.jpg"
 small_image: "/uploads/DivorceCare_480.jpg"
