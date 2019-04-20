@@ -4,19 +4,10 @@ date: 2019-04-21 08:30:00 -07:00
 tags:
 - events
 position: 0
-custom_dates: Friday, April 19 - Sunday, April 21
+custom_dates: Sunday, April 21
 image: "/uploads/good-friday-easter_1920.jpg"
 small_image: "/uploads/good-friday-easter_480.jpg"
 ---
-
-#### Good Friday
-
-###### Friday, April 19, 6:30p (childcare available ages birth-Pre-K)
-
-Come and experience the Easter season at Daybreak. The weekend starts with our Good Friday service, we will worship, take communion and reflect on the sacrifice that Jesus made for us. Childcare available from ages birth-Pre-K.
-
-_______
-
 
 #### Easter Sunday
 
