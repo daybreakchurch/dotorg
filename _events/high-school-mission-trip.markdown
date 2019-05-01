@@ -4,6 +4,7 @@ date: 2019-05-01 14:26:00 -07:00
 tags:
 - students
 - events
+position: 1
 image: "/uploads/smission-trip-1920.jpg"
 small_image: "/uploads/smission-trip_480.jpg"
 primary_button:
