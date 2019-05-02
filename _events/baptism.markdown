@@ -3,6 +3,7 @@ title: Baptism Sunday
 date: 2019-06-02 08:30:00 -07:00
 tags:
 - events
+position: 1
 image: "/uploads/Baptism-Sunday_1920.jpg"
 small_image: "/uploads/Baptism-Sunday_480.jpg"
 primary_button:
