@@ -3,7 +3,7 @@ title: Financial Peace University
 published: false
 tags:
 - classes
-position: 20
+position: 21
 custom_dates: January 27 - March 24, 2019
 image: "/uploads/Financial-Peace-University_960.jpg"
 small_image: "/uploads/Financial-Peace-University_480.jpg"
