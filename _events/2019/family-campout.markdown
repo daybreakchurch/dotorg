@@ -1,6 +1,7 @@
 ---
 title: Family Campout
 date: 2019-05-03 08:57:00 -07:00
+published: false
 tags:
 - events
 position: 6
