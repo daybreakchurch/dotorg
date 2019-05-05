@@ -5,7 +5,7 @@ published: false
 tags:
 - womens
 - classes
-position: 11
+position: 12
 custom_dates: March 14 - April 25
 image: "/uploads/WBS_spring_1920.jpg"
 small_image: "/uploads/WBS_spring_480.jpg"
