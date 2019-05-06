@@ -9,7 +9,7 @@ blocks:
   button_link: 
 - name: The Lodge
   text: 1 year
-  image: "/uploads/lodge_small.jpg"
+  image: "/uploads/LODGE_480.png"
   button_link: 
 - name: Keiki Beach
   text: 2 years
