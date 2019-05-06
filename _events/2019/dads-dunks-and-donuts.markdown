@@ -5,8 +5,8 @@ tags:
 - events
 - anchoredman
 position: 3
-image: "/uploads/Dads-Dunks-Donuts_1920.jpg"
-small_image: "/uploads/Dads-Dunks-Donuts_480.jpg"
+image: "/uploads/Dads-Dunks-Donuts_1920-a4ac7d.jpg"
+small_image: "/uploads/Dads-Dunks-Donuts_480-7a8814.jpg"
 ---
 
 This is a can’t miss, free event for the entire family, celebrating Dad on Father’s Day weekend! Come to Daybreak from 9:00-11:00a (or anytime in between) for donuts (over 1,000 to choose from!), jump houses, an inflatable obstacle course, rock wall, face painting and best of all, the opportunity to be dunked or dunk a fellow Dad in ice-cold water. 
