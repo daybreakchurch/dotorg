@@ -1,6 +1,7 @@
 ---
 title: Pastor's Chat
 date: 2019-05-05 12:45:00 -07:00
+published: false
 tags:
 - events
 position: 1
