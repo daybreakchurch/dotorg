@@ -5,7 +5,7 @@ published: false
 tags:
 - group
 - classes
-position: 6
+position: 10
 custom_dates: April 28 - June 16
 image: "/uploads/Starting_point_960.jpg"
 small_image: "/uploads/Starting_point_480.jpg"

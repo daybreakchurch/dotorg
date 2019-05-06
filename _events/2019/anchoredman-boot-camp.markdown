@@ -5,7 +5,7 @@ tags:
 - classes
 - mens
 - events
-position: 8
+position: 0
 custom_dates: May 8 - Jun 5, 2019
 image: "/uploads/Anchoredman-Bootcamp_960.jpg"
 small_image: "/uploads/Anchoredman-Bootcamp_480.jpg"
