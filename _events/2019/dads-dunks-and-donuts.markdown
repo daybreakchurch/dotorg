@@ -1,6 +1,9 @@
 ---
 title: Dads Dunks & Donuts
 date: 2019-06-16 09:00:00 -07:00
+tags:
+- events
+- anchoredman
 position: 3
 image: "/uploads/Dads-Dunks-Donuts_1920.jpg"
 small_image: "/uploads/Dads-Dunks-Donuts_480.jpg"
