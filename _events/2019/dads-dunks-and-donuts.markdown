@@ -1,6 +1,6 @@
 ---
 title: Dads Dunks & Donuts
-date: 2019-06-16 09:00:00 -07:00
+date: 2019-06-15 09:00:00 -07:00
 tags:
 - events
 - anchoredman
