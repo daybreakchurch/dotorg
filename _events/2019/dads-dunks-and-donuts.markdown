@@ -5,7 +5,7 @@ tags:
 - events
 - anchoredman
 - mens
-position: 3
+position: 1
 non_header_video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/dMPVde3DKN0"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
