@@ -4,7 +4,7 @@ date: 2019-07-11 18:30:00 -07:00
 tags:
 - womens
 - events
-position: 15
+position: 1
 image: "/uploads/Women's-Candle-Making-Worshop_1920.jpg"
 small_image: "/uploads/Women's-Candle-Making-Worshop_480.jpg"
 primary_button:
