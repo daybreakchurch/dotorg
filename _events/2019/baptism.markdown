@@ -3,7 +3,7 @@ title: Baptism Sunday
 date: 2019-06-02 08:30:00 -07:00
 tags:
 - events
-position: 0
+position: 1
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/gH1EbSIHGP4"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
