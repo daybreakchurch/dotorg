@@ -3,7 +3,7 @@ title: Life Groups
 date: 2018-08-25 18:01:00 -07:00
 template: image_and_text
 image: "/uploads/Life-Groups_960.jpg"
-button_link: https://daybreak.churchcenter.com/registrations/events/183103
+button_link: https://daybreak.churchcenter.com/registrations/events/260080
 is_reversed: true
 ---
 
