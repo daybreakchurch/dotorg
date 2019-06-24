@@ -4,7 +4,7 @@ date: 2019-04-23 19:00:00 -07:00
 published: false
 tags:
 - classes
-position: 11
+position: 10
 custom_dates: April 23 - May 28
 image: "/uploads/marriage_960.jpg"
 small_image: "/uploads/marriage_480.jpg"
