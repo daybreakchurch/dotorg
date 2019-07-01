@@ -4,7 +4,7 @@ date: 2019-07-16 18:00:00 -07:00
 tags:
 - events
 - kids
-position: 1
+position: 2
 location: 6133 Innovation Way Suite 102, Carlsbad
 image: "/uploads/dK-House-of-Air_1920.jpg"
 small_image: "/uploads/dK-House-of-Air_480.jpg"
