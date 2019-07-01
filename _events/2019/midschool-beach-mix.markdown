@@ -4,7 +4,7 @@ date: 2019-07-17 17:00:00 -07:00
 tags:
 - students
 - events
-position: 1
+position: 2
 custom_dates: July 17, 5:00-8:30p
 location: Moonlight Beach, 400 B St, Encinitas, CA 92024
 image: "/uploads/MixMid-Beach-Mix_1920.jpg"
