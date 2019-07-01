@@ -4,7 +4,7 @@ date: 2019-04-21 08:30:00 -07:00
 published: false
 tags:
 - events
-position: 17
+position: 18
 custom_dates: Sunday, April 21
 image: "/uploads/good-friday-easter_1920.jpg"
 small_image: "/uploads/good-friday-easter_480.jpg"
