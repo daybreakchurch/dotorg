@@ -1,6 +1,7 @@
 ---
 title: Baptism Sunday
 date: 2019-06-02 08:30:00 -07:00
+published: false
 tags:
 - events
 position: 4
