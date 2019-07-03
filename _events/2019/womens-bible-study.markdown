@@ -5,7 +5,7 @@ published: false
 tags:
 - womens
 - classes
-position: 16
+position: 17
 custom_dates: September 26-November 7
 image: "/uploads/WBS_spring_1920.jpg"
 small_image: "/uploads/WBS_spring_480.jpg"
