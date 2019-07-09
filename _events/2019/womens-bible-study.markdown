@@ -1,20 +1,19 @@
 ---
 title: Women's Bible Study
 date: 2019-09-26 09:00:00 -07:00
-published: false
 tags:
 - womens
 - classes
 position: 17
 custom_dates: September 26-November 7
-image: "/uploads/WBS_spring_1920.jpg"
-small_image: "/uploads/WBS_spring_480.jpg"
+image: "/uploads/Women's_armor_1920.jpg"
+small_image: "/uploads/Women's_armor_480.jpg"
 primary_button:
   label: AM Study
-  link: https://daybreak.churchcenter.com/registrations/events/207353
+  link: https://daybreak.churchcenter.com/registrations/events/265833
 seconday_buttons:
 - label: PM Study
-  link: https://daybreak.churchcenter.com/registrations/events/207354
+  link: https://daybreak.churchcenter.com/registrations/events/265834
 ---
 
 We welcome you into the perfect opportunity to stay connected to the very community that God has you in with this 7-week study. Join us as we learn God’s Word through Priscilla Shirer study Armor of God, more than merely a biblical description of the believer's inventory, it is an action plan for putting it on and developing a personalized strategy to secure victory. We will gather in small groups to encourage one another in this safe and very loving environment.
