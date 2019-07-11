@@ -4,6 +4,7 @@ date: 2019-08-06 08:45:00 -07:00
 tags:
 - students
 - events
+position: 4
 image: "/uploads/Aquatica_1920.jpg"
 small_image: "/uploads/Aquatica_480.jpg"
 primary_button:

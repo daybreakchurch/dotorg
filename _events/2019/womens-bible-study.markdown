@@ -4,7 +4,7 @@ date: 2019-09-26 09:00:00 -07:00
 tags:
 - womens
 - classes
-position: 17
+position: 18
 custom_dates: September 26-November 7
 image: "/uploads/Women's_armor_1920.jpg"
 small_image: "/uploads/Women's_armor_480.jpg"
