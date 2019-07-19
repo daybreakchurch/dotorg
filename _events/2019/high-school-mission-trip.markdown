@@ -1,6 +1,7 @@
 ---
 title: High School Mission Trip
 date: 2019-05-01 14:26:00 -07:00
+published: false
 tags:
 - students
 - events
