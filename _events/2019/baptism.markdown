@@ -4,6 +4,9 @@ date: 2019-09-08 15:00:00 -07:00
 tags:
 - events
 position: 4
+non_header_video_embed: <iframe width="1280" height="720" src="https://www.youtube.com/embed/s-ktGYgfMIs"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 image: "/uploads/beach-baptism_1920.jpg"
 small_image: "/uploads/Baptism_Sunday_480-8efc4d.jpg"
 primary_button:
