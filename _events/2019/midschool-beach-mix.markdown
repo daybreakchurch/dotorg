@@ -1,6 +1,7 @@
 ---
 title: MidSchool Beach Mix
 date: 2019-07-17 17:00:00 -07:00
+published: false
 tags:
 - students
 - events
