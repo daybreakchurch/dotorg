@@ -4,7 +4,7 @@ date: 2019-07-10 10:30:00 -07:00
 tags:
 - kids
 - events
-position: 3
+position: 2
 location: 4215 Harrison St, Carlsbad CA 92008
 image: "/uploads/35-lagoon-day_slide_1920.jpg"
 small_image: "/uploads/35-lagoon-day_slide_480.jpg"

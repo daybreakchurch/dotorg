@@ -5,7 +5,7 @@ published: false
 tags:
 - events
 - kids
-position: 2
+position: 1
 location: 6133 Innovation Way Suite 102, Carlsbad
 image: "/uploads/dK-House-of-Air_1920.jpg"
 small_image: "/uploads/dK-House-of-Air_480.jpg"

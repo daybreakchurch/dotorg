@@ -3,7 +3,7 @@ title: Beach Baptism
 date: 2019-09-08 15:00:00 -07:00
 tags:
 - events
-position: 5
+position: 4
 image: "/uploads/beach-baptism_1920.jpg"
 small_image: "/uploads/Baptism_Sunday_480-8efc4d.jpg"
 primary_button:
