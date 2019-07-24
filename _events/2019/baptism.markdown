@@ -5,9 +5,6 @@ published: false
 tags:
 - events
 position: 5
-video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/gH1EbSIHGP4"
-  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen></iframe>
 image: "/uploads/beach-baptism_1920.jpg"
 small_image: "/uploads/Baptism_Sunday_480-8efc4d.jpg"
 primary_button:
