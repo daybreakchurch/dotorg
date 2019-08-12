@@ -5,7 +5,7 @@ tags:
 - classes
 - mens
 - events
-position: 6
+position: 2
 image: "/uploads/Anchoredman-Bootcamp_960.jpg"
 small_image: "/uploads/Anchoredman-Bootcamp_480.jpg"
 ---
