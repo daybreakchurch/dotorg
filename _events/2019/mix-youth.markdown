@@ -1,6 +1,7 @@
 ---
 title: Mix Youth
 date: 2019-09-11 19:00:00 -07:00
+position: 0
 image: "/uploads/Mix-Youth_1920.jpg"
 small_image: "/uploads/Mix-Youth_480.jpg"
 primary_button:
