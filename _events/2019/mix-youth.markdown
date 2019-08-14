@@ -6,10 +6,10 @@ image: "/uploads/Mix-Youth_1920.jpg"
 small_image: "/uploads/Mix-Youth_480.jpg"
 primary_button:
   label: holla at your boy
-  link: shea@daybreakchurch.org
+  link: http://e-mailer.link/100073936395
 seconday_buttons:
 - label: holla at your boy
-  link: "[andy@daybreakchurch.org](andy@daybreakchurch.org)"
+  link: http://e-mailer.link/100073934104
 ---
 
 We are all about raising up a united generation of young believers and passionate about this generation becoming unified together and unified in Christ. We are dedicated to serving the next generation and reaching the youth and young adults of our city.
