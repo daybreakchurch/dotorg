@@ -2,6 +2,7 @@
 title: Mix Youth
 date: 2019-09-11 19:00:00 -07:00
 position: 0
+custom_dates: Wednesdays 7:00-9:00p
 image: "/uploads/Mix-Youth_1920.jpg"
 small_image: "/uploads/Mix-Youth_480.jpg"
 primary_button:
@@ -14,7 +15,7 @@ seconday_buttons:
 
 We are all about raising up a united generation of young believers and passionate about this generation becoming unified together and unified in Christ. We are dedicated to serving the next generation and reaching the youth and young adults of our city.
 
-MIX Youth - MixMid (Middle School) and MixHS (High School) meet every Wednesday night from 7:00-9:00p for unified worship followed by separate ministry time.
+Beginning September 11, MIX Youth - MixMid (Middle School) and MixHS (High School) will meet every Wednesday night from 7:00-9:00p for unified worship followed by separate ministry time.
 
 MixMid gathers Sundays mornings at the 8:30 and 11:30 services in the Loft.
 
