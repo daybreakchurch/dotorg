@@ -60,7 +60,8 @@ layout: default
         <a href="{{ url }}">
           <div class="bg-16x9 rounded border-slight mb-2"
             style="background-image: url({{ series.small_image | default:
-            series.image | relative_url }});"></div>
+            series.image | relative_url | cgi_escape | replace: '%2F', '/'
+            }});"></div>
         </a>
         <h5>{{ series.title }}</h5>
       </div>
