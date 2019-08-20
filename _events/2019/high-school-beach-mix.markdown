@@ -4,6 +4,7 @@ date: 2019-08-25 16:30:00 -07:00
 tags:
 - students
 - events
+position: 0
 location: Moonlight Beach
 image: "/uploads/HS-beach-mix_1920.jpg"
 small_image: "/uploads/HS-beach-mix_480.jpg"
