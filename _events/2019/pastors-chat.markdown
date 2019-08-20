@@ -1,6 +1,6 @@
 ---
 title: Pastor's Chat
-date: 2019-05-05 12:45:00 -07:00
+date: 2019-09-22 12:45:00 -07:00
 published: false
 tags:
 - events
@@ -9,7 +9,7 @@ image: "/uploads/Pastor's-Chat_1920.jpg"
 small_image: "/uploads/Pastor's-Chat_480.jpg"
 primary_button:
   label: Register Here
-  link: https://daybreak.churchcenter.com/registrations/events/230062
+  link: https://daybreak.churchcenter.com/registrations/events/276891
 ---
 
 Are you new to Daybreak? Would you like to learn more about our church?
