@@ -1,22 +1,21 @@
 ---
 title: DivorceCare
-date: 2019-04-09 18:30:00 -07:00
-published: false
+date: 2019-09-17 18:30:00 -07:00
 tags:
 - groups
 position: 18
-custom_dates: February 5 - May 7, 2019
+custom_dates: September 17 - December 10
 image: "/uploads/DivorceCare_960.jpg"
 small_image: "/uploads/DivorceCare_480.jpg"
 primary_button:
   label: REGISTER HERE
-  link: https://daybreak.churchcenter.com/registrations/events/183973
+  link: https://daybreak.churchcenter.com/registrations/events/275692
 ---
 
 Have you experienced the pain of a separation or divorce? Looking for help and healing? It’s a confusing time when you feel isolated and have lots of questions about issues you’ve never faced before. In this class, you’ll gain access to valuable resources to help you with the pain of the past and find hope for the future. Each session includes a video, group discussion and workbook/journaling exercises.
 
-The group will meet on Tuesday evenings from 6:30–8:15p for 13 weeks beginning February 5, 2019. There is a $25 fee for materials; no cost if you already have the workbook. You may join this group at anytime during the 13 weeks.
+The group will meet on Tuesday evenings from 6:30–8:15p for 13 weeks beginning September 17, 2019. There is a $25 fee for materials; no cost if you already have the workbook. You may join this group at anytime during the 13 weeks.
 
-Childcare is available for ages 2 yrs. through Pre-K for a small fee; save 25% by choosing the prepayment option. 
+Childcare is available for ages 2 - 10 years for a small fee. Save 25% by pre-paying childcare.
 
 For more information, contact Pastor Laura at 760.931.7773 x15.
