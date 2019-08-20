@@ -1,21 +1,20 @@
 ---
 title: Marriage Enrichment
-date: 2019-04-23 19:00:00 -07:00
+date: 2019-09-24 18:30:00 -07:00
 published: false
 tags:
 - classes
 position: 17
-custom_dates: April 23 - May 28
+custom_dates: September 24 - October 29
 image: "/uploads/marriage_960.jpg"
 small_image: "/uploads/marriage_480.jpg"
 primary_button:
   label: Register Here
-  link: https://daybreak.churchcenter.com/registrations/events/224010
+  link: https://daybreak.churchcenter.com/registrations/events/275716
 ---
 
-Marriage Enrichment: Cherish
-The One Word That Changes Everything for Your Marriage
+Whether you are just about to begin your marriage or have been working on yours for decades, this study will help you create a masterpiece of your relationship. Discover the primary purpose of marriage and understand the roles of husbands and wives. Learn to walk by the power of the Holy Spirit in marriage, to manage healthy conflict resolution and how couples can leave a godly legacy. The Art of Marriage: Getting to the Heart of God’s Design is an 6-week study consisting of a video teaching, small group discussions, mini-projects for completion during group meetings, date-night suggestions, articles, tips and more!
 
-Millions of couples getting married have pledged to “love and to cherish, until death do us part.” Most of us understand the love part but what does it mean to cherish our spouse? Learning to truly cherish each other turns marriage from an obligation into a delight. If you find yourself “going through the motions,” cherishing can breathe light, hope, and new life into a marriage – even one marred by neglect and disrespect.
+Join us at Daybreak Tuesday evenings 6:30-8:30p beginning September 24. Cost is $35/couple; childcare is available for ages 2-10 for a small fee. For more information, contact Melissa at 760.505.6186.
 
-Cherish is an 6-week study consisting of video teaching and small group discussion. Join us at Daybreak Tuesday evenings from 7:00-8:30p beginning April 23. Cost is $30/couple. Childcare is available for ages 2-10 yrs. for a small fee. For more information, contact Melissa at 760.505.6186.
+Save 25% when you Pre-Pay for childcare
