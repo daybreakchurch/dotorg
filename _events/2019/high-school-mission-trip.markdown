@@ -5,7 +5,7 @@ published: false
 tags:
 - students
 - events
-position: 9
+position: 10
 image: "/uploads/smission-trip-1920.jpg"
 small_image: "/uploads/smission-trip_480.jpg"
 primary_button:
