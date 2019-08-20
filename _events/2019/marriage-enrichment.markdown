@@ -1,7 +1,6 @@
 ---
 title: Marriage Enrichment
 date: 2019-09-24 18:30:00 -07:00
-published: false
 tags:
 - classes
 position: 17
