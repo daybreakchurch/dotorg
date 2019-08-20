@@ -5,7 +5,7 @@ tags:
 - womens
 - classes
 position: 5
-custom_dates: September 26-November 7
+custom_dates: September 26 - November 7
 image: "/uploads/Women's_armor_1920.jpg"
 small_image: "/uploads/Women's_armor_480.jpg"
 primary_button:
