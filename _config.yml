@@ -120,8 +120,8 @@ footer_nav:
   sub_links:
   - label: Upcoming Events
     link: "/events"
-  - label: Classes and Groups
-    link: "/events/#classes-and-groups"
+  - label: Groups
+    link: "/events/#groups"
 - label: Get Connected
   link: "/get-connected"
   sub_links:
