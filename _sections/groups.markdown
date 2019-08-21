@@ -1,5 +1,5 @@
 ---
-title: Classes and Groups
+title: Groups
 date: 2018-08-25 18:02:00 -07:00
 template: image_and_text
 image: "/uploads/classes-groups.jpg"
