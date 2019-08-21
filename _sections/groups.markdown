@@ -6,4 +6,4 @@ image: "/uploads/classes-groups.jpg"
 button_link: "/events/#classes-groups"
 ---
 
-Classes and groups designed to welcome you, build your faith, and help you grow.
+Groups are designed to welcome you, build your faith, and help you grow.
