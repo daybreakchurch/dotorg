@@ -7,7 +7,7 @@ sections:
 - Taking the Next Step
 - Life Groups
 - Men & Women
-- Classes and Groups
+- Groups
 - Prayer Requests
 - Contact Us
 layout: sections
