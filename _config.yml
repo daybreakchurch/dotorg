@@ -102,6 +102,8 @@ footer_nav:
     link: "/about/#our-beliefs"
   - label: Staff
     link: "/about/#staff"
+  - label: Jobs
+    link: "/about/#jobs"
   - label: Missions
     link: "/about/#missions"
   - label: Contact Us
