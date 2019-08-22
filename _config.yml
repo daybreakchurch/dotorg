@@ -100,10 +100,10 @@ footer_nav:
     link: "/new-to-daybreak"
   - label: Our Beliefs
     link: "/about/#our-beliefs"
+  - label: Staff
+    link: "/about/#staff"
   - label: Missions
     link: "/about/#missions"
-  - label: Our Staff
-    link: "/about/#our-staff"
   - label: Contact Us
     link: "/contact"
 - label: Kids & Students

@@ -7,7 +7,7 @@ header_bg_image: "/uploads/Christmas18.jpg"
 sections:
 - New to Daybreak?
 - Our Beliefs
-- Our Staff
+- Staff
 - Missions
 - Contact Us
 layout: sections
