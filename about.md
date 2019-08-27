@@ -8,6 +8,7 @@ sections:
 - New to Daybreak?
 - Our Beliefs
 - Staff
+- Jobs
 - Missions
 - Contact Us
 layout: sections
