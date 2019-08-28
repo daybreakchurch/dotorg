@@ -22,11 +22,6 @@ TO BE CONSIDERED: Please send the following to our Executive Pastor, Jason Giano
 * Social Media - Description of how to find you on social media
 * Link to a Video - No longer than 90 seconds, in which you share why you are passionate about the development and discipleship of the next generation of Christian leaders
 
-Categories: Other - Young Adult Pastor
-Denominations: Non-Denominational
-Church Size: 2501 to 3000
-Job Type: Full-Time
-
 
 #### Production Director
 
