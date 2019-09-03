@@ -3,7 +3,7 @@ title: Life Groups
 image: "/uploads/Life-Groups_960-9224bc.jpg"
 primary_button:
   label: Click Here
-  link: https://daybreak.churchcenter.com/registrations/events/260080
+  link: https://daybreak.churchcenter.com/groups/life-groups
 ---
 
 We believe in the value of community. Spiritual growth hinges upon a believer being connected to both God and his/her family while in community.
