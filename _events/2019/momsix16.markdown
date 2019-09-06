@@ -5,7 +5,7 @@ published: false
 tags:
 - womens
 - events
-position: 26
+position: 27
 image: "/uploads/MomSix16_960.png"
 small_image: "/uploads/MomSix16_480.png"
 ---
