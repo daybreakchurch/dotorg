@@ -3,7 +3,7 @@ title: Marriage Enrichment
 date: 2019-09-24 18:30:00 -07:00
 tags:
 - classes
-position: 18
+position: 16
 custom_dates: September 24 - October 29
 image: "/uploads/marriage_960.jpg"
 small_image: "/uploads/marriage_480.jpg"
