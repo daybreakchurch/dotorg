@@ -8,14 +8,14 @@ blocks:
   image: "/uploads/mixmid_slide.jpg"
   text: |-
     MIXMID is our middle school group, grades 6th-8th
-    * Wednesdays at 6:30p
+    * Wednesdays at 7:00p
     * Sundays at 8:30 & 11:30a
     * [Instagram](https://www.instagram.com/mixmid/)
 - name: Mix High School
   image: "/uploads/mixhs_slide.jpg"
   text: |-
     MIXHS is our high school group, grades 9th-12th
-    * Sundays at 7:00p
+    * Wednesdays at 7:00p
     * [Instagram](https://www.instagram.com/mixhs/)
 ---
 
