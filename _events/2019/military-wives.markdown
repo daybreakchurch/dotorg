@@ -16,5 +16,13 @@ Join us at Daybreak every month from 6:00-8:00p for a delicious meal (no charge)
 * October 21
 * November 18
 * December 9
+* January 20
+* February 17
+* March 16
+* April 20
+* May 18
+* June 15
+* July 20
+* August 17
 
 For more information, please email [militarywives@daybreakchurch.org](militarywives@daybreakchurch.org).
