@@ -6,7 +6,7 @@ tags:
 - group
 - events
 position: 11
-image: "/uploads/Military-Wives_1920.jpg"
+image: "/uploads/Military-Wives_960.jpg"
 small_image: "/uploads/Military-Wives_480.jpg"
 ---
 
@@ -16,13 +16,11 @@ Join us at Daybreak every month from 6:00-8:00p for a delicious meal (no charge)
 * October 21
 * November 18
 * December 9
-* January 20
-* February 17
+* January 13
+* February 10
 * March 16
 * April 20
 * May 18
-* June 15
-* July 20
-* August 17
+
 
 For more information, please email [militarywives@daybreakchurch.org](militarywives@daybreakchurch.org).
