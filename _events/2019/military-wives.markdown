@@ -6,7 +6,7 @@ tags:
 - group
 - events
 position: 11
-image: "/uploads/Military-Wives_960.jpg"
+image: "/uploads/Military-Wives_1920.jpg"
 small_image: "/uploads/Military-Wives_480.jpg"
 ---
 
