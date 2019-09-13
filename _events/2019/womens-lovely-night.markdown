@@ -5,7 +5,7 @@ tags:
 - events
 - womens
 position: 1
-video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/vEuCKih6cy0"
+non_header_video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/vEuCKih6cy0"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
 image: "/uploads/Women's_Lovely-Night_1920.jpg"
