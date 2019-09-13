@@ -6,8 +6,8 @@ tags:
 - classes
 position: 6
 custom_dates: September 26 - November 7
-image: "/uploads/Women's_armor_1920.jpg"
-small_image: "/uploads/Women's_armor_480.jpg"
+image: "/uploads/Women's-Bible-Study_1920.png"
+small_image: "/uploads/Women's-Bible-Study_480.png"
 primary_button:
   label: AM Study
   link: https://daybreak.churchcenter.com/registrations/events/265833
