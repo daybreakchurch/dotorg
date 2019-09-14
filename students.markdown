@@ -1,6 +1,7 @@
 ---
 title: Students
-date: 2019-09-09 17:05:00 -07:00
+position: 4
+is_in_top_nav: true
 layout: sections
 header_bg_image: /uploads/a.jpeg
 sections:

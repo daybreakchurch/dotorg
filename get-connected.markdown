@@ -1,6 +1,6 @@
 ---
 title: Get Connected
-position: 5
+position: 6
 is_in_top_nav: true
 header_bg_image: "/uploads/get-connected_2.jpg"
 sections:

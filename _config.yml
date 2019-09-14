@@ -108,15 +108,10 @@ footer_nav:
     link: "/about/#missions"
   - label: Contact Us
     link: "/contact"
-- label: Kids & Students
-  link: "/kids-and-students"
-  sub_links:
-  - label: Kids
-    link: "/kids-and-students/#kids"
-  - label: Students
-    link: "/kids-and-students/#students"
-  - label: Young Adults
-    link: "/kids-and-students/#young-adults"
+- label: Kids
+  link: "/kids"
+- label: Students
+  link: "/students"
 - label: Events
   link: "/events"
   sub_links:
