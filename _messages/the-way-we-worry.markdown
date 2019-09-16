@@ -1,6 +1,7 @@
 ---
 title: The Way We Worry
 date: 2019-09-15 10:00:00 -07:00
+position: 0
 series: The Way We Worry
 communicator: Pastor John Huffman
 ---
