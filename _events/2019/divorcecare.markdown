@@ -16,6 +16,6 @@ Have you experienced the pain of a separation or divorce? Looking for help and h
 
 The group will meet on Tuesday evenings from 6:30–8:15p for 13 weeks beginning September 17, 2019. There is a $25 fee for materials; no cost if you already have the workbook. You may join this group at anytime during the 13 weeks.
 
-Childcare is available for ages 2 - 10 years for a small fee. Save 25% by pre-paying childcare.
+Childcare is available for ages 2 - 10 years for a small fee.
 
 For more information, contact Pastor Laura at 760.931.7773 x15.
