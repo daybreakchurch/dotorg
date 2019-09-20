@@ -173,6 +173,6 @@ service_times:
 - Sunday: 8:30, 10:00 & 11:30 am
 youth_service_times:
 - Birth - 5th Grade: Sunday  8:30, 10:00 & 11:30 am
-- 6th-8th Grade: Sunday 8:30 & 11:30 am
-- High School: Sunday  7:00 pm
+- 6th-8th Grade: Sunday 8:30 & 11:30 am  |  Wednesday  7:00 pm
+- High School: Wednesday  7:00 pm
 - Young Adults: Tuesday 7:30 pm
