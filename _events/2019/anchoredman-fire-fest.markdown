@@ -5,7 +5,7 @@ tags:
 - anchoredman
 - events
 - mens
-position: 2
+position: 1
 custom_dates: November 8-9  |  4:30pm - 9:30pm
 image: "/uploads/Fire-Fest_2019_1920.jpg"
 small_image: "/uploads/Fire-Fest_2019_480.jpg"
