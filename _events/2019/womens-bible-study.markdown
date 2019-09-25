@@ -20,4 +20,4 @@ We welcome you into the perfect opportunity to stay connected to the very commun
 
 You can choose to attend the morning group from 9:00-11:00a or the evening one from 6:30-8:30p; both are on Thursdays at Daybreak. Cost is $20; payment is required with registration.
 
-Childcare is available for ages birth thru Pre-K (morning) and ages 2-10 (evening) for a small fee. Save 25% by choosing the prepayment option.
+Childcare is available for ages birth thru Pre-K (morning) and ages 2-10 (evening) for a small fee. 
