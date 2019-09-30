@@ -3,14 +3,11 @@ title: Mix Youth
 date: 2019-09-11 19:00:00 -07:00
 position: 1
 custom_dates: Wednesdays 7:00-9:00p
+video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/YvyD70UaAi4"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 image: "/uploads/Mix-Youth_1920.jpg"
 small_image: "/uploads/Mix-Youth_480.jpg"
-primary_button:
-  label: holla at your boy
-  link: http://e-mailer.link/100073936395
-seconday_buttons:
-- label: holla at your boy
-  link: http://e-mailer.link/100073934104
 ---
 
 We are all about raising up a united generation of young believers and passionate about this generation becoming unified together and unified in Christ. We are dedicated to serving the next generation and reaching the youth and young adults of our city.
