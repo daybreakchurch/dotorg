@@ -4,6 +4,6 @@ date: 2019-04-02 14:38:00 -07:00
 position: 3
 job_title: 'Director of Operations '
 email: jeff@daybreakchurch.org
-image: "/uploads/DB%20Headshot-2.JPG"
+image: "/uploads/Headshots-20.jpg"
 ---
 
