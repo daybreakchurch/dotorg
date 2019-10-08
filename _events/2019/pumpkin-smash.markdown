@@ -1,6 +1,7 @@
 ---
 title: Pumpkin Smash
 date: 2019-10-30 19:00:00 -07:00
+position: 1
 image: "/uploads/2019-Pumpkin-Smash_website.jpg"
 small_image: "/uploads/2019-Pumpkin-Smash_website_480.jpg"
 ---
