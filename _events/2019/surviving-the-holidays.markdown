@@ -1,6 +1,7 @@
 ---
 title: Surviving the Holidays
 date: 2019-11-10 12:45:00 -08:00
+position: 9
 custom_dates: November 10, 12:45-2:15p
 image: "/uploads/Surviving-the-holidays_1920.jpg"
 small_image: "/uploads/Surviving-the-holidays_480.jpg"
