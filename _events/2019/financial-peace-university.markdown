@@ -3,7 +3,7 @@ title: Financial Peace University
 date: 2019-08-20 18:00:00 -07:00
 tags:
 - classes
-position: 10
+position: 9
 custom_dates: September 16 - November 18
 image: "/uploads/Financial-Peace-University_960.jpg"
 small_image: "/uploads/Financial-Peace-University_480.jpg"
