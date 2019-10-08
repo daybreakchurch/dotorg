@@ -1,6 +1,7 @@
 ---
 title: Pastor's Chat
 date: 2019-09-22 12:45:00 -07:00
+published: false
 tags:
 - events
 position: 19
