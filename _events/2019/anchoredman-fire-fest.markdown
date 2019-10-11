@@ -7,6 +7,9 @@ tags:
 - mens
 position: 0
 custom_dates: November 8-9  |  4:30pm - 9:30pm
+non_header_video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/6kMdLlrgygo"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 image: "/uploads/Fire-Fest_2019_1920.jpg"
 small_image: "/uploads/Fire-Fest_2019_480.jpg"
 primary_button:
