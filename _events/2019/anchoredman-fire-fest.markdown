@@ -10,11 +10,11 @@ custom_dates: November 8-9  |  4:30pm - 9:30pm
 non_header_video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/6kMdLlrgygo"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
-image: "/uploads/Fire-Fest_2019_1920.jpg"
-small_image: "/uploads/Fire-Fest_2019_480.jpg"
+image: "/uploads/2019-Fire-Fest_1920.jpg"
+small_image: "/uploads/2019-Fire-Fest_480.jpg"
 primary_button:
   label: Register Here
   link: https://daybreak.churchcenter.com/registrations/events/289701
 ---
 
-Anchoredman Fire Fest is a two-day, fun-filled event designed to ignite a greater passion for God and new power to lead within you. Your registration gets you access to the main sessions, gourmet food trucks, great music featuring Cash’d Out – Johnny Cash Tribute Band, So-Cal Pro Wrestling, lots of new Anchoredman swag, and a few surprises. Plus, it’s right here at Daybreak, so you get to sleep in your own bed - it’s a win, win! Early bird price is $89 through October 15, $119 thereafter.
+Anchoredman Fire Fest is a two-day, fun-filled event designed to ignite a greater passion for God and new power to lead within you. Your registration gets you access to the main sessions, food trucks, live music from Cash’d Out and Mainsail, live pro wrestling matches, giveaways, lots of swag, and a few surprises. Plus, it’s right here at Daybreak, so you get to sleep in your own bed - it’s a win, win! Ages 16 and up welcome to register.
