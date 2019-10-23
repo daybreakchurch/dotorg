@@ -1,6 +1,6 @@
 ---
 title: Moms at the Park
-date: 2019-10-22 10:00:00 -07:00
+date: 2019-11-12 10:00:00 -08:00
 tags:
 - events
 - womens
@@ -11,9 +11,8 @@ small_image: "/uploads/Moms-at-the-Park_480.jpg"
 
 Being a mom of young kids is amazing, but it can also leave you feeling isolated. This group offers a place for you to find fellowship, support and build friendships with other moms (grandmothers and nannies are welcome!) as we meet at various parks in the community. For more information, please contact Rachel at 949.701.9771 or <mommiesatthepark@daybreakchurch.org>.  Our park meet-up days are on two Tuesdays each month at 10:00a.
 
-* October 22 Poinsettia
 * November 12 La Costa Canyon
-* November 10 Hidden Canyon
+* December 10 Hidden Canyon
 * January 14 Aviara
 * January 28 Poinsettia
 * February 11 La Costa Canyon
@@ -22,7 +21,7 @@ Being a mom of young kids is amazing, but it can also leave you feeling isolated
 * March 24 Poinsettia
 * April 14 La Costa Canyon
 * April 28 Hidden Canyon
-* December 12 Aviara
+* May 12 Aviara
 
 Aviara APark
 6435 Ambrosia Ln, Carlsbad, CA 92011
