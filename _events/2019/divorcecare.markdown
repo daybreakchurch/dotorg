@@ -3,7 +3,7 @@ title: DivorceCare
 date: 2019-09-17 18:30:00 -07:00
 tags:
 - groups
-position: 11
+position: 12
 custom_dates: September 17 - December 10
 image: "/uploads/DivorceCare_960.jpg"
 small_image: "/uploads/DivorceCare_480.jpg"
