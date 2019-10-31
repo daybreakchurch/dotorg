@@ -4,7 +4,7 @@ date: 2019-09-26 09:00:00 -07:00
 tags:
 - womens
 - classes
-position: 4
+position: 5
 custom_dates: September 26 - November 7
 image: "/uploads/Women's-Bible-Study_1920.png"
 small_image: "/uploads/Women's-Bible-Study_480.png"
