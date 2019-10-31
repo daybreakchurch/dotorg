@@ -3,7 +3,7 @@ title: PHIL WICKHAM | SHANE & SHANE Christmas Concert
 date: 2019-12-13 18:00:00 -08:00
 tags:
 - events
-position: 3
+position: 1
 image: "/uploads/PhilWickham_1920.jpg"
 small_image: "/uploads/PhilWickham_480.jpg"
 primary_button:
