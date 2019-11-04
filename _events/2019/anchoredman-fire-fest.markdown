@@ -18,3 +18,19 @@ primary_button:
 ---
 
 Anchoredman Fire Fest is a two-day, fun-filled event designed to ignite a greater passion for God and new power to lead within you. Your registration gets you access to the main sessions, food trucks, live music from Cash’d Out and Mainsail, live pro wrestling matches, giveaways, lots of swag, and a few surprises. Plus, it’s right here at Daybreak, so you get to sleep in your own bed - it’s a win, win! Ages 16 and up welcome to register.
+
+______
+
+#### Schedule:
+Friday Night
+5:00-7:30 – Dinner/Festival
+7:30-9:00 – Main Session
+Saturday Morning
+8:30-9:00 – Breakfast
+9:00-9:30 – Worship
+9:45-11:00 – Workshops
+11:15 -11:30 – Activities Rally
+11:30-5:00 – Lunch/Afternoon Activities
+Saturday Night
+5:00-7:30– Fiesta Del Fuego/Pro Wrestling 
+7:30-9:00 – Main Session
