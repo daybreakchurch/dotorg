@@ -25,12 +25,14 @@ ______
 Friday Night
 5:00-7:30 – Dinner/Festival
 7:30-9:00 – Main Session
+
 Saturday Morning
 8:30-9:00 – Breakfast
 9:00-9:30 – Worship
 9:45-11:00 – Workshops
 11:15 -11:30 – Activities Rally
 11:30-5:00 – Lunch/Afternoon Activities
+
 Saturday Night
 5:00-7:30– Fiesta Del Fuego/Pro Wrestling 
 7:30-9:00 – Main Session
