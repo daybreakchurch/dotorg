@@ -1,6 +1,7 @@
 ---
 title: Anchoredman Fire Fest
 date: 2019-11-08 16:30:00 -08:00
+published: false
 tags:
 - anchoredman
 - events
