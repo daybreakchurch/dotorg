@@ -4,7 +4,7 @@ date: 2019-11-12 10:00:00 -08:00
 tags:
 - events
 - womens
-position: 9
+position: 8
 image: "/uploads/Moms-at-the-Park_1920.jpg"
 small_image: "/uploads/Moms-at-the-Park_480.jpg"
 ---
