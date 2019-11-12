@@ -4,7 +4,7 @@ date: 2019-09-15 10:00:00 -07:00
 tags:
 - group
 - classes
-position: 20
+position: 21
 custom_dates: September 15 - November 3
 image: "/uploads/Starting_point_960.jpg"
 small_image: "/uploads/Starting_point_480.jpg"

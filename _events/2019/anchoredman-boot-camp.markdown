@@ -6,7 +6,7 @@ tags:
 - classes
 - mens
 - events
-position: 7
+position: 8
 custom_dates: September 18 - October 16
 image: "/uploads/Anchoredman-Bootcamp_960.jpg"
 small_image: "/uploads/Anchoredman-Bootcamp_480.jpg"

@@ -5,7 +5,7 @@ published: false
 tags:
 - kids
 - events
-position: 24
+position: 25
 custom_dates: "----"
 non_header_video_embed: <iframe width="1280" height="720" src="https://www.youtube.com/embed/videoseries?list=PLEmkzyaAYUPGEdOY_5YlFoaFJMH0AyV4E"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
