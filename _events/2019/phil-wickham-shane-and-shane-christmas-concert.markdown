@@ -1,5 +1,5 @@
 ---
-title: PHIL WICKHAM | SHANE & SHANE Christmas Concert
+title: "{SOLD OUT} PHIL WICKHAM | SHANE & SHANE Christmas Concert"
 date: 2019-12-13 18:00:00 -08:00
 tags:
 - events
