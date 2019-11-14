@@ -1,23 +1,27 @@
 ---
 title: Women's Bible Study
-date: 2019-09-26 09:00:00 -07:00
+date: 2019-01-16 09:00:00 -08:00
 tags:
 - womens
 - classes
 position: 7
-custom_dates: September 26 - November 14
-image: "/uploads/Women's-Bible-Study_1920.png"
-small_image: "/uploads/Women's-Bible-Study_480.png"
+custom_dates: January 16 - February 27, 2020
+image: "/uploads/Women's-Bible-Study_20-20_1920.png"
+small_image: "/uploads/Women's-Bible-Study_20-20_480.png"
 primary_button:
   label: AM Study
-  link: https://daybreak.churchcenter.com/registrations/events/265833
+  link: https://daybreak.churchcenter.com/registrations/events/324458
 seconday_buttons:
 - label: PM Study
-  link: https://daybreak.churchcenter.com/registrations/events/265834
+  link: https://daybreak.churchcenter.com/registrations/events/324462
 ---
 
-We welcome you into the perfect opportunity to stay connected to the very community that God has you in with this 7-week study. Join us as we learn God’s Word through Priscilla Shirer study Armor of God, more than merely a biblical description of the believer's inventory, it is an action plan for putting it on and developing a personalized strategy to secure victory. We will gather in small groups to encourage one another in this safe and very loving environment.
+Develop a New Understanding of How God Sees You.
+
+Christine Caine is passionate about seeing every woman equipped to live her life on mission for Jesus. In this 7-session study, you’ll develop a new understanding of how God sees you and has chosen you to help make Jesus’ name known on this planet. Through biblical teaching and lessons from her own life, Christine will challenge you to share the story of how God’s love has transformed your life right where you are.
 
 You can choose to attend the morning group from 9:00-11:00a or the evening one from 6:30-8:30p; both are on Thursdays at Daybreak. Cost is $20; payment is required with registration.
 
-Childcare is available for ages birth thru Pre-K (morning) and ages 2-10 (evening) for a small fee. 
+Childcare is available for ages birth thru Pre-K (morning) and ages 2-10 (evening) for a small fee.
+
+Save 25% on childcare when you select Bible Study plus Pre-paid childcare.
