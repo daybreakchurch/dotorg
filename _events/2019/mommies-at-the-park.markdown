@@ -1,6 +1,6 @@
 ---
 title: Moms at the Park
-date: 2019-11-12 10:00:00 -08:00
+date: 2019-12-10 10:00:00 -08:00
 tags:
 - events
 - womens
@@ -11,7 +11,6 @@ small_image: "/uploads/Moms-at-the-Park_480.jpg"
 
 Being a mom of young kids is amazing, but it can also leave you feeling isolated. This group offers a place for you to find fellowship, support and build friendships with other moms (grandmothers and nannies are welcome!) as we meet at various parks in the community. For more information, please contact Rachel at 949.701.9771 or <mommiesatthepark@daybreakchurch.org>.  Our park meet-up days are on two Tuesdays each month at 10:00a.
 
-* November 12 La Costa Canyon
 * December 10 Hidden Canyon
 * January 14 Aviara
 * January 28 Poinsettia
