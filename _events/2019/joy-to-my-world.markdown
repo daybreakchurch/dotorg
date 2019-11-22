@@ -3,6 +3,7 @@ title: Joy to My World
 date: 2019-11-21 17:02:00 -08:00
 tags:
 - events
+position: 1
 image: "/uploads/Joy-to-my-world_1920.jpg"
 small_image: "/uploads/Joy-to-my-world_480.jpg"
 ---
