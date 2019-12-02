@@ -1,6 +1,7 @@
 ---
 title: Night of Worship
 date: 2019-11-27 18:30:00 -08:00
+published: false
 tags:
 - events
 position: 0
