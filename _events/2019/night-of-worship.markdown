@@ -4,7 +4,7 @@ date: 2019-11-27 18:30:00 -08:00
 published: false
 tags:
 - events
-position: 9
+position: 10
 image: "/uploads/night-of-worship_1920.jpg"
 small_image: "/uploads/night-of-worship_480.jpg"
 ---

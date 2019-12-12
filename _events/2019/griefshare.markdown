@@ -3,7 +3,7 @@ title: GriefShare
 date: 2019-09-12 10:00:00 -07:00
 tags:
 - groups
-position: 19
+position: 20
 custom_dates: September 12 - December 12
 image: "/uploads/GriefShare_960.jpg"
 small_image: "/uploads/GriefShare_480.jpg"
