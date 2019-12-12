@@ -1,15 +1,15 @@
 ---
 title: DivorceCare
-date: 2019-09-17 18:30:00 -07:00
+date: 2019-02-04 18:30:00 -08:00
 tags:
 - groups
 position: 10
-custom_dates: September 17 - December 10
+custom_dates: February 4 - April 28
 image: "/uploads/DivorceCare_960.jpg"
 small_image: "/uploads/DivorceCare_480.jpg"
 primary_button:
   label: REGISTER HERE
-  link: https://daybreak.churchcenter.com/registrations/events/275692
+  link: https://daybreak.churchcenter.com/registrations/events/343397
 ---
 
 Have you experienced the pain of a separation or divorce? Looking for help and healing? It’s a confusing time when you feel isolated and have lots of questions about issues you’ve never faced before. In this class, you’ll gain access to valuable resources to help you with the pain of the past and find hope for the future. Each session includes a video, group discussion and workbook/journaling exercises.
