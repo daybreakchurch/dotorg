@@ -3,7 +3,7 @@ title: GriefShare
 date: 2019-01-30 10:00:00 -08:00
 tags:
 - groups
-position: 11
+position: 12
 custom_dates: January 30 - April 30
 image: "/uploads/GriefShare_960.jpg"
 small_image: "/uploads/GriefShare_480.jpg"
