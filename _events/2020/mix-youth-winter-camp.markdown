@@ -4,7 +4,7 @@ date: 2020-02-21 15:00:00 -08:00
 tags:
 - events
 - students
-position: 4
+position: 2
 custom_dates: February 21-23
 video_embed: |-
   <iframe src="https://player.vimeo.com/video/319287674?color=76b771" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
