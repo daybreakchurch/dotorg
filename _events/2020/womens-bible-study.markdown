@@ -4,7 +4,7 @@ date: 2019-01-16 09:00:00 -08:00
 tags:
 - womens
 - classes
-position: 7
+position: 4
 custom_dates: January 16 - February 27, 2020
 image: "/uploads/Women's-Bible-Study_20-20_1920.png"
 small_image: "/uploads/Women's-Bible-Study_20-20_480.png"
