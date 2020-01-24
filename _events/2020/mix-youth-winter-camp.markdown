@@ -1,5 +1,5 @@
 ---
-title: Mix Youth Winter Camp *SOLD OUT*
+title: Mix Youth Winter Camp
 date: 2020-02-21 15:00:00 -08:00
 tags:
 - events
