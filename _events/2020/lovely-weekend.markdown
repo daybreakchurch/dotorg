@@ -19,7 +19,7 @@ Join us March 6-7 on our campus for a very special weekend. Let’s discover tog
 
 This weekend will be all things “LOVELY”. Fun, food, friends, and a time of connecting with our heavenly Father!
 
-Register now! The price will increase to $99.00 on February 17.
+Register now! The price will increase to $109 on February 17.
 
 Lovely Weekend Schedule:
 
