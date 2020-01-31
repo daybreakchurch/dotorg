@@ -3,14 +3,23 @@ layout: default
 ---
 
 <div class="mx-auto py-3" style="max-width: 960px;">
-  <div style="padding:56.25% 0 0 0;position:relative;">
-    <iframe src="https://player.vimeo.com/video/{{ page.vimeo_id
-      }}?color=5d9e49&portrait=0"
-      style="position:absolute;top:0;left:0;width:100%;height:100%;"
-      frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-    </iframe>
-  </div>
-  <script src="https://player.vimeo.com/api/player.js"></script>
+  {% if page.youtube_id %}
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" id="ytplayer" type="text/html"
+        src="https://www.youtube.com/embed/{{ page.youtube_id
+        }}?modestbranding=1&rel=0&color=white" frameborder="0" allowfullscreen>
+      </iframe>
+    </div>
+  {% elsif page.vimeo_id %}
+    <div style="padding:56.25% 0 0 0;position:relative;">
+      <iframe src="https://player.vimeo.com/video/{{ page.vimeo_id
+                      }}?color=5d9e49&portrait=0"
+              style="position:absolute;top:0;left:0;width:100%;height:100%;"
+              frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+      </iframe>
+    </div>
+    <script src="https://player.vimeo.com/api/player.js"></script>
+  {% endif %}
 </div>
 
 <div class="p-dyn-3-5 bg-white">
