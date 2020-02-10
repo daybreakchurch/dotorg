@@ -4,7 +4,7 @@ date: 2020-03-06 17:00:00 -08:00
 tags:
 - womens
 - events
-position: 2
+position: 1
 custom_dates: March 6-7
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/Vyk7fmCMrLE"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
