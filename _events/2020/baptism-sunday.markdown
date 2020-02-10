@@ -3,7 +3,7 @@ title: Baptism Sunday
 date: 2020-01-26 08:30:00 -08:00
 tags:
 - events
-position: 0
+position: 1
 image: "/uploads/Baptism-2020_1920.jpg"
 small_image: "/uploads/Baptism-2020_480.jpg"
 primary_button:
