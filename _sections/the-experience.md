@@ -2,8 +2,9 @@
 title: The Experience
 date: 2018-08-20 05:58:00 -07:00
 template: video_and_text_blocks
-video_embed: <iframe src="https://player.vimeo.com/video/320260172" width="640" height="360"
-  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/KCNq6BwzN9A"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 blocks:
 - name: 
   text: |-
