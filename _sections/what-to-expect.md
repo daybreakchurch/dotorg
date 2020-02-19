@@ -2,8 +2,9 @@
 title: What to Expect
 template: video_and_text_blocks
 has_visible_title: true
-video_embed: <iframe src="https://player.vimeo.com/video/320046535" width="640" height="360"
-  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/39SkrZ5Q-3w"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 blocks:
 - text: |-
     ## New to Daybreak?
