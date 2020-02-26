@@ -1,6 +1,7 @@
 ---
 title: Mix Youth Winter Camp
 date: 2020-02-21 15:00:00 -08:00
+published: false
 tags:
 - events
 - students
