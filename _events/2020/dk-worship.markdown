@@ -8,7 +8,9 @@ position: 1
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/J3vXskhI1ig"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
-non_header_video_embed: https://youtu.be/J3vXskhI1ig
+non_header_video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/m8C_QF24u2I"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 image: "/uploads/Spark-Sings_1920.jpg"
 small_image: "/uploads/Spark-Sings_480.jpg"
 ---
