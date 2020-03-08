@@ -4,7 +4,7 @@ date: 2020-03-26 17:30:00 -07:00
 tags:
 - events
 - kids
-position: 1
+position: 2
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/J3vXskhI1ig"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
