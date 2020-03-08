@@ -3,7 +3,7 @@ title: Family Campout
 date: 2019-04-03 08:57:00 -07:00
 tags:
 - events
-position: 2
+position: 1
 custom_dates: April 3-5
 image: "/uploads/family-campout_1920-6a23e8.jpg"
 small_image: "/uploads/family-campout_480.jpg"
