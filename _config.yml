@@ -160,8 +160,8 @@ exclude:
 - Rakefile
 - vendor/bootstrap/
 homepage:
-  title: Welcome to Daybreak
-  subtitle: Click the link below to live stream the service
+  title: COVID-19 UPDATE
+  subtitle: Church at home | March 15, 8:30a
   button:
     label: Watch the Service
     link: "/events/2020/daybreak-live-stream/"
