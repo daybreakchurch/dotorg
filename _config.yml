@@ -162,6 +162,9 @@ exclude:
 homepage:
   title: Welcome Home.
   subtitle: We’ve been expecting you, we’ve been praying for you.
+  button:
+    label: Plan a Visit
+    link: /new-to-daybreak
 address:
   street: 6515 Ambrosia Ln
   city: Carlsbad

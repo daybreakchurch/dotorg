@@ -9,7 +9,8 @@ layout: default
   <div class="hero-shade"></div>
   <h1 class="hero-title">{{ site.homepage.title }}</h1>
   <p class="hero-title-tag">{{ site.homepage.subtitle }}</p>
-  <a class="hero-action" href="{{ site.baseurl }}/new-to-daybreak">Plan a Visit</a>
+  <a class="hero-action" href="{{ site.homepage.button.link }}">{{
+    site.homepage.button.label }}</a>
 </section>
 
 {% include sections/location_and_svc_times.html %}
