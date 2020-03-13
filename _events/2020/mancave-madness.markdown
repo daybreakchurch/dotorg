@@ -4,7 +4,7 @@ date: 2020-04-06 18:00:00 -07:00
 tags:
 - events
 - anchoredman
-position: 1
+position: 2
 image: "/uploads/Mancave-Madness_2020_1920.jpg"
 small_image: "/uploads/Mancave-Madness_2020_480.jpg"
 ---

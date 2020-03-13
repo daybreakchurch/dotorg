@@ -3,7 +3,7 @@ title: 24 Hours of Prayer
 date: 2020-03-23 17:00:00 -07:00
 tags:
 - events
-position: 0
+position: 1
 custom_dates: March 23-24
 image: "/uploads/24-hours-prayer_1920.jpg"
 small_image: "/uploads/24-hours-prayer_480.jpg"
