@@ -160,10 +160,10 @@ exclude:
 - Rakefile
 - vendor/bootstrap/
 homepage:
-  title: Welcome Home.
-  subtitle: We’ve been expecting you, we’ve been praying for you.
+  title: Welcome to Daybreak
+  subtitle: Click the link below to live stream the service
   button:
-    label: Plan a Visit
+    label: Watch the Service
     link: "/new-to-daybreak"
 address:
   street: 6515 Ambrosia Ln
