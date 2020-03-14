@@ -7,8 +7,11 @@ position: 1
 image: "/uploads/coronavirus_1920.jpg"
 small_image: "/uploads/coronavirus_480.jpg"
 primary_button:
-  label: Click Here to Watch the Livestream
+  label: Watch on Facebook
   link: https://www.facebook.com/daybreakchurch/?ref=bookmarks
+seconday_buttons:
+- label: Watch on Youtube
+  link: https://youtu.be/_3OpdfdRhG0
 ---
 
-Click the link below to watch our Sunday service live online starting at 8:30a.
+Click the link below to watch our Sunday service live online starting at 8:30a and on-demand therafter.
