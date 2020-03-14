@@ -7,8 +7,8 @@ position: 0
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/CzE8QF0lEXI"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
-image: "/uploads/coronavirus_1920.jpg"
-small_image: "/uploads/coronavirus_480.jpg"
+image: "/uploads/no-service-1920.jpg"
+small_image: "/uploads/no-service-480.jpg"
 primary_button:
   label: Click here to watch the service
   link: https://www.facebook.com/daybreakchurch/
@@ -18,7 +18,7 @@ Hello Daybreak Family,
 
 If you are like me, you love driving onto the Daybreak Campus on Sunday mornings. However, you are probably wondering what will happen given the current events in our world. I’d like to take a few minutes of your time to update you on what’s happening at Daybreak as we prepare for the impact of the Corona Virus in our region.
 
-As you know by now, earlier today Governor Gavin Newsom issued an executive order suspending public gatherings of 250 people or more. Today, we are implementing an action plan at Daybreak to ensure we are able to continue to proclaim the truth of Jesus, while being careful and strategic, given our present circumstance. We have been closely monitoring the situation over the past few weeks here at Daybreak. I have spent considerable time this week connecting with other churches around the country and ultimately developing an action plan with our leadership team for how we will continue to spread the gospel of Jesus, while taking the necessary precautions to keep our congregation safe. We know that God is in control of all things and that he will continue to guide and lead us through this challenging season.
+As you know by now, Governor Gavin Newsom issued an executive order suspending public gatherings of 250 people or more. Today, we are implementing an action plan at Daybreak to ensure we are able to continue to proclaim the truth of Jesus, while being careful and strategic, given our present circumstance. We have been closely monitoring the situation over the past few weeks here at Daybreak. I have spent considerable time this week connecting with other churches around the country and ultimately developing an action plan with our leadership team for how we will continue to spread the gospel of Jesus, while taking the necessary precautions to keep our congregation safe. We know that God is in control of all things and that he will continue to guide and lead us through this challenging season.
 
 For several years we have been live streaming our services on Facebook each Sunday. This has given us the opportunity to reach those who can’t make it to the Daybreak campus, miss a service, or are just checking us out. Until a few days ago, we had no idea how important this small aspect of our ministry would become.
 
