@@ -14,4 +14,4 @@ seconday_buttons:
   link: https://youtu.be/_3OpdfdRhG0
 ---
 
-Click the link below to watch our Sunday service live online starting at 8:30a and on-demand therafter.
+Click either link below to watch our Sunday service live online starting at 8:30a and on-demand thereafter.
