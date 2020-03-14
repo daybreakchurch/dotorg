@@ -160,7 +160,7 @@ exclude:
 - Rakefile
 - vendor/bootstrap/
 homepage:
-  title: Welcome Home
+  title: What Service Live at Home
   subtitle: Church at Home | March 15, 8:30a or On-Demand
   button:
     label: Click here to watch the livestream
