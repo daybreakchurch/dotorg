@@ -160,11 +160,11 @@ exclude:
 - Rakefile
 - vendor/bootstrap/
 homepage:
-  title: COVID-19 UPDATE
-  subtitle: Church at home | March 15, 8:30a
+  title: Welcome Home
+  subtitle: Church at Home | March 15, 8:30a or On-Demand
   button:
-    label: Watch the update from Pastor Jason
-    link: "/events/2020/daybreak-live-stream/"
+    label: Click here to watch the livestream
+    link: "/events/2020/sunday-livestream/"
 address:
   street: 6515 Ambrosia Ln
   city: Carlsbad
