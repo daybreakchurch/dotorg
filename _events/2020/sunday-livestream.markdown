@@ -20,7 +20,7 @@ Click either link below to watch our Sunday service live online starting at 8:30
 
 2 Timothy 1:7 For God has not given us a spirit of fear and timidity, but of power, love, and self- discipline.
 
-Mark 4:35 That day when evening came, he said to his disciples, “Let us go over to the other side.” 36 Leaving the crowd behind, they took him along, just as he was, in the boat. There were also other boats with him. 37A furious squall came up, and the waves broke over the boat, so that it was nearly swamped. 38 Jesus was in the stern, sleeping on a cushion. The disciples woke him and said to him, “Teacher, don’t you care if we drown?” 39 He got up, rebuked the wind and said to the waves, “Quiet! Be still!” Then the wind died down and it was completely calm. 40 He said to his disciples, “Why are you so afraid? Do you still have no faith?” 41 They were terrified and asked each other, “Who is this? Even the wind and the waves obey him!”
+Mark 4:35 That day when evening came, he said to his disciples, “Let us go over to the other side.” 36 Leaving the crowd behind, they took him along, just as he was, in the boat. There were also other boats with him. 37 A furious squall came up, and the waves broke over the boat, so that it was nearly swamped. 38 Jesus was in the stern, sleeping on a cushion. The disciples woke him and said to him, “Teacher, don’t you care if we drown?” 39 He got up, rebuked the wind and said to the waves, “Quiet! Be still!” Then the wind died down and it was completely calm. 40 He said to his disciples, “Why are you so afraid? Do you still have no faith?” 41 They were terrified and asked each other, “Who is this? Even the wind and the waves obey him!”
 
 ### Pray with and for people
 
