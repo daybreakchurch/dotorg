@@ -22,15 +22,15 @@ Click either link below to watch our Sunday service live online starting at 8:30
 
 Mark 4:35 That day when evening came, he said to his disciples, “Let us go over to the other side.” 36 Leaving the crowd behind, they took him along, just as he was, in the boat. There were also other boats with him. 37 A furious squall came up, and the waves broke over the boat, so that it was nearly swamped. 38 Jesus was in the stern, sleeping on a cushion. The disciples woke him and said to him, “Teacher, don’t you care if we drown?” 39 He got up, rebuked the wind and said to the waves, “Quiet! Be still!” Then the wind died down and it was completely calm. 40 He said to his disciples, “Why are you so afraid? Do you still have no faith?” 41 They were terrified and asked each other, “Who is this? Even the wind and the waves obey him!”
 
-### Pray with and for people
+#### Pray with and for people
 
 Ephesians 5:15-16 Be very careful, then, how you live—not as unwise but as wise, making the most of every opportunity, because the days are evil.
 
-### Be generous and share our stuff
+#### Be generous and share our stuff
 
 Proverbs 11:25 A generous person will prosper; whoever refreshes others will be refreshed.
 
-### Replace physical contact with encouraging words
+#### Replace physical contact with encouraging words
 
 Ephesians 5:11Therefore encourage one another and build each other up, just as in fact you are doing.
 
