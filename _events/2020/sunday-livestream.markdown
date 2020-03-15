@@ -11,6 +11,4 @@ image: "/uploads/churchonline_1920.jpg"
 small_image: "/uploads/coronavirus_480.jpg"
 ---
 
-# Click the link below to watch the service.
-
 ### [Click here to download the message notes and prayer](http://daybreakchurch.us/Three-Ways.pdf)
