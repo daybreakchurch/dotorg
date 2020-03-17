@@ -3,7 +3,7 @@ title: COVID-19 Update
 date: 2020-03-15 08:30:00 -07:00
 tags:
 - events
-position: 0
+position: 1
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/CzE8QF0lEXI"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
