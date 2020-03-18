@@ -1,6 +1,7 @@
 ---
 title: dK Worship
 date: 2020-03-26 17:30:00 -07:00
+published: false
 tags:
 - events
 - kids
