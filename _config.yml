@@ -166,7 +166,7 @@ homepage:
   subtitle: Church at Home | March 15, 8:30a or On-Demand
   button:
     label: Click here to watch the livestream
-    link: "/events/2020/sunday-livestream/"
+    link: https://daybreakca.online.church/
 address:
   street: 6515 Ambrosia Ln
   city: Carlsbad
