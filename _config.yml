@@ -163,7 +163,7 @@ exclude:
 - vendor/bootstrap/
 homepage:
   title: Watch Service Live at Home
-  subtitle: Church at Home | March 15, 8:30a or On-Demand
+  subtitle: Church at Home | Sunday Morning, 8:30a
   button:
     label: Click here to watch the livestream
     link: https://daybreakca.online.church/
