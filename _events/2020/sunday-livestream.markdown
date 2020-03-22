@@ -4,7 +4,9 @@ date: 2020-03-15 08:30:00 -07:00
 tags:
 - events
 position: 0
-external_url: https://daybreakca.online.church
+video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/86ztYVU-1NU"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 image: "/uploads/churchonline_1920.jpg"
 small_image: "/uploads/coronavirus_480.jpg"
 ---
