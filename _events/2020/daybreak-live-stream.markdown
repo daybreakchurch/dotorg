@@ -1,6 +1,7 @@
 ---
 title: COVID-19 Update
 date: 2020-03-15 08:30:00 -07:00
+published: false
 tags:
 - events
 position: 1
