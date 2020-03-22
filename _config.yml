@@ -166,7 +166,7 @@ homepage:
   subtitle: Church at Home | Sunday Morning, 8:30a
   button:
     label: Click here to watch the livestream
-    link: https://daybreakca.online.church/
+    link: "/events/2020/sunday-livestream/"
 address:
   street: 6515 Ambrosia Ln
   city: Carlsbad
