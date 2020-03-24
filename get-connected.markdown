@@ -7,7 +7,7 @@ sections:
 - Taking the Next Step
 - Life Groups
 - Men & Women
-- Groups
+- Daybreak Leadership College
 - Prayer Requests
 - Contact Us
 layout: sections
