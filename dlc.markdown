@@ -5,6 +5,9 @@ video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
 image: "/uploads/dlc_web_1080.jpg"
+primary_button:
+  label: Apply Today!
+  link: https://daybreak.churchcenter.com/people/forms/94548
 ---
 
 Daybreak Leadership College is a college and internship program of Daybreak Church in Carlsbad, California.  In partnership with Life Pacific University, a student intern can earn a regionally accredited degree (WASC) while receiving ministry training and leadership development. Student interns can experience a discipleship model of Student Life, living in community at one of our residence halls while preparing for ministry or the marketplace. 
