@@ -12,4 +12,4 @@ primary_button:
   link: https://daybreak.churchcenter.com/people/forms/108747
 ---
 
-Join us as we spend 24 Hours in PrayerWe will have hourly shifts of people praying in the Upper Chapel on March 30 and 31. Sign up for one hour, or more. 
+Join us as we spend 24 Hours in PrayerWe will have hourly shifts of people praying on March 30 and 31. Sign up for one hour, or more. 
