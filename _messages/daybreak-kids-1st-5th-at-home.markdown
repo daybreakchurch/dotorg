@@ -4,6 +4,7 @@ date: 2020-03-22 16:43:00 -07:00
 position: 0
 series: Church at Home
 youtube_id: https://youtu.be/tD8vmhlnafg
+layout: event_details
 ---
 
 For Daybreak Kids Elementary, we have a lesson talking about Jesus being our light of life and how we can trust him in all situations.
