@@ -1,6 +1,7 @@
 ---
 title: Church at Home
 date: 2020-03-25 17:09:00 -07:00
+position: 1
 image: "/uploads/daybreak%20at%20home_week.jpg"
 small_image: "/uploads/Daybreak-At-Home_title_480.jpg"
 ---

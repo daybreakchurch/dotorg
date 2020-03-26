@@ -3,7 +3,7 @@ title: 24 Hours of Prayer
 date: 2020-03-30 17:00:00 -07:00
 tags:
 - events
-position: 1
+position: 2
 custom_dates: March 30-31
 image: "/uploads/Daybreak-At-Home_24-prayer_1080.jpg"
 small_image: "/uploads/Daybreak-At-Home_24-prayer_480.jpg"
