@@ -1,6 +1,7 @@
 ---
 title: Daybreak Kids (EC) at Home
 date: 2020-03-25 16:47:00 -07:00
+position: 1
 series: Church at Home
 youtube_id: https://youtu.be/IqbE7QZM8_o
 ---

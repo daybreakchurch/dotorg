@@ -1,6 +1,7 @@
 ---
 title: Daybreak Kids (1st-5th) at Home
 date: 2020-03-22 16:43:00 -07:00
+position: 0
 series: Church at Home
 youtube_id: https://youtu.be/tD8vmhlnafg
 ---

@@ -1,6 +1,7 @@
 ---
 title: MIX Youth at Home
 date: 2020-03-25 16:50:00 -07:00
+position: 12
 series: Church at Home
 youtube_id: https://youtu.be/ueLR-R3wWl4
 ---
