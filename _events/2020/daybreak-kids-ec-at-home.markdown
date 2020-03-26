@@ -3,6 +3,7 @@ title: Daybreak Kids (EC) at Home
 date: 2020-03-26 07:50:00 -07:00
 tags:
 - kids
+position: 4
 non_header_video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/86fR1lksUqs"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
