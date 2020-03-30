@@ -12,6 +12,8 @@ primary_button:
   link: https://daybreak.churchcenter.com/people/forms/108747
 ---
 
+## [Click here to start Zoom Meeting](https://zoom.us/j/425071231)
+
 ### Agenda
   * Part 1 - Adoration Focus
   * Part 2 - Personal Focus
