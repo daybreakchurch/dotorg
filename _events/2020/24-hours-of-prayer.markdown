@@ -44,7 +44,7 @@ Part 1 - Adoration Focus Prompts
   * God you are All Powerful
   * God you are Provider
 
-#### [Part 2 - Personal Focus Scripture - VIDEO GIANOTTI](https://youtu.be/d_0uomrSNMI)
+#### [Part 2 - Personal Focus Scripture - VIDEO Pastor Jason Gianotti](https://youtu.be/d_0uomrSNMI)
  
 Part 2 - Personal Focus Scripture
 
@@ -82,7 +82,7 @@ Part 3 - Family Focus Prompts
   * Financial provision
   * Healing for the sick
 
-#### [Part 4 - Church & Local Focus - VIDEO LAURA, LEN & LEM](https://youtu.be/dSr2hrUC0fA)
+#### [Part 4 - Church & Local Focus - VIDEO Pastor Laura and Len Berg & Dr. Lem Usita](https://youtu.be/dSr2hrUC0fA)
 
 Part 4 - Church & Local Focus Scripture
 
@@ -134,7 +134,7 @@ Part 4 - Church & Local Focus  Prompts
   * Governor Gavin Newsom
   * State level officials
 
-#### [Part 5 - Global Focus: VIDEO JASON & CORRI GRAVES](https://youtu.be/rgySmugoTdQ)
+#### [Part 5 - Global Focus: VIDEO Pastor Jason & Corri Graves](https://youtu.be/rgySmugoTdQ)
 
 Part 5 - Global Focus Scripture
 
