@@ -1,6 +1,7 @@
 ---
 title: 24 Hours of Prayer
 date: 2020-03-30 17:00:00 -07:00
+published: false
 tags:
 - events
 position: 2
