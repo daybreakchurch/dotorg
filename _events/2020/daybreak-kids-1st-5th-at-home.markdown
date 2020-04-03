@@ -1,6 +1,6 @@
 ---
 title: Daybreak Kids (1st-5th) at Home
-date: 2020-03-28 08:00:00 -07:00
+date: 2020-04-04 08:00:00 -07:00
 tags:
 - kids
 position: 3
@@ -11,13 +11,18 @@ image: "/uploads/Daybreak-At-Home_dk15_1920.jpg"
 small_image: "/uploads/Daybreak-At-Home_dk15_480-f2c146.jpg"
 ---
 
-This week Daybreak Elementary will learn about how Jesus wants us to follow his teachings like a wise man who built his house on the rock.
+Palm Branch Craft
+(see video above for instructions)
 
-Other Fun Family Activities:
-* ["Wise or Not Wise" Game](https://drive.google.com/file/d/1F0RKCYT_yCc3_TsKVGbCy_GWLhb47auJ/view?usp=sharing)
-* [Interactive Object Lesson](https://drive.google.com/file/d/1J_gRDz8ZbNQR5wXROa7N2lxI0zTOIyqT/view?usp=sharing)
-* [Wise Man Coloring Page](https://drive.google.com/file/d/1PYm91SADf1Oam78aa0UGemL3qPvebpn2/view?usp=sharing)
+Supplies Needed:
+* white paper or green construction paper
+* green marker, crayon, or colored pencil
+* stick from outside, popsicle stick, etc.
 
-"May the Lord give strength to his people!
-May the Lord bless his people with peace."
-Psalm 29:11
+
+Family Activity:
+[Easter Week Calendar](https://drive.google.com/file/d/1p_TzhBPkZwjkfomvHXKA0z6VkYguPmf3/view?usp=sharing)
+ 
+
+The crowds that went ahead of him and those that followed shouted, "Hosanna to the Son of David!" "Blessed is he who comes in the name of the Lord!" "Hosanna in the highest heaven." Matthew 21:9
+ 
