@@ -32,17 +32,6 @@ __
 Scavenger Hunt Items 
 
 Shampoo
-Coffee Mug
-Fabric softener
-Candle
-Pencil
-Hand Lotion
-Pair of socks
-Fork
-Toilet Paper
-Sunglasses
-Duct tape
-Straw
-Tea bag
-Bowl
+Coffee Mug, Fabric softener, Candle, Pencil, Hand Lotion, Pair of socks, Fork, Toilet Paper, Sunglasses, Duct tape, Straw, Tea bag, Bowl
+
 Take a picture of you and the items on your dining table, post it to Instagram and tag Daybreak Church. We can't wait to see if you find everything!
