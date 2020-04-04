@@ -1,13 +1,24 @@
 ---
 title: Sunday Online Service
-date: 2020-03-29 08:30:00 -07:00
+date: 2020-04-05 08:30:00 -07:00
 tags:
 - events
 position: 0
-video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/Df15b9T86Dk"
-  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen></iframe>
 image: "/uploads/Online-Church_1920.jpg"
 small_image: "/uploads/Online-Church_480.jpg"
+primary_button:
+  label: Daybreak
+  link: https://daybreakca.online.church/
+seconday_buttons:
+- label: Facebook
+  link: https://www.facebook.com/daybreakchurch
+- label: Youtube
+  link: https://www.youtube.com/c/daybreakchurchCA
 ---
 
+### How to watch our service
+
+There are 3 ways to watch our Sunday service.
+* Watch at either the 8:30, 10:00 & 11:30a on our website.
+* Watch at 8:30a on Facebook
+* Watch at 8:30a on Youtube
