@@ -3,6 +3,7 @@ title: Good Friday
 date: 2020-04-10 18:00:00 -07:00
 tags:
 - events
+position: 0
 custom_dates: 6:00 & 8:00p
 image: "/uploads/Good-Friday-2020_1920.jpg"
 small_image: "/uploads/Good-Friday-2020_480.jpg"
