@@ -1,6 +1,7 @@
 ---
 title: Women's Bible Study
 date: 2019-01-16 09:00:00 -08:00
+published: false
 tags:
 - womens
 - classes
