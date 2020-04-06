@@ -6,7 +6,7 @@ blocks:
   image: "/uploads/Anchoredman-Bootcamp_960.jpg"
   button_link: "/men"
 - name: Women
-  image: "/uploads/Womens-branding_2018_slide.jpg"
+  image: "/uploads/lovely-slides_480.jpg"
   button_link: "/women"
 ---
 
