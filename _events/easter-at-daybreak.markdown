@@ -1,6 +1,8 @@
 ---
 title: Easter at Daybreak
 date: 2020-04-12 08:30:00 -07:00
+tags:
+- events
 custom_dates: 8:30, 10:00 & 11:30a
 image: "/uploads/Easter_2020_1920.jpg"
 small_image: "/uploads/Easter_2020_480.jpg"
