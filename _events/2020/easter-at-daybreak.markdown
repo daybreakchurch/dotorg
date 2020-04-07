@@ -30,4 +30,4 @@ Things that haven't changed:
 Our world looks a lot different these days but Jesus has stayed the same, He came to earth as a baby, lived a sinless life and overcame death. Celebrate His resurrection on Sunday with an online Easter experience. 
 
 Inviting someone to church has never been easier and Easter is the perfect excuse to do it.
-We've included some digital tools to help invite people.
+We've included some digital tools to help you invite your friends and family. Click the links below 👇
