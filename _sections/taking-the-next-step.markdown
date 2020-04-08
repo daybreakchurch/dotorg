@@ -3,9 +3,9 @@ title: Taking the Next Step
 date: 2018-08-25 18:01:00 -07:00
 template: image_blocks
 blocks:
-- name: Pastor Chat
-  image: "/uploads/pastor's_chat_pic_960.jpg"
-  button_link: "/pastor-chat"
+- name: I'm New
+  image: "/uploads/new_1920.jpg"
+  button_link: "/im-new/"
 - name: Baptism
   image: "/uploads/baptism_960.jpg"
   button_link: "/baptism"
