@@ -1,5 +1,5 @@
 ---
-title: DK Early Childhood Lesson | April 11
+title: DK Early Childhood Video Lesson | April 11
 date: 2020-04-11 07:25:00 -07:00
 tags:
 - kids
