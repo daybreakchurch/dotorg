@@ -1,5 +1,5 @@
 ---
-title: Daybreak Kids (1st-5th) at Home
+title: DK Elementary Video Lesson | April 4
 date: 2020-04-04 08:00:00 -07:00
 tags:
 - kids
