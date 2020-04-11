@@ -1,5 +1,5 @@
 ---
-title: Daybreak Kids (EC) at Home
+title: DK Early Childhood Video Lesson | April 4
 date: 2020-04-04 08:00:00 -07:00
 tags:
 - kids
