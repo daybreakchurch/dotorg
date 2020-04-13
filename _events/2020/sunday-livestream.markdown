@@ -3,7 +3,7 @@ title: Sunday Online Service
 date: 2020-04-05 08:30:00 -07:00
 tags:
 - events
-position: 3
+position: 1
 image: "/uploads/Online-Church_1920.jpg"
 small_image: "/uploads/Online-Church_480.jpg"
 primary_button:
