@@ -5,7 +5,7 @@ tags:
 - events
 - womens
 - group
-position: 24
+position: 25
 image: "/uploads/Morning-for-Moms_1920.jpg"
 small_image: "/uploads/Morning-for-Moms_480.jpg"
 ---
