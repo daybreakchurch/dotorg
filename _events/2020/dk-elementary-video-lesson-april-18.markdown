@@ -1,12 +1,13 @@
 ---
 title: DK ELEMENTARY VIDEO LESSON | APRIL 18
-date: 2020-04-17 19:41:00 -07:00
+date: 2020-04-18 19:41:00 -07:00
 tags:
 - kids
 position: 5
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/PJm1mNbEfU4"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
+small_image: "/uploads/dk_el_april-18.jpg"
 meta_text: "Welcome to Daybreak Kids Elementary! We are so glad you have joined us
   this week to lean about Jesus and his love for us. Check out the video above for
   this week's lesson where kids will learn that Jesus wants us to serve and love others
