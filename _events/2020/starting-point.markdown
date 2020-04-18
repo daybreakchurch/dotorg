@@ -4,7 +4,7 @@ date: 2019-02-02 10:00:00 -08:00
 tags:
 - group
 - classes
-position: 27
+position: 28
 custom_dates: February 2 - March 22
 image: "/uploads/Starting_point_960.jpg"
 small_image: "/uploads/Starting_point_480.jpg"

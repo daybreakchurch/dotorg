@@ -3,7 +3,7 @@ title: Care Ministry
 date: 2019-09-05 20:58:00 -07:00
 tags:
 - groups
-position: 30
+position: 31
 image: "/uploads/Care-Ministry_1920.png"
 small_image: "/uploads/Care-Ministry_480.png"
 primary_button:
