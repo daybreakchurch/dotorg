@@ -1,7 +1,7 @@
 ---
 title: "#3 Three Ways to Be Light to our World"
 date: 2020-03-15 08:30:00 -07:00
-position: 12
+position: 15
 series: Spark
 communicator: Pastor Jason Graves
 youtube_id: https://youtu.be/qbGCTztf_YY
