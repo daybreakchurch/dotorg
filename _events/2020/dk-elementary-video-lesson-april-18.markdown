@@ -3,7 +3,7 @@ title: DK ELEMENTARY VIDEO LESSON | APRIL 18
 date: 2020-04-18 19:41:00 -07:00
 tags:
 - kids
-position: 5
+position: 6
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/PJm1mNbEfU4"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
