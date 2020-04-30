@@ -5,7 +5,7 @@ tags:
 - classes
 - mens
 - events
-position: 23
+position: 24
 custom_dates: February 11 - March 10
 image: "/uploads/Anchoredman-Bootcamp_960.jpg"
 small_image: "/uploads/Anchoredman-Bootcamp_480.jpg"
