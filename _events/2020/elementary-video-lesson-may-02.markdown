@@ -3,7 +3,7 @@ title: Elementary Video Lesson | May 02
 date: 2020-05-02 08:00:00 -07:00
 tags:
 - kid
-position: 6
+position: 7
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/QubodtsT8uI"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>

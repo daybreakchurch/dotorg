@@ -3,6 +3,7 @@ title: Weekly SOAP Journal
 date: 2020-04-30 14:09:00 -07:00
 tags:
 - events
+position: 2
 custom_dates: Weekly
 image: "/uploads/Game-plan_1920.jpg"
 small_image: "/uploads/Game-plan_480.jpg"
