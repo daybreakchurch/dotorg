@@ -5,7 +5,7 @@ tags:
 - womens
 - group
 - events
-position: 34
+position: 35
 image: "/uploads/Military-Wives_1920.jpg"
 small_image: "/uploads/Military-Wives_480.jpg"
 ---
