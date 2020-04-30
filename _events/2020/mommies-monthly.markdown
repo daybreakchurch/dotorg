@@ -11,7 +11,7 @@ image: "/uploads/Morning-for-Moms_1920.jpg"
 small_image: "/uploads/Morning-for-Moms_480.jpg"
 ---
 
-##### ZOOM link  https://zoom.us/j/93652867667  
+##### ZOOM link [zoom.us/j/93652867667  ](https://zoom.us/j/93652867667  )
 
 Please join us for a special ZOOM Daybreak Mornings for Moms, Tuesday, May 5th from 9:00-10:30am.  Even though we cannot gather as a large group, we still want to reunite for our final meeting of this 2019-2020 school year!  Your heart, well-being, and spiritual health is so important to us that we want to remain committed to bringing you Godly wisdom, encouragement and hope during this challenging time.    
 
