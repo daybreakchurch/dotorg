@@ -5,7 +5,7 @@ tags:
 - group
 - classes
 - events
-position: 1
+position: 2
 custom_dates: 'Ongoing '
 image: "/uploads/online-life-groups_1920.jpg"
 small_image: "/uploads/online-life-groups_480.jpg"
