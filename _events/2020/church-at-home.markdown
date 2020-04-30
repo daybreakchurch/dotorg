@@ -4,6 +4,7 @@ date: 2020-03-25 17:09:00 -07:00
 tags:
 - events
 position: 4
+custom_dates: Every Day!
 image: "/uploads/Daybreak-At-Home_april-5.jpg"
 small_image: "/uploads/Daybreak-At-Home_title_480.jpg"
 primary_button:
