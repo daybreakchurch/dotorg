@@ -1,5 +1,5 @@
 ---
-title: DK ELEMENTARY VIDEO LESSON | APRIL 18
+title: DK Elementary Video Lesson | April 18
 date: 2020-04-18 19:41:00 -07:00
 tags:
 - kids
