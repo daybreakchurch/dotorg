@@ -21,6 +21,7 @@ May 1: Acts 9
 May 2: Acts 10
 
 ##### How to Journal
+
 You will need a Bible, journal or piece of paper and a pen or pencil.
 
 *S: SCRIPTURE*
