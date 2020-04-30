@@ -12,13 +12,13 @@ primary_button:
   link: https://daybreak.churchcenter.com/registrations/events/417173
 ---
 
-April 26: Acts 4
-April 27: Acts 5
-April 28: Acts 6
-April 29: Acts 7
-April 30: Acts 8
-May 1: Acts 9
-May 2: Acts 10
+* April 26: Acts 4
+* April 27: Acts 5
+* April 28: Acts 6
+* April 29: Acts 7
+* April 30: Acts 8
+* May 1: Acts 9
+* May 2: Acts 10
 
 ##### How to Journal
 
