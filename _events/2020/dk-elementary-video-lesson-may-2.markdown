@@ -30,6 +30,6 @@ Supplies Needed:
 
 [Prayer Prompt](https://drive.google.com/file/d/1XvReFVlAz5lZtbxT1ZBbVoNkIWj1BHgj/view?usp=sharing)
 
-[Pray Over Your Kids ](https://drive.google.com/file/d/19jArsBAC_GfR7kwbg9uosej6RfoWx-60/view?usp=sharing) _for parents_
+[Pray Over Your Kids ](https://drive.google.com/file/d/19jArsBAC_GfR7kwbg9uosej6RfoWx-60/view?usp=sharing) *for parents*
 
 *"And pray in the Spirit on all occasions with all kinds of prayers and requests." -Ephesians 6:18*
