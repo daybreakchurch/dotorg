@@ -12,7 +12,8 @@ image: "/uploads/Add%20a%20heading-2%20copy.png"
 
 Hello Kids! We hope you enjoyed taking time to walk through the Armor of God as a family. This week, you will be able to continue in Ephesians 6:18-20 where Paul, the author of this book, teaches about the importance of prayer to help you stand firm in your faith each and every day.
 
-**Prayer Cross Craft:** *(see video above for instructions)*/
+**Prayer Cross Craft:** *(see video above for instructions)*
+
 Supplies Needed:
 
 * Cardboard inserts from toilet paper (paper towel inserts can be cut in thirds)
