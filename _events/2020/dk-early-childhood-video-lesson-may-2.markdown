@@ -1,8 +1,8 @@
 ---
 title: DK Early Childhood Video Lesson | May 2
-date: 2020-05-02 09:00:00 -07:00
+date: 2020-05-01 16:00:00 -07:00
 tags:
-- kid
+- kids
 position: 9
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/_GX-hhJW3J4"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
