@@ -3,7 +3,7 @@ title: DK Early Childhood Video Lesson | April 4
 date: 2020-04-04 08:00:00 -07:00
 tags:
 - kids
-position: 15
+position: 14
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/PnUI1aSSZSA"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
