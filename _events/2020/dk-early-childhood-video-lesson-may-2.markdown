@@ -14,7 +14,7 @@ We know God created the earth and everything on it and said "it is good", but wh
 
 **Click below for this week's activity:**
 ["God Made Me" Craft]
-(https://drive.google.com/file/d/1X85P-e_V_NZe6UA-gRZYQIpYqfQgIao7/view?usp=sharing)//
+(https://drive.google.com/file/d/1X85P-e_V_NZe6UA-gRZYQIpYqfQgIao7/view?usp=sharing)
 
 [Paper Doll Template](https://drive.google.com/file/d/1O7HUlGqYCiAjTCdqB-WTa1z3s0VKSt_0/view?usp=sharing)
 
