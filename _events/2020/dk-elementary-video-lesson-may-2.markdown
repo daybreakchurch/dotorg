@@ -16,21 +16,15 @@ Hello Kids! We hope you enjoyed taking time to walk through the Armor of God as 
 **Prayer Cross Craft:** *(see video above for instructions)*
 
 Supplies Needed:
-
 * Cardboard inserts from toilet paper (paper towel inserts can be cut in thirds)
-
 * 1 piece of cardstock or printer paper
-
 * Paper for writing prayers
-
 * Scissors, glue, and something to write with
 
 **Click below for this week's activities:**
 
 [Armor of God Prayer](https://drive.google.com/file/d/1a865Gik8y44tAbFlolX0Dg5uo36vvjeB/view?usp=sharing)
-
 [Prayer Prompt](https://drive.google.com/file/d/1XvReFVlAz5lZtbxT1ZBbVoNkIWj1BHgj/view?usp=sharing)
-
 [Pray Over Your Kids ](https://drive.google.com/file/d/19jArsBAC_GfR7kwbg9uosej6RfoWx-60/view?usp=sharing) *for parents*
 
 *"And pray in the Spirit on all occasions with all kinds of prayers and requests." -Ephesians 6:18*
