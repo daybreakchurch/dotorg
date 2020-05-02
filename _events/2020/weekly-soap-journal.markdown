@@ -9,13 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* April 26: Acts 4
-* April 27: Acts 5
-* April 28: Acts 6
-* April 29: Acts 7
-* April 30: Acts 8
-* May 1: Acts 9
 * May 2: Acts 10
+* May 3: Acts 11
+* May 4: Acts 12
+* May 5: Acts 13
+* May 6: Acts 14
+* May 7: Acts 15
+* May 8: Acts 16
+* May 9: Acts 17
 
 ##### How to Journal
 
