@@ -7,7 +7,7 @@ position: 8
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/MN1te5VeN6A"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
-image: "/uploads/Early%20Childhood.png"
+image: "/uploads/Early%20Childhood-c1d7ee.png"
 ---
 
 Happy Mother's Day moms! We hope that you are celebrated this weekend by your family and loved ones. This week in our lesson we will learn how Esther trusted God's plan for her and helped save her people. In the same way, God has a plan for each and every one of us!
