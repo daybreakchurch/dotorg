@@ -14,8 +14,7 @@ Happy Mother's Day moms! We hope that you are celebrated this weekend by your fa
 
 *Daybreak is hosting a Mother's Day Drive-Thru (May 9th, 10a-2p) where families can pick up a craft gift to make at home for their mamas.*
 
-**Click below for online Mother's Day Gift options:**
-[Mother's Day Card Printable](https://drive.google.com/file/d/1iVRZ0DugbSrSowEsRjLsq6TRZ_6aYqCy/view?usp=sharing)
+**Click below for online Mother's Day Gift options:**[Mother's Day Card Printable](https://drive.google.com/file/d/1iVRZ0DugbSrSowEsRjLsq6TRZ_6aYqCy/view?usp=sharing)
 [Mother's Day Prompt Gift](https://drive.google.com/file/d/1U5SpHZh4Yo46prxpypezdXmR8msKUsbQ/view?usp=sharing)
 
 Please let us know if we can help you in any way!
