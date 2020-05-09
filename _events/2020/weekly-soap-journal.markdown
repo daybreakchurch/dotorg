@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* May 2: Acts 10
-* May 3: Acts 11
-* May 4: Acts 12
-* May 5: Acts 13
-* May 6: Acts 14
-* May 7: Acts 15
-* May 8: Acts 16
 * May 9: Acts 17
+* May 10: Acts 18
+* May 11: Acts 19
+* May 12: Acts 20
+* May 13: Acts 21
+* May 14: Acts 22
+* May 15: Acts 23
+* May 16: Acts 24
 
 ##### How to Journal
 
