@@ -10,9 +10,9 @@ video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed
 small_image: "/uploads/Elementary-87394d.png"
 ---
 
-Happy Mothers Day! We hope you are having some great quality time with your family. This week we are going to spend some time celebrating mamas. Check out our video for some surprise shout-outs!
+Happy Mother's Day! We hope you are having some great quality time with your family. This week we are going to spend some time celebrating mamas. Check out our video for some surprise shout-outs!
 
-_Daybreak is hosting a Mother's Day Drive-Thru (May 9th, 10a-2p) where families can pick up a craft gift to make at home for their mamas._
+*Daybreak is hosting a Mother's Day Drive-Thru (May 9th, 10a-2p) where families can pick up a craft gift to make at home for their mamas.*
 
 **Click below for online Mother's Day Gift options:**
 [Mother's Day Card Printable](https://drive.google.com/file/d/1iVRZ0DugbSrSowEsRjLsq6TRZ_6aYqCy/view?usp=sharing)
