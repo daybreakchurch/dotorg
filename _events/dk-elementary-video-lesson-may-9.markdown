@@ -1,7 +1,12 @@
 ---
 title: DK Elementary Video Lesson | May 9
-date: 2020-05-08 14:20:00 -07:00
-image: "/uploads/Elementary.png"
+date: 2020-05-08 00:00:00 -07:00
+tags:
+- kids
+video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/YElEvXcV5aw"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
+small_image: "/uploads/Elementary-87394d.png"
 ---
 
 Happy Mothers Day! We hope you are having some great quality time with your family. This week we are going to spend some time celebrating mamas. Check out our video for some surprise shout-outs!
