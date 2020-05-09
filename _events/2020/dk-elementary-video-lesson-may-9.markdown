@@ -1,6 +1,6 @@
 ---
 title: DK Elementary Video Lesson | May 9
-date: 2020-05-08 00:00:00 -07:00
+date: 2020-05-08 12:00:00 -07:00
 tags:
 - kids
 position: 8
