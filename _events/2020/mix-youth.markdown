@@ -13,10 +13,28 @@ image: "/uploads/Mix-Youth_1920.jpg"
 small_image: "/uploads/Mix-Youth_480.jpg"
 ---
 
-We are all about raising up a united generation of young believers and passionate about this generation becoming unified together and unified in Christ. We are dedicated to serving the next generation and reaching the youth and young adults of our city.
+**Why We Exist**: We are all about raising up a united generation of young believers and passionate about this generation becoming unified together and unified in Christ. We are dedicated to serving the next generation and reaching the youth and young adults of our city.
 
-Beginning September 11, MIX Youth - MixMid (Middle School) and MixHS (High School) will meet every Wednesday night from 7:00-9:00p for unified worship followed by separate ministry time.
+**Sevice Times During COVID-19**
 
-MixMid gathers Sundays mornings at the 8:30 and 11:30 services in the Loft.
+**Wednesday**
 
-MixHS gathers on Sundays mornings during the 10:00a service located in the front rows of our worship center.
+* IG live - 6:50 ([@mix_youth](https://www.instagram.com/mix_youth/?hl=en))
+
+* IGTV service - 7pm
+
+* YouTube service - 7 pm
+
+* Zoom groups - 7:10
+
+**Sunday - **Watch service with your family
+
+**Overview of Weekly Events Online**
+
+![Copy of Colorful Bright Bold Weekly Calendar-10.png](/uploads/Copy%20of%20Colorful%20Bright%20Bold%20Weekly%20Calendar-10.png)
+
+**Connect with Us:**
+
+* Instagram - [@mix_youth](https://www.instagram.com/mix_youth/?hl=en)
+
+* YouTube - [Mix Youth Channel](https://m.youtube.com/channel/UCcfWw9nZKNOLazn2b94RPWw)
