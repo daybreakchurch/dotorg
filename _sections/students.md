@@ -8,15 +8,18 @@ blocks:
   image: "/uploads/mixmid_slide.jpg"
   text: |-
     MIXMID is our middle school group, grades 6th-8th
-    * Wednesdays at 7:00p
-    * Sundays at 8:30 & 11:30a
+
+    * [Click Here](https://daybreakchurch.org/events/2020/mix-youth/) for Details
+
     * [Instagram](https://www.instagram.com/mixmid/)
 - name: Mix High School
   image: "/uploads/mixhs_slide.jpg"
   text: |-
     MIXHS is our high school group, grades 9th-12th
-    * Wednesdays at 7:00p
+
+    * [Click Here](https://daybreakchurch.org/events/2020/mix-youth/) for details
+
     * [Instagram](https://www.instagram.com/mixhs/)
 ---
 
-Every week, Daybreak students come together for high-energy, unpredictable and meaningful services. Whether you have a mid school or high school student, Daybreak is the place where they can meet friends, grow in faith, and learn how to make a difference.
+Every week, Daybreak students come together at MixYouth online for high-energy, unpredictable and meaningful services. Whether you are a mid school or high school student, MixYouth is the place where we can connect, have fun, meet friends, grow in faith, and learn how to make a difference in our world!
