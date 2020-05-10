@@ -35,6 +35,8 @@ small_image: "/uploads/Mix-Youth_480.jpg"
 
 **Connect with Us:**
 
-* Instagram - [@mix_youth](https://www.instagram.com/mix_youth/?hl=en)
+* ***Instagram*** - [@mix_youth](https://www.instagram.com/mix_youth/?hl=en)
 
-* YouTube - [Mix Youth Channel](https://m.youtube.com/channel/UCcfWw9nZKNOLazn2b94RPWw)
+* ***YouTube*** - [Mix Youth Channel](https://m.youtube.com/channel/UCcfWw9nZKNOLazn2b94RPWw)
+
+* ***Zoom Groups*** - Link in IG Bio
