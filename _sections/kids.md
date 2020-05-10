@@ -29,4 +29,6 @@ blocks:
   button_link: 
 ---
 
-If you have kids, we have an incredible Children’s ministry that will provide top-notch care for your children (ages birth through 5th grade) while you enjoy the service. Our Children’s staff and volunteers are the best and most experienced you will find. You can rest assured that your children will be loved and taken care of in a safe, secure, and exciting environment designed just for them, all while learning about Jesus!
+During the COVID-19 season, while we can not meet at church, we have exciting and interactive lessons each week online (see below) for both early childhood and elementary students .  We also have activities, information and fun on our [DK Instagram Kids](https://www.instagram.com/daybreak.kids/) feed. 
+
+When we are able to meet again in person, we have an incredible Children’s ministry that will provide top-notch care for your children (ages birth through 5th grade) while you enjoy the service. Our Children’s staff and volunteers are the best and most experienced you will find. You can rest assured that your children will be loved and taken care of in a safe, secure, and exciting environment designed just for them, all while learning about Jesus!
