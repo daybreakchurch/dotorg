@@ -7,8 +7,6 @@ sections:
 - Upcoming Events for Kids
 - Students
 - Upcoming Events for Students
-- 
-- 
 - Contact Us
 layout: sections
 ---
