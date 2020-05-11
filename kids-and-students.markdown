@@ -17,9 +17,7 @@ layout: sections
 
 We value each generation and seek to provide engaging, fun and spiritually challenging opportunities for every generation to grow in their knowledge and love for Jesus, at every age level. 
 
-**Early Childhood** - Birth to Kindergarten
-
-**Elementary** - 1st to 5th grade
+**Daybreak Kids** - Birth to 5th grade
 
 **MixMid** - 6th to 8th grade
 
