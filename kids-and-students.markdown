@@ -13,9 +13,7 @@ sections:
 layout: sections
 ---
 
-# DAYBREAK GENERATIONS
-
-We value each generation and seek to provide engaging, fun and spiritually challenging opportunities for every generation to grow in their knowledge and love for Jesus, at every age level. 
+We value each generation and seek to provide engaging, fun and spiritually challenging opportunities for every generation to grow in their knowledge and love for Jesus, at every age level.
 
 **Daybreak Kids** - Birth to 5th grade
 
