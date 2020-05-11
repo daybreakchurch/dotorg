@@ -4,6 +4,9 @@ date: 2020-04-30 13:15:00 -07:00
 tags:
 - events
 position: 1
+video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/ba6OJU1s4iw"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 image: "/uploads/Mother's%20Day%20Slide%20copy%203_1080.jpg"
 small_image: "/uploads/Mother's%20Day%20Slide%20copy%203_960.jpg"
 primary_button:
