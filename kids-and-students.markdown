@@ -6,7 +6,6 @@ header_bg_image: "/uploads/UTS_1920.jpg"
 sections:
 - Upcoming Events for Kids
 - Students
-- Upcoming Events for Students
 - Young Adults
 - Upcoming Events for Young Adults
 - Contact Us
