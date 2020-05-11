@@ -24,6 +24,6 @@ If you have lost a spouse, child, family member or friend, you’ve probably fou
 * How should I handle the big decisions that need to
   be made?
 
-The group will meet on Saturday mornings online from 10:00-11:00a for 13 weeks beginning May 23. You may join the class at any time during the 13 weeks. There is a $15 fee for materials.  
+The group will meet on Saturday mornings online from 10:00-11:30a for 13 weeks beginning May 23. You may join the class at any time during the 13 weeks. There is a $15 fee for materials.  
 
 For more information, contact Lauren at 858.925.3911.
