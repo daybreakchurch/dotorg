@@ -5,7 +5,7 @@ tags:
 - groups
 - events
 position: 41
-custom_dates: May 23 - August 15, 2020
+custom_dates: May 23 - July 11, 2020
 image: "/uploads/GriefShare_960.jpg"
 small_image: "/uploads/GriefShare_480.jpg"
 primary_button:
@@ -24,6 +24,6 @@ If you have lost a spouse, child, family member or friend, you’ve probably fou
 * How should I handle the big decisions that need to
   be made?
 
-The group will meet on Saturday mornings online from 10:00-11:30a for 13 weeks beginning May 23. You may join the class at any time during the 13 weeks. There is a $15 fee for materials.  
+The group will resume meeting online on Saturday mornings from 10:00-11:30am, picking up with lesson 7 beginning May 23 through July 11. You may join the class at any time during the 7 weeks. There is a $15 fee for materials.  
 
 For more information, contact Lauren at 858.925.3911.
