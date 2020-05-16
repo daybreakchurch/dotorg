@@ -1,6 +1,6 @@
 ---
 title: Weekly SOAP Journal
-date: 2020-04-30 14:39:00 -07:00
+date: 2020-05-16 14:39:00 -07:00
 tags:
 - events
 position: 2
@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* May 9: Acts 17
-* May 10: Acts 18
-* May 11: Acts 19
-* May 12: Acts 20
-* May 13: Acts 21
-* May 14: Acts 22
-* May 15: Acts 23
 * May 16: Acts 24
+* May 17: Acts 25
+* May 18: Acts 26
+* May 19: Acts 27
+* May 20: Acts 28
+* May 21: Romans 1
+* May 22: Romans 2
+* May 23: Romans 3
 
 ##### How to Journal
 
