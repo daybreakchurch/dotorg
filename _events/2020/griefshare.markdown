@@ -4,7 +4,7 @@ date: 2020-05-23 10:00:00 -07:00
 tags:
 - groups
 - events
-position: 40
+position: 41
 custom_dates: May 23 - August 15, 2020
 image: "/uploads/GriefShare_960.jpg"
 small_image: "/uploads/GriefShare_480.jpg"
