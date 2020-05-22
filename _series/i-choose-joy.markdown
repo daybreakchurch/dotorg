@@ -1,0 +1,7 @@
+---
+title: I Choose Joy
+date: 2020-05-21 17:41:00 -07:00
+image: "/uploads/I-Choose-Joy_title_1920.jpg"
+small_image: "/uploads/I%20Choose%20Joy_title_960.jpg"
+---
+
