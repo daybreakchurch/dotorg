@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* May 16: Acts 24
-* May 17: Acts 25
-* May 18: Acts 26
-* May 19: Acts 27
-* May 20: Acts 28
-* May 21: Romans 1
-* May 22: Romans 2
 * May 23: Romans 3
+* May 24: Romans 4
+* May 25: Romans 5
+* May 26: Romans 6
+* May 27: Romans 7
+* May 28: Romans 8
+* May 29: Romans 9
+* May 30: Romans 10
 
 ##### How to Journal
 
