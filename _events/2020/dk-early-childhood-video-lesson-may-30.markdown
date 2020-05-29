@@ -16,4 +16,4 @@ This week as we watch our last video for the series, we get to learn about why l
 ["About Me" Fingerprint Craft Instructions](https://drive.google.com/file/d/1x6mlvxfQJmTSL1_N3wn4R8asfq0nhRF_/view?usp=sharing)
 [Fingerprint Craft Printable](https://drive.google.com/file/d/12TwThAMTkHtE-1WcPBwvA-jkwX7m_wEz/view?usp=sharing)
 
-"Nothing at allcan ever separate you from God's love." -Romans 8:39
+"Nothing at all can ever separate you from God's love." -Romans 8:39
