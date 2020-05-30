@@ -17,7 +17,7 @@ Supplies Needed:
 * pencil or straw
 * scissors, tape, and pin
 * markers
-* [pinwheel template] (https://drive.google.com/file/d/1bhVwHGnEfe1ItrI1a7HO1KU9eItY6iCg/view?usp=sharing)
+* [pinwheel template](https://drive.google.com/file/d/1bhVwHGnEfe1ItrI1a7HO1KU9eItY6iCg/view?usp=sharing)
 
 **Click the link for a game:**
 [Paper Toss Game](https://drive.google.com/file/d/1FGKtlF1ki8r2nPyL0ESybq6rKdZzOpPh/view?usp=sharing)
