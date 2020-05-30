@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* May 23: Romans 3
-* May 24: Romans 4
-* May 25: Romans 5
-* May 26: Romans 6
-* May 27: Romans 7
-* May 28: Romans 8
-* May 29: Romans 9
-* May 30: Romans 10
+* May 30: 1 Thessalonians 2
+* May 31: 1 Thessalonians 3
+* June 1: 1 Thessalonians 4
+* June 2: 1 Thessalonians 5
+* June 3: 2 Thessalonians 1
+* June 4: 2 Thessalonians 2
+* June 5: 2 Thessalonians 3
+* June 6: 1 Timothy 1
 
 ##### How to Journal
 
