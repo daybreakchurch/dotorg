@@ -13,7 +13,6 @@ small_image: "/uploads/Website%20Graphic-%20Elementary-6a75c2.png"
 Last week, we learned how Paul and Silas chose joy over the sorrow of the cold prison cell they had been thrown in for spreading Jesus' truth. Through the choice of singing praises to God, many lives were changed that day. Today, we will find out that God gives you what you need to keep going. The gift and power he left the disciples in the Bible is the same gift and power we receive when we make the choice to ask Jesus into our lives.
 
 **Holy Spirit Pinwheel Craft**
-
 Supplies Needed:
 * pencil or straw
 * scissors, tape, and pin
