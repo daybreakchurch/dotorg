@@ -11,7 +11,7 @@ small_image: "/uploads/dk_past_960.jpg"
 [DK ELEMENTARY VIDEO LESSON | APRIL 4](https://daybreakchurch.org/events/2020/daybreak-kids-1st-5th-at-home/)
 [DK EARLY CHILDHOOD VIDEO LESSON | APRIL 4](https://daybreakchurch.org/events/2020/daybreak-kids-ec-at-home/)
 [DK ELEMENTARY VIDEO LESSON | APRIL 11](https://daybreakchurch.org/events/2020/dk-elementary-video-lesson-april-11/)
-DK EARLY CHILDHOOD VIDEO LESSON | APRIL 11
+[DK EARLY CHILDHOOD VIDEO LESSON | APRIL 11](https://daybreakchurch.org/events/2020/dk-early-childhood-lesson-april-11/)
 [DK ELEMENTARY VIDEO LESSON | APRIL 18](https://daybreakchurch.org/events/2020/dk-early-childhood-lesson-april-11/)
 [DK EARLY CHILDHOOD VIDEO LESSON | APRIL 18](https://daybreakchurch.org/events/2020/dk-early-childhood-video-lesson-april-18/)
 [DK EARLY CHILDHOOD VIDEO LESSON | APRIL 25](https://daybreakchurch.org/events/2020/dk-early-childhood-video-lesson-april-25/)
@@ -24,4 +24,3 @@ DK EARLY CHILDHOOD VIDEO LESSON | APRIL 11
 [DK ELEMENTARY VIDEO LESSON | MAY 16](https://daybreakchurch.org/events/2020/dk-elementary-video-lesson-may-16/)
 [DK EARLY CHILDHOOD VIDEO LESSON | MAY 23](https://daybreakchurch.org/events/2020/dk-early-childhood-video-lesson-may-23/)
 [DK ELEMENTARY VIDEO LESSON | MAY 23](https://daybreakchurch.org/events/2020/dk-elementary-video-lesson-may-23/)
-
