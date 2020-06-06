@@ -16,4 +16,4 @@ Today we get to hear about Jesus, a real man, who God sent to earth to do some p
 [Jesus Feeds 5,000 Craft](https://drive.google.com/file/d/1EjbraqEy2Ovq0YMWgucPjEdBbw1v-Xd0/view?usp=sharing)
 [Bread and Fish Printable](https://drive.google.com/file/d/17vnZrlkr2CJdPnJvE7_bHSrOa1Fn19OA/view?usp=sharing)
 
-"These are written so that you may believe that Jesus is the Christ, the Son of God." -John 20:31 (NLV)
+*"These are written so that you may believe that Jesus is the Christ, the Son of God." -John 20:31 (NLV)*
