@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* May 30: 1 Thessalonians 2
-* May 31: 1 Thessalonians 3
-* June 1: 1 Thessalonians 4
-* June 2: 1 Thessalonians 5
-* June 3: 2 Thessalonians 1
-* June 4: 2 Thessalonians 2
-* June 5: 2 Thessalonians 3
 * June 6: 1 Timothy 1
+* June 7: 1 Timothy 2
+* June 8: 1 Timothy 3
+* June 9: 1 Timothy 4
+* June 10: 1 Timothy 5
+* June 11: 1 Timothy 6
+* June 12: 2 Timothy 1
+* June 13: 2 Timothy 2
 
 ##### How to Journal
 
