@@ -1,6 +1,5 @@
 ---
 title: Jobs
-published: false
 header_bg_image: "/uploads/patio_1920.jpg"
 ---
 
