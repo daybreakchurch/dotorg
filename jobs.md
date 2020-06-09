@@ -4,7 +4,7 @@ published: false
 header_bg_image: "/uploads/patio_1920.jpg"
 ---
 
-#### Technical Director
+#### MIDDLE SCHOOL PASTOR
 
 OVERVIEW
 Daybreak Church exists to see countless people from all over San Diego County and around the world, being saved and made whole by Jesus. Families that once were broken and lost will find healing through a church that offers them a fresh start and lasting hope.
