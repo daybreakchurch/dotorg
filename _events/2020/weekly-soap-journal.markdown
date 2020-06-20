@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* June 13: 2 Timothy 2
-* June 14: 2 Timothy 3
-* June 15: 2 Timothy 4
-* June 16: Titus 1
-* June 17: Titus 2
-* June 18: Titus 3
-* June 19: Joshua 1
 * June 20: Joshua 2
+* June 21: Joshua 3
+* June 22: Joshua 4
+* June 23: Joshua 5
+* June 24: Joshua 6
+* June 25: Joshua 7
+* June 26: Joshua 8
+* June 27: Joshua 9
 
 ##### How to Journal
 
