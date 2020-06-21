@@ -1,7 +1,6 @@
 ---
 title: Food Drive for Military Families
 date: 2020-06-20 16:46:00 -07:00
-published: false
 tags:
 - events
 custom_dates: June 23, 24 & 25  Noon to 3:00pm
