@@ -13,7 +13,7 @@ This week we are hosting another food drive and gift card drive, this time for o
 
 **June 23, 24 & 25, Noon to 3:00pm**
 
-* Gift cards in a $25 denomination for ease.
+* Gift cards in a $25 denomination for ease. 
 * Oatmeal
 * Pancake mix
 * Syrup
