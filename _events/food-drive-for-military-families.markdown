@@ -9,7 +9,6 @@ image: "/uploads/42172B39-C95B-4037-A7C8-32AB0B59BE1D.jpeg"
 small_image: "/uploads/7C2E7742-5746-485A-97BE-D503852FE914-42877f.jpeg"
 ---
 
-##### Food Drive for Military Families
 
 This week we are hosting another food drive and gift card drive, this time for our military! We have a goal to bless 400 Marines and their families as they come back from deployment.
 
