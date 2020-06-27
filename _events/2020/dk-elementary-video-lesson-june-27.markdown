@@ -7,7 +7,7 @@ position: 11
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/r221mVM9u3s"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
-small_image: "/uploads/Website%20Graphic-%20Elementary-4d3f7d.png"
+small_image: "/uploads/Website%20Graphic-%20Elementary-224113.png"
 ---
 
 This week, we will learn about how Philip obeyed God and went exactly where God told him, even when it wasn't his own personal plan. When he obeyed God, he found out that he was able to do something incredible for an Ethiopian man he would never have met if he went his own way. Philip answered his questions about the scriptures he was reading. We can learn to keep going even when you have questions. Read about how Philip changed the man's life in Acts 8:26-40. 
