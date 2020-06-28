@@ -1,6 +1,7 @@
 ---
 title: Food Drive for Military Families
 date: 2020-06-20 16:46:00 -07:00
+published: false
 tags:
 - events
 position: 1
