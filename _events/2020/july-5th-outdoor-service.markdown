@@ -3,6 +3,7 @@ title: July 5th Outdoor Service
 date: 2020-07-03 08:30:00 -07:00
 tags:
 - events
+position: 0
 custom_dates: 8:30, 10:00 & 11:30a
 image: "/uploads/Outdoor%20Service_1080.jpg"
 small_image: "/uploads/Outdoor%20Service_960.jpg"
