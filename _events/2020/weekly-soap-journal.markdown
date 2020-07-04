@@ -12,7 +12,7 @@ small_image: "/uploads/Weekly%20Soap_960.jpg"
 * July 4: Joshua 16
 * July 5: Joshua 17
 * July 6: Joshua 18
-* June 7: Joshua 19
+* July 7: Joshua 19
 * July 8: Joshua 20
 * July 9: Joshua 21
 * July 10: Joshua 22
