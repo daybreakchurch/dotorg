@@ -1,5 +1,5 @@
 ---
-title: DK Early Childhood | July 4
+title: DK Early Childhood Video Lesson | July 4
 date: 2020-07-03 20:58:00 -07:00
 tags:
 - kids
