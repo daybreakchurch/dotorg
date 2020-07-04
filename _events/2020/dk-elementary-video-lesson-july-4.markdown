@@ -3,6 +3,7 @@ title: DK Elementary Video Lesson | July 4
 date: 2020-07-03 21:03:00 -07:00
 tags:
 - kids
+position: 2
 small_image: "/uploads/Website%20Graphic-%20Elementary-494656.png"
 ---
 
