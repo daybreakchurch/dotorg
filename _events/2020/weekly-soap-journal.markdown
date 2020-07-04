@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* June 27: Joshua 9
-* June 28: Joshua 10
-* June 29: Joshua 11
-* June 30: Joshua 12
-* July 1: Joshua 13
-* July 2: Joshua 14
-* July 3: Joshua 15
 * July 4: Joshua 16
+* July 5: Joshua 17
+* July 6: Joshua 18
+* June 7: Joshua 19
+* July 8: Joshua 20
+* July 9: Joshua 21
+* July 10: Joshua 22
+* July 11: Joshua 23
 
 ##### How to Journal
 
