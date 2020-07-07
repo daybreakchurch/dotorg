@@ -163,7 +163,7 @@ exclude:
 - vendor/bootstrap/
 homepage:
   title: Daybreak at Home
-  subtitle: Online Service | Sundays 8:30, 10:00 & 11:30a
+  subtitle: Online Service | Sundays 9:00 & 10:00a
   button:
     label: Click here to watch the online service
     link: https://daybreakca.online.church
