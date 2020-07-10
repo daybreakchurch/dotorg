@@ -1,7 +1,7 @@
 ---
 title: DK Early Childhood Video Lesson | April 25
 date: 2020-04-25 08:00:00 -07:00
-position: 34
+position: 35
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/UVtrOJJ-SZM"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>

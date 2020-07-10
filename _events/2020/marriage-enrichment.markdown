@@ -3,7 +3,7 @@ title: Marriage Enrichment
 date: 2019-01-21 18:30:00 -08:00
 tags:
 - classes
-position: 57
+position: 58
 custom_dates: January 21 - February 25
 image: "/uploads/marriage%20enrichment_cherish@1920.jpg"
 small_image: "/uploads/marriage%20enrichment_cherish@480.jpg"
