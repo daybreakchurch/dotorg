@@ -4,6 +4,9 @@ date: 2020-07-09 18:49:00 -07:00
 tags:
 - kids
 position: 13
+video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/7SkR0MlFqFE"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 small_image: "/uploads/Website%20Graphic-%20Elementary%20July%2011.png"
 ---
 
