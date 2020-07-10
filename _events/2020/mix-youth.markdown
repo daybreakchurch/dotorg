@@ -4,7 +4,7 @@ date: 2019-09-11 19:00:00 -07:00
 tags:
 - events
 - students
-position: 55
+position: 56
 custom_dates: Wednesdays 7:00-9:00p
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/EOPfK4WtOHE"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
