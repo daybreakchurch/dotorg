@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* July 11: Joshua 23
-* July 12: Joshua 24
-* July 13: Acts 1
-* July 14: Acts 2
-* July 15: Acts 3
-* July 16: Acts 4
-* July 17: Acts 5
 * July 18: Acts 6
+* July 19: Acts 7
+* July 20: Acts 8
+* July 21: Acts 9
+* July 22: Acts 10
+* July 23: Acts 11
+* July 24: Acts 12
+* July 25: Acts 13
 
 ##### How to Journal
 
