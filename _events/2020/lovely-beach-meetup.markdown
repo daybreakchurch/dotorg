@@ -1,6 +1,7 @@
 ---
 title: Lovely Beach Meetup
 date: 2020-07-23 11:00:00 -07:00
+position: 1
 location: Moonlight Beach
 image: "/uploads/Lovely_beach_1080.jpg"
 small_image: "/uploads/Lovely_beach_960.jpg"
