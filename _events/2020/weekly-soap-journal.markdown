@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* July 18: Acts 6
-* July 19: Acts 7
-* July 20: Acts 8
-* July 21: Acts 9
-* July 22: Acts 10
-* July 23: Acts 11
-* July 24: Acts 12
 * July 25: Acts 13
+* July 26: Acts 14
+* July 27: Acts 15
+* July 28: Acts 16
+* July 29: Acts 17
+* July 30: Acts 18
+* July 31: Acts 19
+* August 1: Acts 20
 
 ##### How to Journal
 
