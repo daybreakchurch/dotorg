@@ -10,7 +10,7 @@ video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed
 small_image: "/uploads/Website%20Graphic-%20EC%20July%2025.png"
 ---
 
-**Don't forget to join us tomorrow, Sunday 26th, for Daybreak's outdoor services 9a and 10a. First 150 kids get a DK Summer Box!**
+**Don't forget to join us tomorrow, Sunday 26th, for Daybreak's outdoor services 9a and 10a. First 150 kids (4yrs. and older) get a DK Summer Box!**
 
 Guess what?! Miss Nicola and Slider have a brand new series to announce this week called "Dive In." We will explore what it means to follow Jesus. You will be a finder fish and find out that when you read the Bible and do what it says- tell others about God’s love and even follow others who love him too- you are following Jesus! Click on the lesson above to see how Jesus called a fisherman named Peter to be a fisher of men!
 
