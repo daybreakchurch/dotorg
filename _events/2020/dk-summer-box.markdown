@@ -14,4 +14,4 @@ Grab your Summer Box and get out the M&Ms, Oreos, beach ball, and sidewalk chalk
 
 *"Let everything that has breath praise the Lord. Praise the Lord."-Psalm 150:6*
 
-\***Join us tomorrow for another video and activity!**
+***Join us tomorrow for another video and activity!**
