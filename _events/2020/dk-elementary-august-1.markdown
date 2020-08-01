@@ -1,5 +1,5 @@
 ---
-title: DK Elementary | August 1
+title: DK Elementary Video Lesson | August 1
 date: 2020-07-31 22:33:00 -07:00
 tags:
 - kids
