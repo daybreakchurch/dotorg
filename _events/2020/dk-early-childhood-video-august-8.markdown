@@ -1,5 +1,5 @@
 ---
-title: DK Early Childhood Video | August 8
+title: DK Early Childhood Video Lesson | August 8
 date: 2020-08-07 20:10:00 -07:00
 tags:
 - kids
