@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* August 1: Acts 20
-* August 2: Acts 21
-* August 3: Acts 22
-* August 4: Acts 23
-* August 5: Acts 24
-* August 6: Acts 25
-* August 7: Acts 26
 * August 8: Acts 27
+* August 9: Acts 28
+* August 10: Ezra 1
+* August 11: Ezra 2
+* August 12: Ezra 3
+* August 13: Ezra 4
+* August 14: Ezra 5
+* August 15: Ezra 6
 
 ##### How to Journal
 
