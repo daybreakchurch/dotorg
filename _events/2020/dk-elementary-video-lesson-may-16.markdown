@@ -1,7 +1,7 @@
 ---
 title: DK Elementary Video Lesson | May 16
 date: 2020-05-15 20:01:00 -07:00
-position: 42
+position: 43
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/QuBn9LRexB8"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>

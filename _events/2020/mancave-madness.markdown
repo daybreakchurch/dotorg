@@ -5,7 +5,7 @@ published: false
 tags:
 - events
 - anchoredman
-position: 61
+position: 62
 image: "/uploads/Mancave-Madness_2020_1920.jpg"
 small_image: "/uploads/Mancave-Madness_2020_480.jpg"
 ---
