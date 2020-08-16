@@ -4,7 +4,7 @@ date: 2019-01-21 18:30:00 -08:00
 tags:
 - classes
 - events
-position: 27
+position: 11
 custom_dates: September 21 - October 12
 image: "/uploads/marriage_480.jpg"
 small_image: "/uploads/marriage_480.jpg"
