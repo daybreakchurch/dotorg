@@ -4,8 +4,8 @@ date: 2019-01-21 18:30:00 -08:00
 tags:
 - classes
 position: 74
-custom_dates: January 21 - February 25
-image: "/uploads/marriage%20enrichment_cherish@1920.jpg"
+custom_dates: September 21 - October 12
+image: "/uploads/marriage_480.jpg"
 small_image: "/uploads/marriage%20enrichment_cherish@480.jpg"
 primary_button:
   label: Register Here
