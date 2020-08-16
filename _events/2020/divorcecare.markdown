@@ -3,7 +3,7 @@ title: DivorceCare
 tags:
 - groups
 - events
-position: 77
+position: 65
 custom_dates: Upcoming
 image: "/uploads/DivorceCare_960.jpg"
 small_image: "/uploads/DivorceCare_480.jpg"

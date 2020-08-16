@@ -5,7 +5,7 @@ tags:
 - classes
 - mens
 - events
-position: 70
+position: 71
 custom_dates: Upcoming
 image: "/uploads/Anchoredman-Bootcamp_960.jpg"
 small_image: "/uploads/Anchoredman-Bootcamp_480.jpg"
