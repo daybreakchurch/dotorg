@@ -1,6 +1,6 @@
 ---
 title: Marriage Enrichment
-date: 2019-01-21 18:30:00 -08:00
+date: 2020-09-21 19:00:00 -07:00
 tags:
 - classes
 - events
