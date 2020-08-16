@@ -4,7 +4,7 @@ tags:
 - group
 - classes
 position: 76
-custom_dates: February 2 - March 22
+custom_dates: Upcoming
 image: "/uploads/Starting_point_960.jpg"
 small_image: "/uploads/Starting_point_480.jpg"
 ---
