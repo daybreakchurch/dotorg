@@ -4,7 +4,7 @@ date: 2020-05-23 10:00:00 -07:00
 tags:
 - groups
 - events
-position: 10
+position: 9
 custom_dates: UPCOMING
 image: "/uploads/GriefShare_960.jpg"
 small_image: "/uploads/GriefShare_480.jpg"
