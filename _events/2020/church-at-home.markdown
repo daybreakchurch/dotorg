@@ -1,6 +1,7 @@
 ---
 title: Church at Home
 date: 2020-03-25 17:09:00 -07:00
+published: false
 tags:
 - events
 position: 13
