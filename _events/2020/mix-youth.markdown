@@ -1,6 +1,7 @@
 ---
 title: Mix Youth
 date: 2019-09-11 19:00:00 -07:00
+published: false
 tags:
 - events
 - students
