@@ -1,6 +1,5 @@
 ---
 title: Starting Point
-date: 2019-02-02 10:00:00 -08:00
 tags:
 - group
 - classes
