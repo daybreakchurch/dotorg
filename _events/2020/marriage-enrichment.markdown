@@ -3,10 +3,11 @@ title: Marriage Enrichment
 date: 2019-01-21 18:30:00 -08:00
 tags:
 - classes
+- events
 position: 74
 custom_dates: September 21 - October 12
 image: "/uploads/marriage_480.jpg"
-small_image: "/uploads/marriage%20enrichment_cherish@480.jpg"
+small_image: "/uploads/marriage_480.jpg"
 primary_button:
   label: Register Here
   link: https://daybreak.churchcenter.com/registrations/events/503431
