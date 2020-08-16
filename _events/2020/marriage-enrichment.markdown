@@ -9,7 +9,7 @@ image: "/uploads/marriage%20enrichment_cherish@1920.jpg"
 small_image: "/uploads/marriage%20enrichment_cherish@480.jpg"
 primary_button:
   label: Register Here
-  link: https://daybreak.churchcenter.com/registrations/events/341517
+  link: https://daybreak.churchcenter.com/registrations/events/503431
 ---
 
 ### **Staying in Love**
