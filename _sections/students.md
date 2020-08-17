@@ -19,4 +19,6 @@ blocks:
 
 ---
 
-Every week, Daybreak students come together at MixYouth online for high-energy, unpredictable and meaningful services. Whether you are a mid school or high school student, MixYouth is the place where we can connect, have fun, meet friends, grow in faith, and learn how to make a difference in our world!
+**DAYBREAK YOUTH launching live on campus August 23rd!**
+
+Whether you are a mid school or high school student, DAYBREAK YOUTH is the place where we can connect, have fun, meet friends, grow in faith, and learn how to make a difference in our world!
