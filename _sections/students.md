@@ -5,13 +5,13 @@ template: text_blocks
 has_visible_title: true
 blocks:
 - name: MixMid
-  image: "/uploads/mixmid_slide.jpg"
+  image: "/uploads/YTH.png"
   text: |+
     MIXMID is our middle school group, grades 6th-8th
 
 
 - name: Mix High School
-  image: "/uploads/mixhs_slide.jpg"
+  image: "/uploads/YTH.png"
   text: |+
     MIXHS is our high school group, grades 9th-12th
 
