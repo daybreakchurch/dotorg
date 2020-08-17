@@ -1,6 +1,7 @@
 ---
 title: DK Early Childhood Video Lesson | May 30
 date: 2020-05-29 15:15:00 -07:00
+published: false
 position: 45
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/JWT38zaCDIo"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
