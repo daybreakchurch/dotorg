@@ -1,7 +1,6 @@
 ---
 title: Baptism Sunday
 date: 2020-09-13 09:00:00 -07:00
-published: false
 tags:
 - events
 position: 70
@@ -9,7 +8,7 @@ image: "/uploads/Baptism-2020_1920.jpg"
 small_image: "/uploads/Baptism-2020_480.jpg"
 primary_button:
   label: Sign Up Here
-  link: https://daybreak.churchcenter.com/registrations/events/339853
+  link: https://daybreak.churchcenter.com/registrations/events/504086
 ---
 
 Our next baptism is coming up on September 13 during the 9:00a and 10:00a services. If you are a follower of Jesus Christ and have not yet been baptized, we encourage you to take a step of obedience and be baptized.
