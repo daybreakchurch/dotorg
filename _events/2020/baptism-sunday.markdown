@@ -1,6 +1,6 @@
 ---
 title: Baptism Sunday
-date: 2020-01-26 08:30:00 -08:00
+date: 2020-09-13 09:00:00 -07:00
 published: false
 tags:
 - events
