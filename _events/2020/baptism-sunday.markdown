@@ -5,8 +5,8 @@ published: false
 tags:
 - events
 position: 2
-image: "/uploads/Baptism-2020_1920.jpg"
-small_image: "/uploads/Baptism-2020_480.jpg"
+image: "/uploads/Baptism_sunday_1920.jpg"
+small_image: "/uploads/Baptism_Sunday_480.jpg"
 primary_button:
   label: Sign Up Here
   link: https://daybreak.churchcenter.com/registrations/events/504086
