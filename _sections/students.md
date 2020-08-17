@@ -4,16 +4,16 @@ date: 2018-08-20 05:58:00 -07:00
 template: text_blocks
 has_visible_title: true
 blocks:
-- name: MixMid
+- name: DAYBREAK YOUTH
   image: "/uploads/YTH.png"
   text: |+
-    MIXMID is our middle school group, grades 6th-8th
+    DAYBREAK YOUTH is our middle school group, grades 6th-8th
 
 
-- name: Mix High School
+- name: DAYBREAK YOUTH High School
   image: "/uploads/YTH.png"
   text: |+
-    MIXHS is our high school group, grades 9th-12th
+    DAYBREAK YOUTH is our high school group, grades 9th-12th
 
 
 
