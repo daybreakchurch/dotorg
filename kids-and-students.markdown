@@ -17,8 +17,8 @@ We value each generation and seek to provide engaging, fun and spiritually chall
 
 **Daybreak Kids** - Birth to 5th grade
 
-**MixMid** - 6th to 8th grade
+**DAYBREAK YOUTH** - 6th to 8th grade
 
-**MixHS** - 9th to 12th grade
+**DAYBREAK YOUTH** - 9th to 12th grade
 
 **Young Adults** - 18 to 20 something
