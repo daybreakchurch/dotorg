@@ -10,10 +10,9 @@ blocks:
     DAYBREAK YTH is our middle school and high school group, grades 6th-12th
 
 
-- name: DAYBREAK YOUTH High School
-  image: "/uploads/YTH.png"
-  text: |+
-    DAYBREAK YOUTH is our high school group, grades 9th-12th
+- name: 
+  image: 
+  text: |2+
 
 
 
