@@ -10,12 +10,6 @@ blocks:
     DAYBREAK YTH is our middle school and high school group, grades 6th-12th
 
 
-- name: 
-  image: 
-  text: |2+
-
-
-
 ---
 
 **DAYBREAK YTH launching live on campus August 23rd!**
