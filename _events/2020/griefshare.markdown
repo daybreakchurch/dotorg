@@ -10,7 +10,7 @@ image: "/uploads/GriefShare_960.jpg"
 small_image: "/uploads/GriefShare_480.jpg"
 primary_button:
   label: REGISTER HERE
-  link: https://daybreak.churchcenter.com/registrations/events/422491
+  link: https://daybreak.churchcenter.com/registrations/events/507130
 ---
 
 If you have lost a spouse, child, family member or friend, you’ve probably found there are not many people who understand the deep hurt you feel. You don’t have to go through the grieving process alone. GriefShare offers a biblical approach to grief recovery and the return to emotional health. Each session includes a video seminar, group discussion and journaling/workbook exercises. Among many others, you will find answers to the following questions:
