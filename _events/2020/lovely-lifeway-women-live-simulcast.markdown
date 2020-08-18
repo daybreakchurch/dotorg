@@ -8,6 +8,7 @@ position: 1
 custom_dates: August 29, 2020
 image: "/uploads/lovelybeachsimulcast8.17.20_db_socialmedia-12.PNG"
 small_image: "/uploads/lovelybeachsimulcast8.17.20_db_socialmedia-11.PNG"
+meta_text: Email LOVELY@daybreakchurch.org with any questions.
 primary_button:
   label: REGISTER HERE
   link: https://daybreak.churchcenter.com/registrations/events/501598
