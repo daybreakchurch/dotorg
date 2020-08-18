@@ -4,7 +4,7 @@ date: 2020-09-21 19:00:00 -07:00
 tags:
 - classes
 - events
-position: 12
+position: 9
 custom_dates: September 21 - October 12
 image: "/uploads/marriage_480.jpg"
 small_image: "/uploads/marriage_480.jpg"
