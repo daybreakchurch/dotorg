@@ -12,8 +12,6 @@ primary_button:
   link: https://daybreak.churchcenter.com/registrations/events/501598
 ---
 
-
-
 We will be streaming Lifeway’s 2020 Annual Women’s Conference right here at Daybreak! This will be a brand new experience for us to pursue Christ, ALL TOGETHER, while still social distancing.
 
 Bring your beach chair, hat, umbrella, bible, and whatever you will need for the day. We will spread out and enjoy worship, fellowship and inspiring speakers - including two of our favorites, Beth Moore and Priscilla Shirer! Let’s prepare our hearts as we go into the Fall, being refreshed by God’s word in our Lovely Community! This event is for ages 15 and up and please bring a neighbor or friend.
