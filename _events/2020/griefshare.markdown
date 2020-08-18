@@ -1,6 +1,6 @@
 ---
 title: GriefShare
-date: 2020-05-23 10:00:00 -07:00
+date: 2020-09-17 00:00:00 -07:00
 tags:
 - groups
 - events
