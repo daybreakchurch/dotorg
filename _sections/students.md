@@ -5,7 +5,7 @@ template: text_blocks
 has_visible_title: true
 blocks:
 - name: DAYBREAK YTH
-  image: "/uploads/Daybreak%20YTH%20(1).png"
+  image: "/uploads/YTH-3e6827.png"
   text: |+
     DAYBREAK YTH is our middle school and high school group, grades 6th-12th
 
