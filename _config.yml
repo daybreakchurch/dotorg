@@ -162,7 +162,7 @@ exclude:
 - Rakefile
 - vendor/bootstrap/
 homepage:
-  title: Daybreak at Home
+  title: Outdoor Service | Sundays 9:00 & 10:00a
   subtitle: Online Service | Sundays 9:00 & 10:00a
   button:
     label: Click here to watch the online service
