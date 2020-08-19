@@ -4,7 +4,7 @@ date: 2019-01-26 18:00:00 -08:00
 tags:
 - classes
 - events
-position: 8
+position: 10
 custom_dates: September 14 - November 23
 image: "/uploads/Financial-Peace-University_960.jpg"
 small_image: "/uploads/Financial-Peace-University_480.jpg"
