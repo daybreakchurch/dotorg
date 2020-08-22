@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* August 15: Ezra 6
-* August 16: Ezra 7
-* August 17: Ezra 8
-* August 18: Ezra 9
-* August 19: Ezra 10
-* August 20: Nehemiah 1
-* August 21: Nehemiah 2
 * August 22: Nehemiah 3
+* August 23: Nehemiah 4
+* August 24: Nehemiah 5
+* August 25: Nehemiah 6
+* August 26: Nehemiah 7
+* August 27: Nehemiah 8
+* August 28: Nehemiah 9
+* August 29: Nehemiah 10
 
 ##### How to Journal
 
