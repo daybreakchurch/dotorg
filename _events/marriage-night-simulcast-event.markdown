@@ -6,7 +6,7 @@ tags:
 custom_dates: September 12, 2020
 image: "/uploads/Marriage%20Night.jpg"
 small_image: "/uploads/PPT-1.jpg"
-meta_text: What goes here?
+meta_text: "$15 a person/$30 a couple"
 primary_button:
   label: REGISTER HERE
   link: https://daybreak.churchcenter.com/registrations/events/515733
