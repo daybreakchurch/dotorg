@@ -13,5 +13,4 @@ We are starting a brand new series, "The Great Outdoors," all about how we can k
 **Click the link for this week's craft:**
 [Quiet time with God](https://drive.google.com/file/d/1PIDz3OuKpBSQvGa_gsQUoIIuEWUVszXL/view?usp=sharing)
 
-*"...Jesus went out to a mountainside to pray, and spent the night praying to God." 
-Luke 6:12*
+*"...Jesus went out to a mountainside to pray, and spent the night praying to God." Luke 6:12*
