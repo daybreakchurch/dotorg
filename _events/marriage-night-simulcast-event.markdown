@@ -12,7 +12,9 @@ primary_button:
   link: https://daybreak.churchcenter.com/registrations/events/515733
 ---
 
-On SEPTEMBER 12, 2020, from 6:00 to 9:30pm join thousands of people from around the world for a one-night simulcast event. 
+####Daybreak is proud to offer **Marriage Night**
+
+On SEPTEMBER 12, 2020, from 6:00 to 9:30pm join thousands of people from around the world for a one-night simulcast event! 
 
 Laugh and learn with your spouse as you hear from marriage experts and discover how to honor God in your marriage. Healthy marriages don’t happen by accident. They require work and dedication, but with the busyness of life and the pressures of culture it’s easy to lose focus. 
 
