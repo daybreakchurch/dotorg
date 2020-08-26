@@ -4,9 +4,10 @@ date: 2020-09-12 22:24:00 -07:00
 tags:
 - events
 custom_dates: September 12, 2020
+location: Online simulcast
 image: "/uploads/Marriage%20Night.jpg"
 small_image: "/uploads/PPT-1.jpg"
-meta_text: "$15 a person/$30 a couple"
+meta_text: "$15 a person/$30 a couple "
 primary_button:
   label: REGISTER HERE
   link: https://daybreak.churchcenter.com/registrations/events/515733
