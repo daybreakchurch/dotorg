@@ -4,7 +4,7 @@ date: 2020-03-30 17:00:00 -07:00
 published: false
 tags:
 - events
-position: 65
+position: 66
 custom_dates: March 30-31
 image: "/uploads/24hrs_title_slide.jpg"
 small_image: "/uploads/24hrs_title_slide_480.jpg"
