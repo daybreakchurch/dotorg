@@ -5,7 +5,7 @@ template: image_blocks
 blocks:
 - name: Next Steps
   image: "/uploads/new_1920.jpg"
-  button_link: "/i'm new/"
+  button_link: "/next steps/"
 - name: Baptism
   image: "/uploads/baptism_960.jpg"
   button_link: "/baptism"
