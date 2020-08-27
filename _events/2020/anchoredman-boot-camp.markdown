@@ -1,6 +1,6 @@
 ---
 title: Anchoredman Boot Camp
-date: 2020-02-11 18:30:00 -08:00
+date: 2020-09-23 18:30:00 -07:00
 tags:
 - classes
 - mens
