@@ -1,6 +1,6 @@
 ---
 title: Baptism Sunday
-date: 2020-09-13 09:00:00 -07:00
+date: 2020-09-13 10:00:00 -07:00
 tags:
 - events
 position: 2
