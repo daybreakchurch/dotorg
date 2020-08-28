@@ -20,7 +20,7 @@ Accepting Christ as your Savior means you believe that Jesus Christ died on the 
 
 At Daybreak we have baptism celebrations a number of times each year. We encourage the whole church to come out and celebrate as people of all ages make this public commitment.
 
-Our next baptism will be September 13, 2020 during both outdoor services, 9:00am and 10:00am.
+Our next baptism will be September 13, 2020 during the 10:00am outdoor service.
 
 
 For more information on baptism contact [laura@daybreakchurch.org](mailto:laura@daybreakchurch.org)
