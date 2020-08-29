@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* August 22: Nehemiah 3
-* August 23: Nehemiah 4
-* August 24: Nehemiah 5
-* August 25: Nehemiah 6
-* August 26: Nehemiah 7
-* August 27: Nehemiah 8
-* August 28: Nehemiah 9
 * August 29: Nehemiah 10
+* August 30: Nehemiah 11
+* August 31: Nehemiah 12
+* September 1: Nehemiah 13
+* September 2: 1 Peter 1
+* September 3: 1 Peter 2
+* September 4: 1 Peter 3
+* September 5: 1 Peter 4
 
 ##### How to Journal
 
