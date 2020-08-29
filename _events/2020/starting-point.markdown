@@ -3,7 +3,7 @@ title: Starting Point
 tags:
 - group
 - classes
-position: 15
+position: 16
 custom_dates: Upcoming
 image: "/uploads/Starting_point_960.jpg"
 small_image: "/uploads/Starting_point_480.jpg"
