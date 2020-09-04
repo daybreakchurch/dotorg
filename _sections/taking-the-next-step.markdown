@@ -3,15 +3,15 @@ title: Taking the Next Step
 date: 2018-08-25 18:01:00 -07:00
 template: image_blocks
 blocks:
-- name: Next Steps
-  image: "/uploads/new_1920.jpg"
-  button_link: "/nextsteps"
-- name: Baptism
-  image: "/uploads/baptism_960.jpg"
-  button_link: "/baptism"
+- name: GROUPS
+  image: "/uploads/online-life-groups_1920.jpg"
+  button_link: "/groups"
 - name: Serving and Next Steps
   image: "/uploads/serving_960.jpg"
   button_link: "/serving-and-next-steps"
+- name: Baptism
+  image: "/uploads/baptism_960.jpg"
+  button_link: "/baptism"
 layout: default
 ---
 
