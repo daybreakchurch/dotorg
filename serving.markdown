@@ -1,5 +1,5 @@
 ---
-title: Serving
+title: Serving & Next Steps
 date: 2018-09-03 14:45:00 -07:00
 image: "/uploads/serving-2_960.jpg"
 primary_button:
