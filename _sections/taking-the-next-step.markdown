@@ -9,7 +9,7 @@ blocks:
 - name: Baptism
   image: "/uploads/baptism_960.jpg"
   button_link: "/baptism"
-- name: Serving & Next Steps
+- name: Serving and Next Steps
   image: "/uploads/serving_960.jpg"
   button_link: "/serving-and-next-steps"
 layout: default
