@@ -124,11 +124,11 @@ footer_nav:
     link: "/events"
   - label: Groups
     link: "/events/#groups"
-- label: Get Connected
-  link: "/get-connected"
+- label: Next Steps
+  link: "/next-steps"
   sub_links:
   - label: Taking the Next Step
-    link: "/get-connected/#taking-the-next-step"
+    link: "/next-steps/#taking-the-next-step"
   - label: Life Groups
     link: "/life-groups"
   - label: Daybreak Leadership College
