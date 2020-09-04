@@ -10,8 +10,6 @@ seconday_buttons:
   link: https://daybreak.churchcenter.com/people/forms/123326
 ---
 
-At Daybreak we believe that serving is absolutely essential - the church body needs everybody to do their part! Through serving, we glorify God, build up the church and reach out to others. 
+We are excited that you want to join one of our Daybreak Teams!   Serving is something that we want for you, not from you.  We are looking forward to spending time with you, having fun with you, growing with you, and investing in your life as we serve others together!  
 
-> 1 Peter 4:10 says, "Each one should use whatever gift he has received to serve others, faithfully administering God's grace in its various forms." 
-
-We want to help you find a meaningful place to serve!
+Sign up to be a part of the Daybreak Team!
