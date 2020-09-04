@@ -1,5 +1,5 @@
 ---
-title: Get Connected
+title: Next Steps
 position: 5
 is_in_top_nav: true
 header_bg_image: "/uploads/get-connected_2.jpg"
