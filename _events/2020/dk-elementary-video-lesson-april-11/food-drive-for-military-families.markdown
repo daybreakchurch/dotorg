@@ -4,7 +4,7 @@ date: 2020-06-20 16:46:00 -07:00
 published: false
 tags:
 - events
-position: 5
+position: 0
 custom_dates: June 23, 24 & 25  Noon to 3:00pm
 image: "/uploads/42172B39-C95B-4037-A7C8-32AB0B59BE1D.jpeg"
 small_image: "/uploads/7C2E7742-5746-485A-97BE-D503852FE914-42877f.jpeg"
