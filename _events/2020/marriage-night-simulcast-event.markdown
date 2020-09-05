@@ -3,7 +3,7 @@ title: Marriage Night Simulcast Event
 date: 2020-09-12 22:24:00 -07:00
 tags:
 - events
-position: 1
+position: 0
 custom_dates: September 12, 2020
 location: Online simulcast
 image: "/uploads/Marriage%20Night.jpg"
