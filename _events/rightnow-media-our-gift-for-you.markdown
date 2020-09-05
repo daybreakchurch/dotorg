@@ -2,6 +2,7 @@
 title: RightNow Media - Our Gift for You
 date: 2020-09-05 14:56:00 -07:00
 custom_dates: Ongoing
+image: "/uploads/A9A9D8B5-66EB-42BE-A0EC-B77AA50A888C.jpeg"
 primary_button:
   label: SIGN UP HERE
   link: https://www.rightnowmedia.org/Account/Invite/DaybreakChurch
