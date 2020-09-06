@@ -1,7 +1,7 @@
 ---
 title: Classes
 date: 2020-09-05 16:39:00 -07:00
-image: "/uploads/46C1A389-732F-4063-81DD-6019A6578C9F.png"
+image: "/uploads/classes-groups.jpg"
 section:
 - Marriage Enrichment
 ---
