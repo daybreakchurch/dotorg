@@ -1,7 +1,7 @@
 ---
 title: Serving & Next Steps
 date: 2018-09-03 14:45:00 -07:00
-image: "/uploads/serving-2_960.jpg"
+image: "/uploads/lodge_small.jpg"
 primary_button:
   label: Sign Up to Serve
   link: https://daybreak.churchcenter.com/people/forms/267
