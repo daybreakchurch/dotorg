@@ -4,8 +4,8 @@ date: 2020-09-13 10:00:00 -07:00
 tags:
 - events
 position: 1
-image: "/uploads/Baptism_sunday_1920.jpg"
-small_image: "/uploads/Baptism_Sunday_480.jpg"
+image: "/uploads/E9CC17A4-F859-47F8-9400-9AE366F56241.png"
+small_image: "/uploads/E9E3ECC2-592D-4AFF-9BAB-6E7A729DFACA.png"
 primary_button:
   label: Sign Up Here
   link: https://daybreak.churchcenter.com/registrations/events/504086
