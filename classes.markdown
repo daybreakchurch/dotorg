@@ -1,6 +1,9 @@
 ---
 title: Classes
 date: 2020-09-05 16:39:00 -07:00
+image: "/uploads/46C1A389-732F-4063-81DD-6019A6578C9F.png"
+section:
+- Marriage Enrichment
 ---
 
 At Daybreak, we have a full line-up of classes for you to choose from!  We are offering a choice for groups to meet in person or on Zoom, so no matter your comfort level we have something for you to take your Next Step.  
