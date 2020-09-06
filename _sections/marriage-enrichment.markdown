@@ -3,7 +3,7 @@ title: Marriage Enrichment
 date: 2020-09-05 15:52:00 -07:00
 template: image_and_text
 Field name:
-  image: "/uploads/marriage_480.jpg"
+  image: "/uploads/886AD43C-73A1-451A-A56F-06C087EB7C69.png"
 button_link: https://daybreak.churchcenter.com/registrations/events/503431
 ---
 
