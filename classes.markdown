@@ -5,6 +5,9 @@ image: "/uploads/classes-groups.jpg"
 section:
 - Marriage Enrichment
 - Financial Peace University
+- Anchoredman Bootcamp
+- DivorceCare
+- GriefShare
 Field name: 
 ---
 
