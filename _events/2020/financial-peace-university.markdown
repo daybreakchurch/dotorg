@@ -6,8 +6,8 @@ tags:
 - events
 position: 8
 custom_dates: September 14 - November 23
-image: "/uploads/Financial-Peace-University_960.jpg"
-small_image: "/uploads/Financial-Peace-University_480.jpg"
+image: "/uploads/7085DA3B-CADE-443F-9735-0FF77BCA59E3-e27aaa.png"
+small_image: "/uploads/8253064A-CBC1-446D-BF44-0DD8FE220EEB.png"
 meta_text: For more information, contact Eric or Theresa at 760.943.7780 or email
   FPU@daybreakchurch.org.
 primary_button:
