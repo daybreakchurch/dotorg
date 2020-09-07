@@ -6,7 +6,7 @@ tags:
 - events
 position: 9
 custom_dates: September 22 - October 13
-image: "/uploads/marriage_480.jpg"
+image: "/uploads/886AD43C-73A1-451A-A56F-06C087EB7C69-39485b.png"
 small_image: "/uploads/marriage_480.jpg"
 primary_button:
   label: Register Here
