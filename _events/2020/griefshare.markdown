@@ -4,7 +4,6 @@ date: 2020-09-17 00:00:00 -07:00
 tags:
 - groups
 - events
-- classes
 position: 13
 custom_dates: UPCOMING
 image: "/uploads/GriefShare_960.jpg"
