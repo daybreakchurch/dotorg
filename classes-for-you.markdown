@@ -3,9 +3,9 @@ title: Classes For You
 date: 2020-09-05 16:39:00 -07:00
 header_bg_image: "/uploads/7085DA3B-CADE-443F-9735-0FF77BCA59E3.png"
 primary_button:
+  Name: Anchordman Bootcamp
   label: Sign up Here
   link: https://daybreak.churchcenter.com/registrations/events/518474
-  Name: Anchordman Bootcamp
 template: image_and_text
 Field name: 
 Section: 
