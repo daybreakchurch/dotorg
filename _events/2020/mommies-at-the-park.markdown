@@ -1,6 +1,6 @@
 ---
 title: Moms at the Park
-date: 2019-12-10 10:00:00 -08:00
+date: 2020-09-08 00:00:00 -07:00
 tags:
 - events
 - womens
