@@ -7,4 +7,7 @@ primary_button:
   link: https://daybreak.churchcenter.com/people/forms/123326
 ---
 
-We want to get you connected in the life of Daybreak Church. Click the link so we can learn a little more about you.  
+We are excited that you want take your Next Step at Daybreak!  Whether you are new to our church, or just ready to take your Next Step, we want to get you connected in the life of Daybreak Church. 
+ 
+Let us know What Your **Next Step** is at Daybreak.
+
