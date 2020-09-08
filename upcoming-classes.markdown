@@ -14,4 +14,4 @@ Field name:
   button_link: "/Marriage"
 ---
 
-Take a look at our fall classes that you can sign-up for now:  Anchoredman Bootcamp, Financial Peace University, Marriage Enrichment, GriefShare, and DivorceCare.  
+Take a look at our fall classes that you can sign-up for now:  Anchoredman Bootcamp, Financial Peace University, Marriage Enrichment, GriefShare, and DivorceCare.   
