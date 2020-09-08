@@ -4,6 +4,9 @@ date: 2020-09-05 16:39:00 -07:00
 image: "/uploads/classes-groups.jpg"
 Field name: 
 Section: Upcoming Classes
+BlocksField name:
+  Name: Upcoming Classes
+  button_link: upcoming-classes
 layout: sections
 ---
 
