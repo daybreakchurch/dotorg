@@ -1,5 +1,5 @@
 ---
-title: Next Steps
+title: Your Next Step
 date: 2020-08-26 00:00:00 -07:00
 image: "/uploads/new_1920.jpg"
 primary_button:
