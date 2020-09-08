@@ -5,7 +5,6 @@ tags:
 - groups
 - events
 - classes
-- griefshare
 position: 13
 custom_dates: UPCOMING
 image: "/uploads/GriefShare_960.jpg"
