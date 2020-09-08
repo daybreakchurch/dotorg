@@ -1,7 +1,7 @@
 ---
 title: Classes and Groups
 date: 2020-09-07 21:36:00 -07:00
-image: "/uploads/Classes%20stock.png"
+image: "/uploads/8253064A-CBC1-446D-BF44-0DD8FE220EEB.png"
 Sections: Upcoming Classes
 Blocks:
   Name: Upcoming Classes
