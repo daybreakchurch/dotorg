@@ -11,7 +11,7 @@ blocks:
   button_link: "/groups"
 - name: CLASSES AND GROUPS
   image: "/uploads/classes-groups.jpg"
-  button_link: "/classes"
+  button_link: "/classes-and-groups"
 - name: Serving and Next Steps
   image: "/uploads/serving_960.jpg"
   button_link: "/serving-and-next-steps"
