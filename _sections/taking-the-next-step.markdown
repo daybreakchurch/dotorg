@@ -17,7 +17,7 @@ blocks:
   button_link: "/classes"
 - name: NEXT STEPS
   image: "/uploads/new_1920.jpg"
-  button_link: https://daybreak.churchcenter.com/people/forms/123326
+  button_link: "/next-steps"
 layout: default
 ---
 
