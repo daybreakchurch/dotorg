@@ -12,9 +12,9 @@ blocks:
 - name: CLASSES FOR YOU
   image: "/uploads/classes-groups.jpg"
   button_link: "/classes-for-you"
-- name: Serving and Next Steps
+- name: SERVING
   image: "/uploads/serving_960.jpg"
-  button_link: "/serving-and-next-steps"
+  button_link: "/serving"
 - name: BAPTISM
   image: "/uploads/baptism_960.jpg"
   button_link: "/baptism"
