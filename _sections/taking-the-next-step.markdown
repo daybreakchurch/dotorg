@@ -9,9 +9,9 @@ blocks:
 - name: GROUPS
   image: "/uploads/online-life-groups_1920.jpg"
   button_link: "/groups"
-- name: CLASSES AND GROUPS
+- name: CLASSES
   image: "/uploads/classes-groups.jpg"
-  button_link: "/classes-and-groups"
+  button_link: "/classes"
 - name: Serving and Next Steps
   image: "/uploads/serving_960.jpg"
   button_link: "/serving-and-next-steps"
