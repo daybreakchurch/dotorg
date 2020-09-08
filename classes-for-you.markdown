@@ -1,6 +1,7 @@
 ---
 title: Classes For You
 date: 2020-09-05 16:39:00 -07:00
+template: image_and_text
 image: "/uploads/classes-groups.jpg"
 primary_button:
   label: Sign up for Anchoredman Bootcamp
