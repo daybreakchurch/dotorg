@@ -8,12 +8,6 @@ primary_button:
 seconday_buttons:
 - label: Sign up for Marriage Enrichment
   link: https://daybreak.churchcenter.com/registrations/events/503431
-- label: Sign up for FPU
-  link: https://daybreak.churchcenter.com/registrations/events/503453
-- label: Sign up for GriefShare
-  link: https://daybreak.churchcenter.com/registrations/events/507130
-- label: Sign up for DivorceCare
-  link: https://daybreak.churchcenter.com/registrations/events/515727
 Field name: 
 Section: 
 layout: sections
