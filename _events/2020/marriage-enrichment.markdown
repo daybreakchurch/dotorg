@@ -5,7 +5,7 @@ tags:
 - classes
 - events
 - marriage
-position: 9
+position: 10
 custom_dates: September 22 - October 13
 image: "/uploads/886AD43C-73A1-451A-A56F-06C087EB7C69-39485b.png"
 small_image: "/uploads/886AD43C-73A1-451A-A56F-06C087EB7C69-c9efd2.png"

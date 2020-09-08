@@ -6,7 +6,7 @@ tags:
 - events
 - classes
 - griefshare
-position: 12
+position: 13
 custom_dates: UPCOMING
 image: "/uploads/GriefShare_960.jpg"
 small_image: "/uploads/GriefShare_480.jpg"
