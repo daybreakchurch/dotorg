@@ -1,6 +1,8 @@
 ---
 title: GriefShare
 date: 2020-09-05 22:27:00 -07:00
+tags:
+- griefshare
 template: image_and_text
 image: "/uploads/GriefShare_960-57e971.jpg"
 button_link: https://daybreak.churchcenter.com/registrations/events/507130
