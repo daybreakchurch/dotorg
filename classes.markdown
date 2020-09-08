@@ -8,6 +8,7 @@ section:
 - Anchoredman Bootcamp
 - DivorceCare
 - GriefShare
+- Upcoming Classes
 Field name: 
 layout: sections
 ---
