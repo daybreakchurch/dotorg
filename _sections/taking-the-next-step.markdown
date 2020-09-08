@@ -13,7 +13,7 @@ blocks:
   image: "/uploads/classes-groups.jpg"
   button_link: "/classes-for-you"
 - name: SERVING
-  image: "/uploads/serving_960.jpg"
+  image: "/uploads/kids-zone_960.jpg"
   button_link: "/serving"
 - name: BAPTISM
   image: "/uploads/baptism_960.jpg"
