@@ -1,6 +1,8 @@
 ---
 title: Anchoredman Bootcamp
 date: 2020-09-05 22:39:00 -07:00
+tags:
+- anchored
 template: image_and_text
 image: "/uploads/Anchoredman-Bootcamp-pco.jpg"
 button_link: https://daybreak.churchcenter.com/registrations/events/518474
