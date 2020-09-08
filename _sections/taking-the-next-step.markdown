@@ -12,6 +12,9 @@ blocks:
 - name: Baptism
   image: "/uploads/baptism_960.jpg"
   button_link: "/baptism"
+- name: Classes
+  image: "/uploads/classes-groups.jpg"
+  button_link: "/classes"
 layout: default
 ---
 
