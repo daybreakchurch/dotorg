@@ -16,9 +16,6 @@ seconday_buttons:
   link: https://daybreak.churchcenter.com/registrations/events/515727
 Field name: 
 Section: 
-Blocks:
-  Name: Upcoming Classes
-  button_link: "/upcoming-classes"
 layout: sections
 ---
 
