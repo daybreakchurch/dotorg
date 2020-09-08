@@ -11,12 +11,6 @@ blocks:
 - name: Marriage Enrichment
   image: "/uploads/886AD43C-73A1-451A-A56F-06C087EB7C69-c9efd2.png"
   button_link: "/marriage-enrichment"
-- name: Financial Peace University
-  image: "/uploads/46C1A389-732F-4063-81DD-6019A6578C9F.png"
-  button_link: "/financial-peace-university"
-- name: Anchoredman Bootcamp
-  image: "/uploads/Anchoredman-Bootcamp-pco.jpg"
-  button_link: "/anchoredman-bootcamp"
 ---
 
 STAYING IN LOVE
