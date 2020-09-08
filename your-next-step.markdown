@@ -7,4 +7,4 @@ primary_button:
   link: https://daybreak.churchcenter.com/people/forms/123326
 ---
 
-We want to get you connected in the life of Daybreak Church. Click the link so we can learn a little more about you.
+We want to get you connected in the life of Daybreak Church. Click the link so we can learn a little more about you.  
