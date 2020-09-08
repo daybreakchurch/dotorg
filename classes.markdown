@@ -11,6 +11,7 @@ Key:
   name: Marriage Enrichment
   image: "/uploads/886AD43C-73A1-451A-A56F-06C087EB7C69-39485b.png"
   button_link: "/marriage"
+Section: Upcoming Classes
 layout: sections
 ---
 
