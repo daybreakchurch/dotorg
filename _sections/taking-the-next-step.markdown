@@ -9,12 +9,15 @@ blocks:
 - name: Serving and Next Steps
   image: "/uploads/serving_960.jpg"
   button_link: "/serving-and-next-steps"
-- name: Baptism
+- name: BAPTISM
   image: "/uploads/baptism_960.jpg"
   button_link: "/baptism"
 - name: CLASSES
   image: "/uploads/classes-groups.jpg"
   button_link: "/classes"
+- name: NEXT STEPS
+  image: "/uploads/new_1920.jpg"
+  button_link: https://daybreak.churchcenter.com/people/forms/123326
 layout: default
 ---
 
