@@ -6,16 +6,10 @@ primary_button:
   label: Anchoredman Bootcamp
   link: https://daybreak.churchcenter.com/registrations/events/518474
   image: "/uploads/Anchoredman-Bootcamp-pco.jpg"
-Blocks:
-  Name: 'Anchoredman Bootcamp
-
-'
-  image: "/uploads/Anchoredman-Bootcamp-pco.jpg"
-  buttpm_link: "/anchored"
-Field name:
-  Name: Marriage Enrichment
+seconday_buttons:
+- label: Marriage Enrichment
+  link: https://daybreak.churchcenter.com/registrations/events/503431
   image: "/uploads/886AD43C-73A1-451A-A56F-06C087EB7C69-39485b.png"
-  button_link: "/Marriage"
 ---
 
 Take a look at our fall classes that you can sign-up for now:  Anchoredman Bootcamp, Financial Peace University, Marriage Enrichment, GriefShare, and DivorceCare.   
