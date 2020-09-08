@@ -2,6 +2,10 @@
 title: Upcoming Classes
 date: 2020-09-07 20:36:00 -07:00
 image: "/uploads/nicole-honeywill-703542-unsplash.jpg"
+primary_button:
+  label: Anchoredman Bootcamp
+  link: https://daybreak.churchcenter.com/registrations/events/518474
+  image: "/uploads/Anchoredman-Bootcamp-pco.jpg"
 Blocks:
   Name: 'Anchoredman Bootcamp
 
