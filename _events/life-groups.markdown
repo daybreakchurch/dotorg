@@ -1,5 +1,5 @@
 ---
-title: Online Life Groups
+title: Life Groups
 date: 2020-04-05 07:29:00 -07:00
 tags:
 - group
