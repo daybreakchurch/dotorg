@@ -3,11 +3,7 @@ title: Classes
 date: 2020-09-05 16:39:00 -07:00
 image: "/uploads/classes-groups.jpg"
 section:
-- Marriage Enrichment
-- Financial Peace University
-- Anchoredman Bootcamp
-- DivorceCare
-- GriefShare
+- 
 - Upcoming Classes
 Field name: 
 layout: sections
