@@ -5,7 +5,6 @@ tags:
 - groups
 - events
 - classes
-- divorcecare
 position: 12
 custom_dates: Upcoming
 image: "/uploads/DivorceCare_960.jpg"
