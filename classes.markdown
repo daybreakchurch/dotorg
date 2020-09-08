@@ -6,11 +6,11 @@ Field name:
 Blocks:
   name: Anchoredman Bootcamp
   image: "/uploads/Anchoredman-Bootcamp-pco.jpg"
-  button_link: "/anchoredman-bootcamp"
+  button_link: "/anchoredman"
 Key:
   name: Marriage Enrichment
   image: "/uploads/886AD43C-73A1-451A-A56F-06C087EB7C69-39485b.png"
-  button_link: "/marriage-enrichment"
+  button_link: "/marriage"
 layout: sections
 ---
 
