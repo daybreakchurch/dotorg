@@ -15,9 +15,9 @@ blocks:
 - name: CLASSES
   image: "/uploads/classes-groups.jpg"
   button_link: "/classes"
-- name: NEXT STEPS
+- name: YOUR NEXT STEP
   image: "/uploads/new_1920.jpg"
-  button_link: "/next-steps"
+  button_link: "/your-next-step"
 layout: default
 ---
 
