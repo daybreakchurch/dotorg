@@ -1,6 +1,8 @@
 ---
 title: Marriage Enrichment
 date: 2020-09-05 15:52:00 -07:00
+tags:
+- marriage
 template: image_blocks
 Field name:
   image: "/uploads/886AD43C-73A1-451A-A56F-06C087EB7C69.png"
