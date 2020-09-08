@@ -3,9 +3,16 @@ title: Classes
 date: 2020-09-05 16:39:00 -07:00
 image: "/uploads/classes-groups.jpg"
 section:
-- 
 - Upcoming Classes
 Field name: 
+Blocks:
+  name: Anchoredman Bootcamp
+  image: "/uploads/Anchoredman-Bootcamp-pco.jpg"
+  button_link: "/anchoredman-bootcamp"
+Key:
+  name: Marriage Enrichment
+  image: "/uploads/886AD43C-73A1-451A-A56F-06C087EB7C69-39485b.png"
+  button_link: "/marriage-enrichment"
 layout: sections
 ---
 
