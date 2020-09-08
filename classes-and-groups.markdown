@@ -2,8 +2,20 @@
 title: Classes and Groups
 date: 2020-09-05 16:39:00 -07:00
 image: "/uploads/classes-groups.jpg"
+primary_button:
+  label: Sign up for Anchoredman Bootcamp
+  link: https://daybreak.churchcenter.com/registrations/events/518474
+seconday_buttons:
+- label: Sign up for Marriage Enrichment
+  link: https://daybreak.churchcenter.com/registrations/events/503431
+- label: Sign up for FPU
+  link: https://daybreak.churchcenter.com/registrations/events/503453
+- label: Sign up for GriefShare
+  link: https://daybreak.churchcenter.com/registrations/events/507130
+- label: Sign up for DivorceCare
+  link: https://daybreak.churchcenter.com/registrations/events/515727
 Field name: 
-Section: Upcoming Classes
+Section: 
 Blocks:
   Name: Upcoming Classes
   button_link: "/upcoming-classes"
