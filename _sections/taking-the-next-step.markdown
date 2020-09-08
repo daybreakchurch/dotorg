@@ -21,4 +21,4 @@ blocks:
 layout: default
 ---
 
-Have you recently made a decision to follow Christ, curious about building a strong foundation for your faith, or are new to Daybreak? We have you covered! Click around and see what fits for you or if you need a little more help, email us at [hello@daybreakchurch.org](mailto:hello@daybreakchurch.org). 
+Have you recently made a decision to follow Christ, curious about building a strong foundation for your faith, or are new to Daybreak? We have you covered! Click around and see what fits for you or if you need a little more help, email us at [hello@daybreakchurch.org](mailto:hello@daybreakchurch.org).    
