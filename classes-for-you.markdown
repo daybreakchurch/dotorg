@@ -1,14 +1,15 @@
 ---
 title: Classes For You
 date: 2020-09-05 16:39:00 -07:00
-template: image_and_text
 image: "/uploads/classes-groups.jpg"
+header_bg_image: "/uploads/7085DA3B-CADE-443F-9735-0FF77BCA59E3.png"
 primary_button:
   label: Sign up for Anchoredman Bootcamp
   link: https://daybreak.churchcenter.com/registrations/events/518474
 seconday_buttons:
 - label: Sign up for Marriage Enrichment
   link: https://daybreak.churchcenter.com/registrations/events/503431
+template: image_and_text
 Field name: 
 Section: 
 layout: sections
