@@ -1,5 +1,5 @@
 ---
-title: Marriage Night Simulcast Event
+title: Marriage Night Simulcast Event - Sept. 12
 date: 2020-09-12 22:24:00 -07:00
 tags:
 - events
