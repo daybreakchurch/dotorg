@@ -8,17 +8,17 @@ image: "/uploads/Moms-at-the-Park_1920.jpg"
 small_image: "/uploads/Moms-at-the-Park_480.jpg"
 ---
 
-## On Hold Until Further Notice
+Being a mom of young kids is amazing, but it can also leave you feeling isolated, especially in these unique times. This group offers a place for you to find fellowship, support and build friendships with other moms. 
 
-Being a mom of young kids is amazing, but it can also leave you feeling isolated. This group offers a place for you to find fellowship, support and build friendships with other moms (grandmothers and nannies are welcome!) as we meet at various parks in the community. For more information, please contact Rachel at 949.701.9771 or <mommiesatthepark@daybreakchurch.org>.  Our park meet-up days are on two Tuesdays each month at 10:00a.
+With parks currently closed, we will be planning on meeting twice a month to connect for walks along the coast until parks open back up again. So feel free to strap your kiddos in a stroller, baby carrier or scooter and meet us on the following dates at the designated location. We need each other now more than ever! We look forward to walking and talking with you! 
 
+**September 22nd at 10:00 AM**
+Location: Carlsbad Sea Wall (meet on the grass next to the Harbor Fish Cafe) 
 
+**October 13th at 10:00 AM**
+Location: Cardiff (meet at Swami's State Beach. Parking on K street or along 101.)
 
-Aviara Park
-6435 Ambrosia Ln, Carlsbad, CA 92011
-Hidden Canyon Park
-2685 Vancouver St, Carlsbad, CA 92010
-La Costa Canyon Park
-3018 Pueblo St, Carlsbad, CA 92009
-Poinsettia Park 
-6600 Hidden Valley Rd, Carlsbad, CA 92011
+For more information, please contact Rachel at 949.701.9771 
+or mommiesatthepark@daybreakchurch.org.
+ 
+We typically have park meet-up days on two Tuesdays each month at 10:00a.  We will release more dates on an ongoing basis, so be sure to check back!
