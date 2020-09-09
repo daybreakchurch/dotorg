@@ -1,7 +1,7 @@
 ---
 title: DK Elementary Video Lesson | August 22
 date: 2020-08-20 22:11:00 -07:00
-position: 20
+position: 21
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/XpwYmMX1V-k"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>

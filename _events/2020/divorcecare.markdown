@@ -4,7 +4,7 @@ date: 2020-09-22 00:00:00 -07:00
 tags:
 - groups
 - events
-position: 12
+position: 13
 custom_dates: Upcoming
 image: "/uploads/DivorceCare_960.jpg"
 small_image: "/uploads/DivorceCare_480.jpg"
