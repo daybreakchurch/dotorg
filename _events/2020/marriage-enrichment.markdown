@@ -6,7 +6,7 @@ tags:
 - events
 position: 5
 custom_dates: September 22 - October 13
-image: "/uploads/886AD43C-73A1-451A-A56F-06C087EB7C69-39485b.png"
+image: "/uploads/03457879-C2DC-498E-9C6D-D70E761DB427.png"
 small_image: "/uploads/886AD43C-73A1-451A-A56F-06C087EB7C69-c9efd2.png"
 primary_button:
   label: Register Here
