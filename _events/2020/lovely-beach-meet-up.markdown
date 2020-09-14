@@ -4,7 +4,7 @@ date: 2020-09-07 22:45:00 -07:00
 tags:
 - events
 - womens
-position: 4
+position: 3
 custom_dates: September 17
 image: "/uploads/25803A26-8D8A-40AE-BA91-224D872DC436.png"
 small_image: "/uploads/BA9A5CE0-CF04-4E7D-A369-8AD68564F39E.png"
