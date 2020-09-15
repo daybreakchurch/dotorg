@@ -8,7 +8,7 @@ image: "/uploads/3364EE6B-6266-42A7-AF3F-69C64DBF516E.png"
 small_image: "/uploads/3364EE6B-6266-42A7-AF3F-69C64DBF516E.png"
 ---
 
-Hey fellas!  Come join us on Monday, September 14th for an Anchoredman Tailgate Party!  We will be giving out limited edition Anchoredman hats, as well as some awesome prizes.  
+Hey fellas!  Come join us on Monday, September 21st for an Anchoredman Tailgate Party!  We will be giving out limited edition Anchoredman hats, as well as some awesome prizes.  
 
 Tickets are $15 at the door, and if it's your first ever Anchoredman event, it's free!  Bring your own lawn chair and come hungry for Corbin's BBQ.  It's going to be a great night and we look forward to seeing you there!  
 
