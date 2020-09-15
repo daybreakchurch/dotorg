@@ -3,7 +3,7 @@ title: DK Elementary Video Lesson | September 12
 date: 2020-09-11 20:39:00 -07:00
 tags:
 - kids
-position: 17
+position: 16
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/hQ_hdRLxQ9M"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>

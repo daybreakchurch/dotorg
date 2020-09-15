@@ -4,7 +4,7 @@ date: 2020-09-22 19:00:00 -07:00
 tags:
 - classes
 - events
-position: 5
+position: 4
 custom_dates: September 22 - October 13
 image: "/uploads/03457879-C2DC-498E-9C6D-D70E761DB427.png"
 small_image: "/uploads/03457879-C2DC-498E-9C6D-D70E761DB427.png"
