@@ -4,8 +4,8 @@ date: 2020-09-09 14:05:00 -07:00
 published: false
 position: 0
 custom_dates: September 14, 2020
-image: "/uploads/3364EE6B-6266-42A7-AF3F-69C64DBF516E.png"
-small_image: "/uploads/3364EE6B-6266-42A7-AF3F-69C64DBF516E.png"
+image: "/uploads/1793A47F-3A50-49BD-B4FB-207CED5E59C2.jpeg"
+small_image: "/uploads/1793A47F-3A50-49BD-B4FB-207CED5E59C2.jpeg"
 ---
 
 Hey fellas!  Come join us on Monday, September 21st for an Anchoredman Tailgate Party!  We will be giving out limited edition Anchoredman hats, as well as some awesome prizes.  
