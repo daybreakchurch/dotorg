@@ -6,8 +6,8 @@ tags:
 - events
 position: 4
 custom_dates: September 22 - October 13
-image: "/uploads/03457879-C2DC-498E-9C6D-D70E761DB427.png"
-small_image: "/uploads/03457879-C2DC-498E-9C6D-D70E761DB427.png"
+image: "/uploads/00719999-A93B-4417-A9EE-6FB6735433F6_4_5005_c.jpeg"
+small_image: "/uploads/8F195C0F-EE70-46FF-AD5E-2FE0268A8737.png"
 primary_button:
   label: Register Here
   link: https://daybreak.churchcenter.com/registrations/events/503431
