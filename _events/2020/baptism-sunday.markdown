@@ -5,8 +5,8 @@ published: false
 tags:
 - events
 position: 2
-image: "/uploads/E9CC17A4-F859-47F8-9400-9AE366F56241.png"
-small_image: "/uploads/E9E3ECC2-592D-4AFF-9BAB-6E7A729DFACA.png"
+image: "/uploads/F40863C6-567F-430D-AAC5-3D2AB614F22A.png"
+small_image: "/uploads/8B0B0904-CB5B-4308-8149-B2E4B4CF046A.png"
 primary_button:
   label: Sign Up Here
   link: https://daybreak.churchcenter.com/registrations/events/504086
