@@ -1,9 +1,10 @@
 ---
 title: Baptism Sunday
-date: 2020-09-13 10:00:00 -07:00
+date: 2020-09-20 10:00:00 -07:00
 tags:
 - events
 position: 1
+custom_dates: September 20, 2020
 image: "/uploads/Baptism_Sunday_480.jpg"
 small_image: "/uploads/Baptism_sunday_1920.jpg"
 primary_button:
