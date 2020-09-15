@@ -162,8 +162,8 @@ exclude:
 - Rakefile
 - vendor/bootstrap/
 homepage:
-  title: Online Service | Sundays 9:00 & 10:00a
-  subtitle: 
+  title: Outdoor Service | Sundays 9:00 & 10:00a
+  subtitle: Online Service| Sundays 9:00 & 10:00a
   button:
     label: Click here to watch the online service
     link: https://youtu.be/QBTH3hWenC8
@@ -175,10 +175,10 @@ address:
 phone: "(760) 931-7773"
 email: info@daybreakchurch.org
 service_times:
-- Sunday: 'Online 9:00, 10:00a  '
+- Sunday: Outdoors  9:00, 10:00a  & Online
 youth_service_times:
-- Birth - kindergarten: Online
-- 1st - 5th Grade: 'Online '
-- 6th-8th Grade: Sunday at 7:00p on Instagram @daybreakyth
-- High School: Sunday at 7:00p on Instagram @daybreakyth
-- Young Adults: 
+- Birth - kindergarten: Inside and Online
+- 1st - 5th Grade: 'Inside and Online '
+- 6th-8th Grade: Sunday at 7:00p Outdoors
+- High School: Sunday at 7:00p Outdoors
+- Young Adults: Mondays at 7:00p Outdoors
