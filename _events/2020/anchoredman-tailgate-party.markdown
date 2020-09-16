@@ -13,4 +13,4 @@ Hey fellas!  Come join us on Monday, September 21st for an Anchoredman Tailgate 
 
 Tickets are $15 at the door, and if it's your first ever Anchoredman event, it's free!  Bring your own lawn chair and come hungry for Corbin's BBQ.  It's going to be a great night and we look forward to seeing you there!  
 
-Tailgating starts at 5:00pm.
+Tailgating and game starts at 5:00pm.
