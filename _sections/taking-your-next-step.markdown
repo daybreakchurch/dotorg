@@ -6,7 +6,7 @@ blocks:
 - name: I'm New
   image: "/uploads/new_1920.jpg"
   button_link: "/new"
-- name: Join a Group
+- name: " "
   image: "/uploads/online-life-groups_1920.jpg"
   button_link: "/join-a-group"
 - name: Take a Class
