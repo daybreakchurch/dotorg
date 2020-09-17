@@ -7,7 +7,7 @@ blocks:
   image: "/uploads/new_1920.jpg"
   button_link: "/new"
 - name: " "
-  image: "/uploads/online-life-groups_1920.jpg"
+  image: "/uploads/0EB18F7D-3BAA-4FEF-8570-5EAA2E672E15.png"
   button_link: "/join-a-group"
 - name: Take a Class
   image: "/uploads/classes-groups.jpg"
