@@ -3,9 +3,9 @@ title: Taking the Next Step
 date: 2018-08-25 18:01:00 -07:00
 template: image_blocks
 blocks:
-- name: YOUR NEXT STEP
+- name: I'm New
   image: "/uploads/new_1920.jpg"
-  button_link: "/your-next-step"
+  button_link: "/Im-new"
 - name: GROUPS
   image: "/uploads/online-life-groups_1920.jpg"
   button_link: "/groups"
