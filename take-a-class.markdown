@@ -1,5 +1,5 @@
 ---
-title: Classes For You
+title: Take a Class
 date: 2020-09-05 16:39:00 -07:00
 header_bg_image: "/uploads/7085DA3B-CADE-443F-9735-0FF77BCA59E3.png"
 primary_button:
