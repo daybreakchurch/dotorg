@@ -12,11 +12,11 @@ blocks:
 - name: " "
   image: "/uploads/638593A9-6932-42F2-8D38-BEE796A8C3E6.png"
   button_link: "/take-a-class"
-- name: Serve on a Team
-  image: "/uploads/kids-zone_960.jpg"
+- name: " "
+  image: "/uploads/FA197673-2D05-4A78-BC46-FD9EB7992EB0.png"
   button_link: "/serve-on-a-team"
-- name: BAPTISM
-  image: "/uploads/baptism_960.jpg"
+- name: " "
+  image: "/uploads/F56D9793-E11E-4118-A0B3-E67814B0103E.png"
   button_link: "/baptism"
 layout: default
 ---
