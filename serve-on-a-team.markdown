@@ -1,5 +1,5 @@
 ---
-title: Serving
+title: Serve on a Team
 date: 2018-09-03 14:45:00 -07:00
 image: "/uploads/lodge_small.jpg"
 primary_button:
