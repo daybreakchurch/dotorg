@@ -4,7 +4,7 @@ position: 5
 is_in_top_nav: true
 header_bg_image: "/uploads/get-connected_2.jpg"
 sections:
-- Taking the Next Step
+- Taking Your Next Step
 - Life Groups
 - Men & Women
 - Daybreak Leadership College
