@@ -6,9 +6,9 @@ blocks:
 - name: I'm New
   image: "/uploads/new_1920.jpg"
   button_link: "/Im-new"
-- name: GROUPS
+- name: Join a Group
   image: "/uploads/online-life-groups_1920.jpg"
-  button_link: "/groups"
+  button_link: "/join-a-group"
 - name: CLASSES FOR YOU
   image: "/uploads/classes-groups.jpg"
   button_link: "/classes-for-you"
