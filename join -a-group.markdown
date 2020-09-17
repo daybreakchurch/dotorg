@@ -1,5 +1,5 @@
 ---
-title: Life Groups
+title: Join a Group
 image: "/uploads/online-life-groups_480.jpg"
 primary_button:
   label: Click Here
