@@ -5,7 +5,7 @@ template: image_blocks
 blocks:
 - name: I'm New
   image: "/uploads/new_1920.jpg"
-  button_link: "/im-new"
+  button_link: "/new"
 - name: Join a Group
   image: "/uploads/online-life-groups_1920.jpg"
   button_link: "/join-a-group"
