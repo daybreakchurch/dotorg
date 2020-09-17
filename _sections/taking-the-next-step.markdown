@@ -9,12 +9,12 @@ blocks:
 - name: Join a Group
   image: "/uploads/online-life-groups_1920.jpg"
   button_link: "/join-a-group"
-- name: CLASSES FOR YOU
+- name: Take a Class
   image: "/uploads/classes-groups.jpg"
-  button_link: "/classes-for-you"
-- name: SERVING
+  button_link: "/take-a-class"
+- name: Serve on a Team
   image: "/uploads/kids-zone_960.jpg"
-  button_link: "/serving"
+  button_link: "/serve-on-a-team"
 - name: BAPTISM
   image: "/uploads/baptism_960.jpg"
   button_link: "/baptism"
