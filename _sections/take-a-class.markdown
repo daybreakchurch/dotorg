@@ -7,8 +7,8 @@ blocks:
   image: "/uploads/DD745FBC-E6D8-428A-8DBA-22EDB021E66A.png"
   button-link: "/marriage"
 Field name:
-  name: DivorceCare
-  image: "/uploads/BBF3557D-57EB-498F-A222-BAB2FE24B910.png"
-  button_link: 
+  name: Financial Peace University
+  image: "/uploads/D273D5AE-8AED-48F9-9FF1-A9FAE13CB45C.png"
+  button_link: "/fpu"
 ---
 
