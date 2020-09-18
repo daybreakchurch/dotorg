@@ -4,6 +4,7 @@ date: 2020-09-22 19:00:00 -07:00
 tags:
 - classes
 - events
+- marriage
 position: 4
 custom_dates: September 22 - October 13
 image: "/uploads/00719999-A93B-4417-A9EE-6FB6735433F6_4_5005_c.jpeg"
