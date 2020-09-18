@@ -1,7 +1,7 @@
 ---
 title: Take a Class
 date: 2020-09-05 16:39:00 -07:00
-header_bg_image: "/uploads/7085DA3B-CADE-443F-9735-0FF77BCA59E3.png"
+header_bg_image: "/uploads/638593A9-6932-42F2-8D38-BEE796A8C3E6.png"
 primary_button:
   label: Anchoredman Bootcamp
   link: https://daybreak.churchcenter.com/registrations/events/518474
