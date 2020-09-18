@@ -4,7 +4,7 @@ date: 2019-01-26 18:00:00 -08:00
 tags:
 - classes
 - events
-- financial
+- fpu
 position: 3
 custom_dates: September 14 - November 23
 image: "/uploads/7085DA3B-CADE-443F-9735-0FF77BCA59E3-e27aaa.png"
