@@ -2,7 +2,7 @@
 title: Life Groups
 date: 2018-08-25 18:01:00 -07:00
 template: image_and_text
-image: "/uploads/online-life-groups_1920.jpg"
+image: "/uploads/0EB18F7D-3BAA-4FEF-8570-5EAA2E672E15-b8e7d5.png"
 button_link: https://daybreak.churchcenter.com/groups/life-groups
 is_reversed: true
 ---
