@@ -11,7 +11,7 @@ blocks:
   button_link: "/join-a-group"
 - name: " "
   image: "/uploads/638593A9-6932-42F2-8D38-BEE796A8C3E6.png"
-  button_link: "/classes"
+  button_link: "/take-a-class"
 - name: " "
   image: "/uploads/FA197673-2D05-4A78-BC46-FD9EB7992EB0.png"
   button_link: "/serve-on-a-team"
