@@ -1,6 +1,6 @@
 ---
 title: Join a Group
-image: "/uploads/online-life-groups_480.jpg"
+image: "/uploads/0EB18F7D-3BAA-4FEF-8570-5EAA2E672E15-b8e7d5.png"
 primary_button:
   label: Click Here
   link: https://daybreak.churchcenter.com/groups/life-groups
