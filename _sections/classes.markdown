@@ -1,5 +1,5 @@
 ---
-title: Take a Class
+title: Classes
 date: 2020-09-17 20:42:00 -07:00
 template: image_blocks
 blocks:
