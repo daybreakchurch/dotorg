@@ -3,6 +3,7 @@ title: Anchoredman Tailgate Party
 date: 2020-09-09 14:05:00 -07:00
 tags:
 - events
+- mens
 position: 0
 custom_dates: September 21, 2020
 image: "/uploads/77ADE6F5-8466-4DE5-A804-92EC30F01407.jpeg"
