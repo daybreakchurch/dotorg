@@ -3,7 +3,7 @@ title: Care Ministry
 date: 2019-09-05 20:58:00 -07:00
 tags:
 - events
-position: 12
+position: 5
 custom_dates: Ongoing
 image: "/uploads/Care-Ministry_1920.png"
 small_image: "/uploads/Care-Ministry_480.png"
