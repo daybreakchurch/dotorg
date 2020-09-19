@@ -7,7 +7,7 @@ tags:
 - events
 position: 5
 custom_dates: 'Ongoing '
-image: "/uploads/online-life-groups_1920.jpg"
+image: "/uploads/0EB18F7D-3BAA-4FEF-8570-5EAA2E672E15-b8e7d5.png"
 small_image: "/uploads/online-life-groups_480.jpg"
 primary_button:
   label: Find a Group
