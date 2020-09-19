@@ -1,6 +1,7 @@
 ---
 title: Lovely Beach Meet Up
 date: 2020-09-07 22:45:00 -07:00
+published: false
 tags:
 - events
 - womens
