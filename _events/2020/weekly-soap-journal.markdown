@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* September 12: Hebrews 3
-* September 13: Hebrews 4
-* September 14: Hebrews 5
-* September 15: Hebrews 6
-* September 16: Hebrews 7
-* September 17: Hebrews 8
-* September 18: Hebrews 9
 * September 19: Hebrews 10
+* September 20: Hebrews 11
+* September 21: Hebrews 12
+* September 22: Hebrews 13
+* September 23: James 1
+* September 24: James 2
+* September 25: James 3
+* September 26: James 4
 
 ##### How to Journal
 
