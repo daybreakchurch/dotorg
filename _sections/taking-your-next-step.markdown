@@ -16,7 +16,7 @@ blocks:
   image: "/uploads/F56D9793-E11E-4118-A0B3-E67814B0103E.png"
   button_link: "/baptism"
 - name: I'm New
-  image: "/uploads/new_1920.jpg"
+  image: "/uploads/BEAFD9A5-C1E5-48C4-8362-C3D232BAAEEF.png"
   button_link: "/new"
 layout: default
 ---
