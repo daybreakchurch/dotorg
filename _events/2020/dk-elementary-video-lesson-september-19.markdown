@@ -1,8 +1,6 @@
 ---
 title: DK Elementary Video Lesson | September 19
 date: 2020-09-19 00:05:00 -07:00
-tags:
-- kids
 position: 18
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/9GFWQvOdIqE"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
