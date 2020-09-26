@@ -2,7 +2,7 @@
 title: DK Early Childhood Video Lesson | June 27
 date: 2020-06-26 22:34:00 -07:00
 published: false
-position: 49
+position: 51
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/X28wUtLvHBo"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
