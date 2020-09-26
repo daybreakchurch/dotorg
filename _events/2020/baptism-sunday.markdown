@@ -1,6 +1,7 @@
 ---
 title: Baptism Sunday
 date: 2020-09-20 10:00:00 -07:00
+published: false
 tags:
 - events
 position: 1
