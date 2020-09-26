@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* September 19: Hebrews 10
-* September 20: Hebrews 11
-* September 21: Hebrews 12
-* September 22: Hebrews 13
-* September 23: James 1
-* September 24: James 2
-* September 25: James 3
 * September 26: James 4
+* September 27: James 5
+* September 28: Genesis 1
+* September 28: Genesis 2
+* September 30: Genesis 3
+* October 1: Genesis 4
+* October 2: Genesis 5
+* October 3: Genesis 6
 
 ##### How to Journal
 
