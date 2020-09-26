@@ -5,7 +5,7 @@ published: false
 tags:
 - events
 - womens
-position: 22
+position: 23
 custom_dates: September 17
 image: "/uploads/25803A26-8D8A-40AE-BA91-224D872DC436.png"
 small_image: "/uploads/BA9A5CE0-CF04-4E7D-A369-8AD68564F39E.png"
