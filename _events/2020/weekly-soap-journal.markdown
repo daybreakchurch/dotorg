@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* September 26: James 4
-* September 27: James 5
-* September 28: Genesis 1
-* September 28: Genesis 2
-* September 30: Genesis 3
-* October 1: Genesis 4
-* October 2: Genesis 5
 * October 3: Genesis 6
+* October 4: Genesis 7
+* October 5: Genesis 8
+* October 6: Genesis 9
+* October 7: Genesis 10
+* October 8: Genesis 11
+* October 9: Genesis 12
+* October 10: Genesis 13
 
 ##### How to Journal
 
