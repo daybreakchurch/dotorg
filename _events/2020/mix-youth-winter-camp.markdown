@@ -5,7 +5,7 @@ published: false
 tags:
 - events
 - students
-position: 92
+position: 93
 custom_dates: February 21-23
 video_embed: |-
   <iframe src="https://player.vimeo.com/video/319287674?color=76b771" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
