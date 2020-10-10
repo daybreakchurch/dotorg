@@ -2,7 +2,7 @@
 title: DK Elementary Video Lesson | May 9
 date: 2020-05-08 12:00:00 -07:00
 published: false
-position: 70
+position: 71
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/YElEvXcV5aw"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
