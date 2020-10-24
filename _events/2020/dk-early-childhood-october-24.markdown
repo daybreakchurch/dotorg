@@ -1,5 +1,5 @@
 ---
-title: DK Early Childhood | October 24
+title: DK Early Childhood Video Lesson | October 24
 date: 2020-10-23 22:48:00 -07:00
 tags:
 - kids
