@@ -4,7 +4,7 @@ date: 2020-09-29 10:52:00 -07:00
 tags:
 - events
 - womens
-position: 8
+position: 9
 custom_dates: October 15, 2020  6:00pm
 image: "/uploads/247C60C4-5A15-414B-A958-D2F9D92BE932.png"
 small_image: "/uploads/29A884FC-90A6-461F-9997-89168503CBB2.png"
