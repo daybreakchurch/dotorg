@@ -4,7 +4,7 @@ date: 2020-04-14 12:00:00 -07:00
 published: false
 tags:
 - events
-position: 85
+position: 87
 custom_dates: April 14-16 | 12:00-3:00p
 image: "/uploads/food-drop-off_1920.jpg"
 small_image: "/uploads/food-drop-off_480.jpg"
