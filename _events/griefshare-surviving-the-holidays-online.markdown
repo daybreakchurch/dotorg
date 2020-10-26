@@ -25,6 +25,4 @@ You’ll learn:
 
 **Join us online for a 2-hour seminar on Sunday, November 15 from 10:00am – 12:00pm.**
   
-Register Here.      https://daybreak.churchcenter.com/registrations/events/599111
-
 For more information, contact Lauren at laurenoury33@gmail.com
