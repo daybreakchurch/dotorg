@@ -4,7 +4,7 @@ date: 2020-09-12 22:24:00 -07:00
 published: false
 tags:
 - events
-position: 36
+position: 38
 custom_dates: September 12, 2020
 location: Online simulcast
 image: "/uploads/Marriage%20Night.jpg"

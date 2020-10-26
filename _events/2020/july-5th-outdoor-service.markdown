@@ -4,7 +4,7 @@ date: 2020-07-03 08:30:00 -07:00
 published: false
 tags:
 - events
-position: 13
+position: 15
 custom_dates: 9:00 & 10:00a
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/274SmA-akVI"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"

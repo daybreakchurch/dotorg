@@ -6,7 +6,7 @@ tags:
 - mens
 - events
 - anchoredman
-position: 12
+position: 14
 custom_dates: September 23 - October 21, 2020
 image: "/uploads/Anchoredman-Bootcamp_960.jpg"
 small_image: "/uploads/Anchoredman-Bootcamp_480.jpg"
