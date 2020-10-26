@@ -134,7 +134,7 @@ footer_nav:
   - label: Daybreak Leadership College
     link: "/daybreak-leadership-college"
   - label: Prayer Requests
-    link: "/#prayer-requests"
+    link: "/prayer-requests"
 - label: Give
   link: "/give"
 - label: Messages
