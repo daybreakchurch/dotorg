@@ -129,12 +129,12 @@ footer_nav:
   sub_links:
   - label: Taking the Next Step
     link: "/next-steps/#taking-the-next-step"
-  - label: Life Groups
-    link: "/#life-groups"
+  - label: "/next-steps/#Life Groups"
+    link: "/next-steps/#life-groups"
   - label: Daybreak Leadership College
-    link: "/#daybreak-leadership-college"
+    link: "/next-steps/#daybreak-leadership-college"
   - label: Prayer Requests
-    link: "/#prayer-requests"
+    link: "/next-steps/#prayer-requests"
 - label: Give
   link: "/give"
 - label: Messages
