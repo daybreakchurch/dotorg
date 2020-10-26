@@ -4,8 +4,8 @@ date: 2020-10-25 20:41:00 -07:00
 tags:
 - events
 custom_dates: November 15, 2020  10:00am - 12:00pm
-image: "/uploads/424BFC06-243A-4EE6-AA19-16D0785481C2.jpeg"
-small_image: "/uploads/79A2ED23-D232-47AE-8A38-FBA5A3B4691E.jpeg"
+image: "/uploads/79A2ED23-D232-47AE-8A38-FBA5A3B4691E.jpeg"
+small_image: "/uploads/424BFC06-243A-4EE6-AA19-16D0785481C2.jpeg"
 primary_button:
   label: Register Here
   link: https://daybreak.churchcenter.com/registrations/events/599111
