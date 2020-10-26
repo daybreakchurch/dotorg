@@ -1,6 +1,8 @@
 ---
 title: DivorceCare - Surviving the Holidays
 date: 2020-10-25 20:51:00 -07:00
+tags:
+- events
 position: 2
 custom_dates: November 10, 2020  6:30 - 8:30pm
 location: Daybreak Church
