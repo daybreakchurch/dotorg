@@ -6,7 +6,7 @@ tags:
 - events
 - womens
 - group
-position: 54
+position: 55
 custom_dates: Tuesday, May 5 | 9:00a via ZOOM
 image: "/uploads/Morning-for-Moms_1920.jpg"
 small_image: "/uploads/Morning-for-Moms_480.jpg"
