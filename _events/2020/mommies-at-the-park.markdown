@@ -10,15 +10,13 @@ small_image: "/uploads/Moms-at-the-Park_480.jpg"
 
 Being a mom of young kids is amazing, but it can also leave you feeling isolated, especially in these unique times. This group offers a place for you to find fellowship, support and build friendships with other moms. 
 
-With parks currently closed, we will be planning on meeting twice a month to connect for walks along the coast until parks open back up again. So feel free to strap your kiddos in a stroller, baby carrier or scooter and meet us on the following dates at the designated location. We need each other now more than ever! We look forward to walking and talking with you! 
+We are so excited that some parks are open again!  Please meet us at the locations below for some fellowship and to let our kiddos play!  We will be practicing social distancing while embracing the chance to see each other. We need each other now more than ever, so hope you can make it!
 
-**September 22nd at 10:00 AM**
-Location: Carlsbad Sea Wall (meet on the grass next to the Harbor Fish Cafe) 
+**Tuesday, November 10th at 10:00** AM Location: Aviara Park
 
-**October 13th at 10:00 AM**
-Location: Cardiff (meet at Swami's State Beach. Parking on K street or along 101.)
+**Tuesday, December 8th at10:00 AM** Location: Poinsettia Park
 
 For more information, please contact Rachel at 949.701.9771 
 or mommiesatthepark@daybreakchurch.org.
  
-We typically have park meet-up days on two Tuesdays each month at 10:00a.  We will release more dates on an ongoing basis, so be sure to check back!
+We will release more dates on an ongoing basis, so be sure to check back!

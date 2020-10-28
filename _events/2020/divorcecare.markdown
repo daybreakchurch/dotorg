@@ -5,7 +5,7 @@ tags:
 - groups
 - events
 - divorce
-position: 7
+position: 8
 custom_dates: Upcoming
 image: "/uploads/DivorceCare_960.jpg"
 small_image: "/uploads/DivorceCare_480.jpg"
