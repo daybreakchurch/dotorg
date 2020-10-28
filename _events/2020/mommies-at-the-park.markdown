@@ -14,7 +14,7 @@ We are so excited that some parks are open again!  Please meet us at the locatio
 
 **Tuesday, November 10th at 10:00** AM Location: Aviara Park
 
-**Tuesday, December 8th at10:00 AM** Location: Poinsettia Park
+**Tuesday, December 8th at 10:00 AM** Location: Poinsettia Park
 
 For more information, please contact Rachel at 949.701.9771 
 or mommiesatthepark@daybreakchurch.org.
