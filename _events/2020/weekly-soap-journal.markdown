@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* October 24: Genesis 27
-* October 25: Genesis 28
-* October 26: Genesis 29
-* October 27: Genesis 30
-* October 27: Genesis 31
-* October 28: Genesis 32
-* October 29: Genesis 33
-* October 30: Genesis 34
+* October 31: Genesis 34
+* November 1: Genesis 35
+* November 2: Genesis 36
+* November 3: Genesis 37
+* November 4: Genesis 38
+* November 5: Genesis 39
+* November 6: Genesis 40
+* November 7: Genesis 41
 
 ##### How to Journal
 
