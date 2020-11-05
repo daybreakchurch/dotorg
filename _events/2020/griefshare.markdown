@@ -5,7 +5,7 @@ tags:
 - groups
 - events
 - grief
-position: 6
+position: 7
 custom_dates: UPCOMING
 image: "/uploads/GriefShare_960.jpg"
 small_image: "/uploads/GriefShare_480.jpg"

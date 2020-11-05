@@ -5,7 +5,7 @@ tags:
 - womens
 - group
 - events
-position: 107
+position: 108
 custom_dates: On Hold Until Further Notice
 image: "/uploads/Military-Wives_1920.jpg"
 small_image: "/uploads/Military-Wives_480.jpg"

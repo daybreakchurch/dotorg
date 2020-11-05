@@ -4,7 +4,7 @@ date: 2020-09-20 10:00:00 -07:00
 published: false
 tags:
 - events
-position: 5
+position: 6
 custom_dates: September 20, 2020
 image: "/uploads/Baptism_Sunday_480.jpg"
 small_image: "/uploads/Baptism_sunday_1920.jpg"
