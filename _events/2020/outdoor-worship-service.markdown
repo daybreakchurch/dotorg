@@ -1,6 +1,7 @@
 ---
 title: Outdoor Worship Service
 date: 2020-10-30 18:00:00 -07:00
+published: false
 tags:
 - events
 position: 1
