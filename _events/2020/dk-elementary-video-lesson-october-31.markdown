@@ -1,8 +1,6 @@
 ---
 title: DK Elementary Video Lesson | October 31
 date: 2020-10-31 02:53:00 -07:00
-tags:
-- kids
 position: 22
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/CAzyvSnbBnk"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
