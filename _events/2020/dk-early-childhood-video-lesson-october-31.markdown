@@ -1,8 +1,6 @@
 ---
 title: DK Early Childhood Video Lesson | October 31
 date: 2020-10-31 01:46:00 -07:00
-tags:
-- kids
 position: 23
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/DWSYBUqlpWo"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
