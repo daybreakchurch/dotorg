@@ -70,3 +70,5 @@ DK EARLY CHILDHOOD VIDEO LESSON | [OCTOBER 24](https://daybreakchurch.org/events
 DK ELEMENTARY VIDEO LESSON | [OCTOBER 24](https://daybreakchurch.org/events/2020/dk-elementary-video-lesson-october-24/)
 DK EARLY CHILDHOOD VIDEO LESSON | [OCTOBER 31](https://daybreakchurch.org/events/2020/dk-early-childhood-video-lesson-october-31/)
 DK ELEMENTARY VIDEO LESSON | [OCTOBER 31](https://daybreakchurch.org/events/2020/dk-elementary-video-lesson-october-31/)
+DK EARLY CHILDHOOD VIDEO LESSON | [NOVEMBER 7](https://daybreakchurch.org/events/2020/dk-early-childhood-video-lesson-november-7/)
+DK ELEMENTARY VIDEO LESSON | [NOVEMBER 7](https://daybreakchurch.org/events/2020/dk-elementary-video-lesson-november-7/)
