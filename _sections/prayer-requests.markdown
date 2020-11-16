@@ -1,7 +1,7 @@
 ---
 title: Prayer Requests
 date: 2018-08-25 18:02:00 -07:00
-template: text_and_image
+template: image_and_text
 image: "/uploads/F3FEF11C-291D-4DAC-8DA3-6EAE00D74ACB.jpeg"
 css_classes: text-center
 button_label: Submit a prayer request
