@@ -1,7 +1,7 @@
 ---
 title: Prayer Requests
 date: 2018-08-25 18:02:00 -07:00
-template: text
+template: image_and_text
 css_classes: text-center
 button_label: Submit a prayer request
 button_link: https://daybreak.churchcenter.com/people/forms/24919
