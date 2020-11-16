@@ -5,7 +5,7 @@ tags:
 - classes
 - events
 - fpu
-position: 12
+position: 13
 custom_dates: September 14 - November 23
 image: "/uploads/7085DA3B-CADE-443F-9735-0FF77BCA59E3-e27aaa.png"
 small_image: "/uploads/8253064A-CBC1-446D-BF44-0DD8FE220EEB.png"
