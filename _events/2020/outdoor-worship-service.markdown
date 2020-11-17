@@ -1,7 +1,6 @@
 ---
 title: Thanksgiving Night of Worship
 date: 2020-11-25 18:00:00 -08:00
-published: false
 tags:
 - events
 position: 5
