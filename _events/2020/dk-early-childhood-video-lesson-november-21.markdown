@@ -4,6 +4,9 @@ date: 2020-11-20 21:21:00 -08:00
 tags:
 - kids
 position: 24
+video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/tJRRzCFp8_A"
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+  gyroscope; picture-in-picture" allowfullscreen></iframe>
 small_image: "/uploads/Copy%20of%20Website%20Graphic-%20EC-259aae.png"
 ---
 
