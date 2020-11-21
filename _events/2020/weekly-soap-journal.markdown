@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* November 14: Genesis 48
-* November 15: Genesis 49
-* November 16: Genesis 50
-* November 17: Proverbs 1
-* November 18: Proverbs 2
-* November 19: Proverbs 3
-* November 20: Proverbs 4
 * November 21: Proverbs 5
+* November 22: Proverbs 6
+* November 23: Proverbs 7
+* November 24: Proverbs 8
+* November 25: Proverbs 9
+* November 26: Proverbs 10
+* November 27: Proverbs 11
+* November 28: Proverbs 12
 
 ##### How to Journal
 
