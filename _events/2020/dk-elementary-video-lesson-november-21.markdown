@@ -3,7 +3,7 @@ title: DK Elementary Video Lesson | November 21
 date: 2020-11-20 21:29:00 -08:00
 tags:
 - kids
-position: 24
+position: 25
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/9LrPQ0do-Ws"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen></iframe>

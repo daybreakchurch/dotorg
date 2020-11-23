@@ -1,7 +1,7 @@
 ---
 title: DK Elementary Video Lesson | November 7
 date: 2020-11-06 18:31:00 -08:00
-position: 28
+position: 29
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/Dzs2O63En5Q"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen></iframe>
