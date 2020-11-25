@@ -3,6 +3,7 @@ title: Daybreak YTH
 date: 2020-11-25 14:20:00 -08:00
 categories:
 - event
+position: 2
 image: "/uploads/WEB%20SLIDE_1920.jpg"
 small_image: "/uploads/WEB%20SLIDE_960.jpg"
 ---

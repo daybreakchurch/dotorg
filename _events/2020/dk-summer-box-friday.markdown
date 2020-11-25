@@ -1,7 +1,7 @@
 ---
 title: DK Summer Box | FRIDAY
 date: 2020-07-31 09:33:00 -07:00
-position: 64
+position: 65
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/yGGMwxwR4rg"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
