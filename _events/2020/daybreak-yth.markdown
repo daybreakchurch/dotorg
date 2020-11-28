@@ -1,6 +1,5 @@
 ---
 title: Daybreak YTH
-date: 2020-11-25 14:20:00 -08:00
 categories:
 - event
 position: 2
