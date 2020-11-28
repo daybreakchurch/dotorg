@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* November 21: Proverbs 5
-* November 22: Proverbs 6
-* November 23: Proverbs 7
-* November 24: Proverbs 8
-* November 25: Proverbs 9
-* November 26: Proverbs 10
-* November 27: Proverbs 11
 * November 28: Proverbs 12
+* November 29: Matthew 1
+* November 30: Matthew 2
+* December 1: Matthew 3
+* December 2: Matthew 4
+* December 4: Matthew 5
+* December 5: Matthew 6
+* December 6: Matthew 7
 
 ##### How to Journal
 
