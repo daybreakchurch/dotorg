@@ -3,28 +3,11 @@ title: Jobs
 header_bg_image: "/uploads/patio_1920.jpg"
 ---
 
-#### MIDDLE SCHOOL DIRECTOR
+#### TECHNICAL DIRECTOR
 
-###### Daybreak Church exists to see countless people from all over San Diego County and around the world, being saved and made whole by Jesus. Families that once were broken and lost will find healing through a church that offers them a fresh start and lasting hope.
 
 ###### POSITION DESCRIPTION
 
-This is a full time position that will be responsible for the directing the middle school aspect of the YTH Ministry at Daybreak Church. The candidate will be able to catalyze the growth and development of a vibrantly expanding ministry, that will reach, engage, and disciple middle school students from the Daybreak congregation as well as those in the surrounding community. This position will also be responsible for supporting social media within the ministry and across the church.
+The Technical Director is responsible for setting the spiritual tone for the Technical Ministry at Daybreak. In order to succeed in this role a candidate must ensure that volunteers are spiritually and technically prepared for their role in our worship experiences and events. All team members are expected to have an attitude of ownership and responsibility, which is championed by the Technical Director. This role supports the mission of Daybreak by overseeing all aspects of the ministry in regards to audio, lighting, and video. The ultimate goal of this role is to ensure that services and events across all facilities and ministries are able to utilize technology efficiently, effectively, and strategically in order to enhance the experience of those attending.
 
-###### MINISTRY EXPERIENCE
-
-We are looking for a passionate Christ follower who is capable and qualified to develop and lead this ministry at Daybreak. A successful candidate will have a proven record of catalyzing the development and discipleship of both students and volunteer leaders.
-
-###### LEADERSHIP EXPERIENCE
-
-Successful candidates must have proven experience effectively leading in a growing ministry and developing leaders. They must have a passion for middle school aged students. Priority will be given to candidates with a history of leading and discipling this age group. They will need to have a strong gifting in engaging and age relevant communication. Additionally, the ideal candidate will have strong delegation, planning and execution skills. Special consideration will be given to candidates who have prior experience in managing and leading large groups of young people.
-
-###### TO BE CONSIDERED
-
-Send the following four documents to our Executive Pastor, Jason Gianotti at the following email address: j@daybreakchurch.org.
-
-• Cover letter - Describing your interest in the position
-• Resume - Highlighting your ministry and leadership experience
-• Social Media - Description of how to find you on social media
-• Video Link - No longer than 90 seconds. Share why you are passionate about the
-discipleship of middle school students, and how you would lead the ministry.
+[Continue reading...](/uploads/Technical%20Director%20-%20Job%20Description%20-%2011.1.2020.pdf)
