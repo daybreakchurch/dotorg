@@ -1,5 +1,5 @@
 ---
-title: DK Elementary Video Lesson | December 05
+title: DK Elementary Video Lesson | December 5
 date: 2020-12-05 00:03:00 -08:00
 tags:
 - kids
