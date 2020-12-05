@@ -12,7 +12,7 @@ small_image: "/uploads/Copy%20of%20Website%20Graphic-%20EC-126ed9.png"
 
 This is our first week of our Christmas series called Reindeer Radio where Rudy Reindeer shares the good news of Christmas and why we celebrate! Pastor Nicola and Slider introduce the story of when God sent his angel to a young girl named Mary. Mary was very scared at the site of the angel but he told her not to be afraid because God sent him to tell her about a special plan he had for her. Watch this lesson to find out how she was going to give birth to his long promised son, Jesus.
 
-**Click the link for this week's craft and print outs:**\
+**Click the link for this week's craft and print outs:**
 God Has A Plan for You
 
 *“But the angel said to her, ‘Do not be afraid, Mary; you have found favor with God. You will conceive and give birth to a son, and you are to call him Jesus.’” -Luke 1:30-31*
