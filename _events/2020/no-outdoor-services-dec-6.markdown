@@ -3,6 +3,7 @@ title: No Outdoor Services - Dec 6
 date: 2020-12-05 14:57:00 -08:00
 categories:
 - event
+position: 0
 non_header_video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/HCBJzFNQ1FQ"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen></iframe>

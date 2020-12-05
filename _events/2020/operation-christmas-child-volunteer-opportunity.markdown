@@ -3,7 +3,7 @@ title: Operation Christmas Child - Volunteer Opportunity
 date: 2020-11-15 21:17:00 -08:00
 tags:
 - events
-position: 4
+position: 5
 custom_dates: November 27, 2020 and December 5, 2020
 image: "/uploads/OperationChristmas%20CHild%20girl%20by%20truck.jpg"
 small_image: "/uploads/12117US-D-008.jpg"
