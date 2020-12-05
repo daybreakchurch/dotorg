@@ -5,7 +5,7 @@ published: false
 tags:
 - events
 - womens
-position: 114
+position: 115
 custom_dates: August 29, 2020
 image: "/uploads/lovelybeachsimulcast8.17.20_db_socialmedia-12.PNG"
 small_image: "/uploads/lovelybeachsimulcast8.17.20_db_socialmedia-11.PNG"
