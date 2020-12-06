@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* November 28: Proverbs 12
-* November 29: Matthew 1
-* November 30: Matthew 2
-* December 1: Matthew 3
-* December 2: Matthew 4
-* December 4: Matthew 5
-* December 5: Matthew 6
-* December 6: Matthew 7
+* December 5: Matthew 7
+* December 6: Matthew 8
+* December 7: Matthew 9
+* December 8: Matthew 10
+* December 9: Matthew 11
+* December 10: Matthew 12
+* December 11: Matthew 13
+* December 12: Matthew 14
 
 ##### How to Journal
 
