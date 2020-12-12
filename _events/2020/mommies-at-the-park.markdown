@@ -3,7 +3,7 @@ title: Moms at the Park
 tags:
 - events
 - womens
-position: 20
+position: 19
 image: "/uploads/Moms-at-the-Park_1920.jpg"
 small_image: "/uploads/Moms-at-the-Park_480.jpg"
 ---
