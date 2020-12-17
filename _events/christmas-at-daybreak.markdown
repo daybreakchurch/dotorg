@@ -15,3 +15,5 @@ Christmas is not canceled, joy is not postponed, laughter is not replaced by fea
 Choose from 5 identical outdoor candle-lighting services 
 Wednesday,  Dec 23 - 5:00 & 6:00p
 Thursday,  Dec 24 - 4:00, 5:00 & 6:00p
+
+![Christmas-2020.gif](/uploads/Christmas-2020.gif)
