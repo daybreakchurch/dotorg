@@ -16,4 +16,6 @@ Choose from 5 identical outdoor candle-lighting services 
 Wednesday,  Dec 23 - 5:00 & 6:00p
 Thursday,  Dec 24 - 4:00, 5:00 & 6:00p
 
+Invite your friends by saving the image below and post it to your social media accounts.
+
 ![Christmas-2020.gif](/uploads/Christmas-2020.gif)
