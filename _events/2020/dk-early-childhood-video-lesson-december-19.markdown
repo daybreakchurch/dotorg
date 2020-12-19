@@ -3,7 +3,7 @@ title: DK Early Childhood Video Lesson | December 19
 date: 2020-12-18 21:26:00 -08:00
 tags:
 - kids
-position: 25
+position: 26
 small_image: "/uploads/Copy%20of%20Website%20Graphic-%20EC-2-da31c6.png"
 ---
 

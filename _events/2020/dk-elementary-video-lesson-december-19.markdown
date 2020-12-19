@@ -3,6 +3,7 @@ title: DK Elementary Video Lesson | December 19
 date: 2020-12-18 21:33:00 -08:00
 tags:
 - kids
+position: 25
 small_image: "/uploads/Website%20Graphic-%20Elementary-d6f4e2.png"
 ---
 
