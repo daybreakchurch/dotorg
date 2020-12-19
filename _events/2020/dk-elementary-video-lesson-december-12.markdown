@@ -1,8 +1,6 @@
 ---
 title: DK Elementary Video Lesson | December 12
 date: 2020-12-11 22:12:00 -08:00
-tags:
-- kids
 position: 26
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/gFVydrM4YhE"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
