@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* December 12: Matthew 14
-* December 13: Matthew 15
-* December 14: Matthew 16
-* December 15: Matthew 17
-* December 16: Matthew 18
-* December 17: Matthew 19
-* December 18: Matthew 20
 * December 19: Matthew 21
+* December 20: Matthew 22
+* December 21: Matthew 23
+* December 22: Matthew 24
+* December 23: Matthew 25
+* December 24: Matthew 26
+* December 25: Matthew 27
+* December 26: Matthew 28
 
 ##### How to Journal
 
