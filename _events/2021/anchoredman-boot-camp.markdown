@@ -6,6 +6,7 @@ tags:
 - events
 - anchoredman
 - men
+- mens
 position: 22
 custom_dates: February 3 - March 3, 2021
 image: "/uploads/7C533B3D-B61C-4EC5-94A2-B5471AA7EB29.png"
