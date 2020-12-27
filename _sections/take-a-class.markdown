@@ -19,7 +19,7 @@ blocks:
 - name: GriefShare
   image: "/uploads/8173A40C-CE04-47C7-A19F-95399DAC6617.png"
   button_link: "/grief"
-Field name:
+sections:
   Key: 
 ---
 
