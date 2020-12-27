@@ -1,7 +1,7 @@
 ---
 title: DK Early Childhood Video Lesson | July 11
 date: 2020-07-09 18:45:00 -07:00
-position: 81
+position: 82
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/V0qWYNWmwp8"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>

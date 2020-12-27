@@ -7,8 +7,8 @@ tags:
 - grief
 position: 2
 custom_dates: January 28 - April 22, 2021
-image: "/uploads/GriefShare_960.jpg"
-small_image: "/uploads/GriefShare_480.jpg"
+image: "/uploads/1D11CA4C-D429-48A5-93BC-DDE410FD3E46.png"
+small_image: "/uploads/1D11CA4C-D429-48A5-93BC-DDE410FD3E46.png"
 primary_button:
   label: REGISTER HERE
   link: https://daybreak.churchcenter.com/registrations/events/672551
