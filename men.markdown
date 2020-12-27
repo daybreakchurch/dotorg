@@ -8,4 +8,4 @@ layout: sections
 
 Anchoredman is our men's ministry here at Daybreak. We have mens life groups that meet throughout North County almost everyday of the week. 
 
-Need more information or want to get into a mens life group email [mitch@daybreakchurch.org](mitch@daybreakchurch.org).
+Need more information or want to get into a mens life group email [laura@daybreakchurch.org](laura@daybreakchurch.org).
