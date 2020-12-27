@@ -1,6 +1,7 @@
 ---
 title: Operation Christmas Child - Volunteer Opportunity
 date: 2020-11-15 21:17:00 -08:00
+published: false
 tags:
 - events
 position: 6
