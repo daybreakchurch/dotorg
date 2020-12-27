@@ -3,9 +3,9 @@ title: Anchoredman Boot Camp
 date: 2021-02-03 18:30:00 -08:00
 tags:
 - classes
-- mens
 - events
 - anchoredman
+- men
 position: 22
 custom_dates: February 3 - March 3, 2021
 image: "/uploads/7C533B3D-B61C-4EC5-94A2-B5471AA7EB29.png"
