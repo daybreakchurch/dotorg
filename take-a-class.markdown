@@ -3,22 +3,22 @@ title: Take a Class
 date: 2021-01-01 16:39:00 -08:00
 header_bg_image: "/uploads/638593A9-6932-42F2-8D38-BEE796A8C3E6.png"
 primary_button:
-  Name: Anchordman Bootcamp
-  image: "/uploads/23A13181-3CBD-447B-9D42-23B0131CFC42-1afc98.png"
   label: Anchoredman Bootcamp
   link: https://daybreak.churchcenter.com/registrations/events/672572
+  Name: Anchordman Bootcamp
+  image: "/uploads/23A13181-3CBD-447B-9D42-23B0131CFC42-1afc98.png"
 seconday_buttons:
 - label: Marriage Enrichment
   link: https://daybreak.churchcenter.com/registrations/events/503431
   image: "/uploads/285D6269-761E-48B2-8DFA-162AEAFC6725.png"
 - label: FPU
-  link: https://daybreak.churchcenter.com/registrations/events/503453
+  link: https://daybreak.churchcenter.com/registrations/events/672560
   image: "/uploads/C32D63A5-6FE2-485E-AB3E-ED9FD613FA76.png"
 - label: GriefShare
-  link: https://daybreak.churchcenter.com/registrations/events/507130
+  link: https://daybreak.churchcenter.com/registrations/events/672551
   image: "/uploads/1D11CA4C-D429-48A5-93BC-DDE410FD3E46.png"
 - label: DivorceCare
-  link: https://daybreak.churchcenter.com/registrations/events/515727
+  link: https://daybreak.churchcenter.com/registrations/events/672541
   image: "/uploads/B41B3424-26AB-4A1A-8E6C-0BAA3CAA1790.png"
 template: image_and_text
 Field name: 
