@@ -1,7 +1,6 @@
 ---
 title: Classes
 date: 2020-09-17 20:42:00 -07:00
-published: false
 template: image_blocks
 blocks:
 - name: Marriage Enrichment
