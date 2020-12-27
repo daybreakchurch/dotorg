@@ -1,6 +1,6 @@
 ---
 title: Financial Peace University
-date: 2019-01-26 18:00:00 -08:00
+date: 2021-02-07 18:00:00 -08:00
 tags:
 - classes
 - events
