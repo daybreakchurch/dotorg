@@ -1,12 +1,12 @@
 ---
 title: GriefShare
-date: 2020-09-17 00:00:00 -07:00
+date: 2021-01-28 10:00:00 -08:00
 tags:
 - groups
 - events
 - grief
 position: 10
-custom_dates: UPCOMING
+custom_dates: January 28 - April 22, 2021
 image: "/uploads/GriefShare_960.jpg"
 small_image: "/uploads/GriefShare_480.jpg"
 primary_button:
@@ -25,7 +25,7 @@ If you have lost a spouse, child, family member or friend, you’ve probably fou
 * How should I handle the big decisions that need to
   be made?
 
-The group will meet **online** Thursday mornings from 10:00am -11:30am for 13 weeks beginning September 17, 2020. You may join the class at any time during the 13 weeks. There is a $15
+The group will meet **online** Thursday mornings from 10:00am -11:30am for 13 weeks beginning January 28, 2021. You may join the class at any time during the 13 weeks. There is a $15
 fee for materials.
 
-For more information, contact Lauren at 858.925.3911.
+For more information, contact Lorie at 714-747-6614.
