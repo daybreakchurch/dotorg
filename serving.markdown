@@ -1,7 +1,7 @@
 ---
 title: Serving
 date: 2018-09-03 14:45:00 -07:00
-image: "/uploads/lodge_small.jpg"
+image: "/uploads/teamsgroupsclass_social_janV2-07.png"
 primary_button:
   label: Sign Up to Serve
   link: https://daybreak.churchcenter.com/people/forms/267
