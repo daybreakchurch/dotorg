@@ -1,5 +1,6 @@
 ---
 title: Starting Point
+published: false
 tags:
 - group
 - classes
