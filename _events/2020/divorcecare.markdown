@@ -5,7 +5,7 @@ tags:
 - groups
 - events
 - divorce
-position: 13
+position: 10
 custom_dates: February 2 - April 27, 2021
 image: "/uploads/DivorceCare_960.jpg"
 small_image: "/uploads/DivorceCare_480.jpg"
