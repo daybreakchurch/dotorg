@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* December 19: Matthew 21
-* December 20: Matthew 22
-* December 21: Matthew 23
-* December 22: Matthew 24
-* December 23: Matthew 25
-* December 24: Matthew 26
-* December 25: Matthew 27
 * December 26: Matthew 28
+* December 27: Romans 1
+* December 28: Romans 2
+* December 29: Romans 3
+* December 30: Romans 4
+* December 31: Romans 5
+* January 1: Romans 6
+* January 2: Romans 7
 
 ##### How to Journal
 
