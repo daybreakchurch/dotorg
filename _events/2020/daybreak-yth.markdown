@@ -2,7 +2,7 @@
 title: Daybreak YTH
 categories:
 - event
-position: 2
+position: 1
 image: "/uploads/WEB%20SLIDE_1920.jpg"
 small_image: "/uploads/WEB%20SLIDE_960.jpg"
 ---
