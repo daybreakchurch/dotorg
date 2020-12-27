@@ -7,8 +7,8 @@ tags:
 - fpu
 position: 15
 custom_dates: February 7 - April 18, 2021
-image: "/uploads/7085DA3B-CADE-443F-9735-0FF77BCA59E3-e27aaa.png"
-small_image: "/uploads/8253064A-CBC1-446D-BF44-0DD8FE220EEB.png"
+image: "/uploads/C32D63A5-6FE2-485E-AB3E-ED9FD613FA76.png"
+small_image: "/uploads/C32D63A5-6FE2-485E-AB3E-ED9FD613FA76.png"
 meta_text: For more information, contact Eric or Theresa at 760.943.7780 or email
   FPU@daybreakchurch.org.
 primary_button:
