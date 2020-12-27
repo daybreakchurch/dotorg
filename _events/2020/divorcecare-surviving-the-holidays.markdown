@@ -4,7 +4,7 @@ date: 2020-10-25 20:51:00 -07:00
 published: false
 tags:
 - events
-position: 12
+position: 16
 custom_dates: November 10, 2020  6:30 - 8:30pm
 location: Daybreak Church
 image: "/uploads/594977E1-8464-4CAF-B0B7-059334E4F4FA.jpeg"
