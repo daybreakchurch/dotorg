@@ -5,7 +5,7 @@ tags:
 - classes
 - events
 - marriage
-position: 11
+position: 10
 custom_dates: Early February 2021
 image: "/uploads/285D6269-761E-48B2-8DFA-162AEAFC6725.png"
 small_image: "/uploads/285D6269-761E-48B2-8DFA-162AEAFC6725.png"
