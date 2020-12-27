@@ -1,17 +1,17 @@
 ---
 title: DivorceCare - Online
-date: 2020-09-22 00:00:00 -07:00
+date: 2020-02-02 00:00:00 -08:00
 tags:
 - groups
 - events
 - divorce
 position: 13
-custom_dates: Upcoming
+custom_dates: February 2 - April 27, 2021
 image: "/uploads/DivorceCare_960.jpg"
 small_image: "/uploads/DivorceCare_480.jpg"
 primary_button:
   label: Register Here
-  link: https://daybreak.churchcenter.com/registrations/events/515727
+  link: https://daybreak.churchcenter.com/registrations/events/672541
 ---
 
 Have you experienced the pain of a separation or divorce? Looking for help and healing? It’s a confusing time when you feel isolated and have lots of questions about issues you’ve never faced before. In this class, you’ll gain access to valuable resources to help you with the pain of the past and find hope for the future. Each session includes a video, group discussion and workbook/journaling exercises.
