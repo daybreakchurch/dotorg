@@ -5,7 +5,7 @@ published: false
 tags:
 - events
 - womens
-position: 20
+position: 22
 custom_dates: October 15, 2020  6:00pm
 image: "/uploads/247C60C4-5A15-414B-A958-D2F9D92BE932.png"
 small_image: "/uploads/29A884FC-90A6-461F-9997-89168503CBB2.png"
