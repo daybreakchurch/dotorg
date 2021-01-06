@@ -5,7 +5,7 @@ tags:
 - events
 - womens
 position: 0
-custom_dates: October 29 | 7:00p
+custom_dates: January 29 | 7:00p
 image: "/uploads/Lovely_Slide-1001080.jpg"
 small_image: "/uploads/Lovely_Slide-100960.jpg"
 primary_button:
