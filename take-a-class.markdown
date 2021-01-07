@@ -9,7 +9,7 @@ primary_button:
   image: "/uploads/23A13181-3CBD-447B-9D42-23B0131CFC42-1afc98.png"
 seconday_buttons:
 - label: Marriage Enrichment
-  link: https://daybreak.churchcenter.com/registrations/events/503431
+  link: https://daybreak.churchcenter.com/registrations/events/684656
   image: "/uploads/285D6269-761E-48B2-8DFA-162AEAFC6725.png"
 - label: FPU
   link: https://daybreak.churchcenter.com/registrations/events/672560
