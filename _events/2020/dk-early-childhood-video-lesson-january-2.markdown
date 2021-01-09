@@ -1,8 +1,6 @@
 ---
 title: DK Early Childhood Video Lesson | January 2
 date: 2021-01-01 18:27:00 -08:00
-tags:
-- kids
 position: 26
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/mQGnTjmfhLI"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
