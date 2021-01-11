@@ -1,5 +1,5 @@
 ---
-title: 7 Days of Prayer & Fasting
+title: 7 Days of Prayer and Fasting
 date: 2021-01-11 13:35:00 -08:00
 tags:
 - events
