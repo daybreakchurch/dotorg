@@ -20,6 +20,9 @@ seconday_buttons:
 - label: DivorceCare
   link: https://daybreak.churchcenter.com/registrations/events/672541
   image: "/uploads/B41B3424-26AB-4A1A-8E6C-0BAA3CAA1790.png"
+- label: Care Ministry
+  link: https://daybreak.churchcenter.com/registrations/events/696088
+  image: "/uploads/Care-Ministry_1920.png"
 template: image_and_text
 Field name: 
 Section: 
