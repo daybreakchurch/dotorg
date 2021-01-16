@@ -11,7 +11,7 @@ primary_button:
   label: Need Care?
   link: https://daybreak.churchcenter.com/people/forms/57047
 seconday_buttons:
-- label: Want to become a Care Minister?
+- label: Learn how to become a Care Minister. Join our Team!
   link: https://daybreak.churchcenter.com/people/forms/63542
 ---
 
@@ -26,6 +26,6 @@ At Daybreak, we have compassionate individuals who are trained to help us when w
 Perhaps you, a friend, or a family member would benefit from this kind of help and support.  If so, a Care Minister may be just what is needed.
 
 
-##### BECOMING A STEPHEN MINISTER
+##### BECOMING A STEPHEN MINISTER - Join our Team!
 
 For those of you who want to come alongside and support others in a more intentional way, we provide in-depth training to become Care Ministers. 
