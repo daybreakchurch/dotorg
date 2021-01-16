@@ -3,7 +3,7 @@ title: DK Elementary Video Lesson | January 9
 date: 2021-01-08 23:13:00 -08:00
 tags:
 - kids
-position: 26
+position: 27
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/lD0N7y6ZmAE"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen></iframe>
