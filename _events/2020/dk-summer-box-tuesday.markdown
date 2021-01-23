@@ -1,7 +1,7 @@
 ---
 title: DK Summer Box | TUESDAY
 date: 2020-07-28 11:37:00 -07:00
-position: 80
+position: 81
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/HlhsgPMJon0"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
