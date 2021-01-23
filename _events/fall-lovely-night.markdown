@@ -4,7 +4,7 @@ date: 2020-09-29 10:52:00 -07:00
 tags:
 - events
 - womens
-position: 0
+position: 2
 custom_dates: January 29 | 7:00p
 image: "/uploads/Lovely_Slide-1001080.jpg"
 small_image: "/uploads/Lovely_Slide-100960.jpg"
