@@ -14,5 +14,5 @@ Ahoy Mateys, we are still learning about how awesome Jesus is! We learned, last 
 
 *“You are witnesses of these things. I am going to send you what my Father has promised; but stay in the city until you have been clothes with power from on high." Luke 24: 48-49*
 
-**Click on the link below for the lesson craft this week:**
+**Click on the link for the lesson craft this week:**
 [Jesus is Always With Us](https://drive.google.com/file/d/1DG1GCILoWAUnTXUy8Sdy-LPS2_B8SB2g/view?usp=sharing)
