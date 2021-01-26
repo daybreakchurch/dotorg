@@ -162,7 +162,7 @@ exclude:
 - Rakefile
 - vendor/bootstrap/
 homepage:
-  title: Outdoor & Online Services Every Sunday at 9 &10a
+  title: Outdoor Services Every Sunday | 9:00 & 10:00a
   subtitle: Watch Online 9:00 & 10:00a
   button:
     label: Click here to watch the online service
