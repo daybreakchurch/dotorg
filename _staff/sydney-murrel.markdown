@@ -1,5 +1,5 @@
 ---
-title: Sydney Murrel
+title: Sydney Murrell
 date: 2021-01-27 09:17:00 -08:00
 job_title: 'Nursery coordinator '
 email: sydney@daybreakchurch.org
