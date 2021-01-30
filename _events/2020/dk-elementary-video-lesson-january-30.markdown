@@ -3,6 +3,7 @@ title: DK Elementary Video Lesson | January 30
 date: 2021-01-29 18:28:00 -08:00
 tags:
 - kids
+position: 25
 small_image: "/uploads/Website%20Graphic-%20Elementary-ae241d.png"
 ---
 
