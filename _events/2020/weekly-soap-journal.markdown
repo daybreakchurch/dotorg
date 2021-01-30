@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* January 23: 1 Corinthians 12
-* January 24: 1 Corinthians 13
-* January 25: 1 Corinthians 14
-* January 26: 1 Corinthians 15
-* January 27: 1 Corinthians 16
-* January 28: 2 Corinthians 1
-* January 29: 2 Corinthians 2
 * January 30: 2 Corinthians 3
+* January 31: 2 Corinthians 4
+* February 1: 2 Corinthians 5
+* February 2: 2 Corinthians 6
+* February 3: 1 Corinthians 7
+* February 4: 2 Corinthians 8
+* February 5: 2 Corinthians 9
+* February 6: 2 Corinthians 10
 
 ##### How to Journal
 
