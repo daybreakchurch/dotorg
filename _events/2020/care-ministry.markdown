@@ -8,12 +8,14 @@ position: 8
 custom_dates: Ongoing
 image: "/uploads/Care-Ministry_1920.png"
 small_image: "/uploads/Care-Ministry_480.png"
+seconday_buttons:
+- label: Register for February 21st Info Meeting
+  link: https://daybreak.churchcenter.com/registrations/events/696088
+- label: Learn how to become a Care Minister. Join our Team!
+  link: https://daybreak.churchcenter.com/people/forms/63542
 primary_button:
   label: Need Care?
   link: https://daybreak.churchcenter.com/people/forms/57047
-seconday_buttons:
-- label: Learn how to become a Care Minister. Join our Team!
-  link: https://daybreak.churchcenter.com/people/forms/63542
 ---
 
 ##### BECOMING A STEPHEN MINISTER - Join our Team!
