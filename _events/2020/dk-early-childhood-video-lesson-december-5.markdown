@@ -1,7 +1,7 @@
 ---
 title: DK Early Childhood Video Lesson | December 5
 date: 2020-12-04 23:54:00 -08:00
-position: 41
+position: 42
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/CRhwoxM5gCw"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen></iframe>

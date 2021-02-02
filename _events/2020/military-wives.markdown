@@ -1,11 +1,12 @@
 ---
 title: Military Wives
 date: 2019-11-18 18:00:00 -08:00
+published: false
 tags:
 - womens
 - group
 - events
-position: 73
+position: 23
 custom_dates: On Hold Until Further Notice
 image: "/uploads/Military-Wives_1920.jpg"
 small_image: "/uploads/Military-Wives_480.jpg"

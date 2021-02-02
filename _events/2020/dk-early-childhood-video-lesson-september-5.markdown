@@ -1,7 +1,7 @@
 ---
 title: DK Early Childhood Video Lesson | September 5
 date: 2020-09-04 22:38:00 -07:00
-position: 67
+position: 68
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/OLD_Gh5lsnc"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
