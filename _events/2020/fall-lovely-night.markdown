@@ -13,7 +13,7 @@ primary_button:
   link: https://daybreak.churchcenter.com/registrations/events/680194
 ---
 
-Please join us for our first Lovely Night of 2021!  We want to welcome you to our campus and join us for a night of fellowship, live worship, and interactive worship stations.  We will be meeting outdoors where there will be plenty of space to spread out, so dress warm as it may be chilly! New merch will be on sale and will also be serving delicious desserts and coffee!
+Please join us for our first Lovely Night of 2021!  This Friday, February 5th at 7:00pm. We want to welcome you to our campus and join us for a night of fellowship, live worship, and interactive worship stations.  We will be meeting outdoors where there will be plenty of space to spread out, so dress warm as it may be chilly! New merch will be on sale and will also be serving delicious desserts and coffee!
 
 So grab a friend or neighbor and join us for this intimate night together as a community. We are so excited to see what God has for YOU in this night!
 
