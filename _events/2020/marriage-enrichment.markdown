@@ -5,7 +5,7 @@ tags:
 - classes
 - events
 - marriage
-position: 6
+position: 7
 custom_dates: February 2 to March 9, 2021
 image: "/uploads/285D6269-761E-48B2-8DFA-162AEAFC6725.png"
 small_image: "/uploads/285D6269-761E-48B2-8DFA-162AEAFC6725.png"
