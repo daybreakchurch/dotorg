@@ -5,22 +5,21 @@ tags:
 - events
 - classes
 position: 2
-custom_dates: Ongoing
+custom_dates: February 21, 2021
 image: "/uploads/Care-Ministry_1920.png"
 small_image: "/uploads/Care-Ministry_480.png"
-seconday_buttons:
-- label: Register for February 21st Info Meeting
-  link: https://daybreak.churchcenter.com/registrations/events/696088
-- label: Learn how to become a Care Minister. Join our Team!
-  link: https://daybreak.churchcenter.com/people/forms/63542
 primary_button:
   label: Need Care?
   link: https://daybreak.churchcenter.com/people/forms/57047
+seconday_buttons:
+- label: Register for February 21st Info Meeting
+  link: https://daybreak.churchcenter.com/registrations/events/696088
+- link: https://daybreak.churchcenter.com/people/forms/63542
 ---
 
-##### BECOMING A STEPHEN MINISTER - Join our Team!
+##### BECOME A STEPHEN MINISTER - Join our Team
 
-Join us for an informational meeting on **February 21, 2021 at 12:00pm **on Zoom, that will offer a comprehensive overview of our Care Ministry. Register [HERE](https://daybreak.churchcenter.com/registrations/events/696088) 
+Join us for an informational meeting on **February 21, 2021 at 12:00pm** on Zoom, that will offer a comprehensive overview of our Care Ministry. Register [HERE](https://daybreak.churchcenter.com/registrations/events/696088) 
 
 For those of you who want to come alongside and support others in a more intentional way, we provide in-depth training to become Care Ministers. 
 
