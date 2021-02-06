@@ -1,8 +1,6 @@
 ---
 title: DK Elementary Video Lesson | January 30
 date: 2021-01-29 18:28:00 -08:00
-tags:
-- kids
 position: 29
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/yHl_49F-xNA"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
