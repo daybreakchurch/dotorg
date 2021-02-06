@@ -3,7 +3,7 @@ title: DK Early Childhood Video Lesson | February 6
 date: 2021-02-05 22:43:00 -08:00
 tags:
 - kids
-position: 27
+position: 28
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/L3Ao1Ypvp9I"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen></iframe>
