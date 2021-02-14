@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* January 30: 2 Corinthians 3
-* January 31: 2 Corinthians 4
-* February 1: 2 Corinthians 5
-* February 2: 2 Corinthians 6
-* February 3: 2 Corinthians 7
-* February 4: 2 Corinthians 8
-* February 5: 2 Corinthians 9
-* February 6: 2 Corinthians 10
+* February 13: Galatians 1
+* February 14: Galatians 2
+* February 15: Galatians 3
+* February 16: Galatians 4
+* February 17: Galatians 5
+* February 18: Galatians 6
+* February 19: Ephesians 1
+* February 20: Ephesians 2
 
 ##### How to Journal
 
