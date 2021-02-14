@@ -1,10 +1,11 @@
 ---
 title: Lovely Outdoor Worship Experience - Feb. 5 | 7:00pm
 date: 2021-02-05 19:00:00 -08:00
+published: false
 tags:
 - events
 - womens
-position: 0
+position: 1
 custom_dates: February 5 | 7:00p
 image: "/uploads/Lovely_Slide-1001080.jpg"
 small_image: "/uploads/Lovely_Slide-100960.jpg"
