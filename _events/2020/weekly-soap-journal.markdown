@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* February 13: Galatians 1
-* February 14: Galatians 2
-* February 15: Galatians 3
-* February 16: Galatians 4
-* February 17: Galatians 5
-* February 18: Galatians 6
-* February 19: Ephesians 1
 * February 20: Ephesians 2
+* February 21: Ephesians 3
+* February 22: Ephesians 4
+* February 23: Ephesians 5
+* February 24: Ephesians 6
+* February 25: Philippians 1
+* February 26: Philippians 2
+* February 27: Philippians 3
 
 ##### How to Journal
 
