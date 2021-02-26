@@ -2,7 +2,7 @@
 title: Church at Home
 date: 2020-03-25 17:09:00 -07:00
 published: false
-position: 86
+position: 87
 custom_dates: Every Day!
 image: "/uploads/Daybreak-At-Home_april-5.jpg"
 small_image: "/uploads/Daybreak-At-Home_title_480.jpg"
