@@ -2,7 +2,7 @@
 title: DK Elementary Video Lesson | April 4
 date: 2020-04-04 08:00:00 -07:00
 published: false
-position: 128
+position: 129
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/KvvCcPegxi8"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>

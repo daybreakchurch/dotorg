@@ -5,7 +5,7 @@ published: false
 tags:
 - womens
 - classes
-position: 141
+position: 142
 custom_dates: January 16 - February 27, 2020
 image: "/uploads/Women's-Bible-Study_20-20_1920.png"
 small_image: "/uploads/Women's-Bible-Study_20-20_480.png"
