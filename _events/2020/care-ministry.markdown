@@ -1,5 +1,5 @@
 ---
-title: Care Ministry - Join Our Team!
+title: Care Ministry
 date: 2019-09-05 20:58:00 -07:00
 tags:
 - events
@@ -9,19 +9,13 @@ custom_dates: February 21, 2021
 image: "/uploads/Care-Ministry_1920.png"
 small_image: "/uploads/Care-Ministry_480.png"
 primary_button:
-  label: Need Care?
+  label: Need Care from a Care Minister?
   link: https://daybreak.churchcenter.com/people/forms/57047
 seconday_buttons:
-- label: Register for February 21st Info Meeting
-  link: https://daybreak.churchcenter.com/registrations/events/696088
+- label: I'm Interested in joining the Care Ministry Team
+  link: https://daybreak.churchcenter.com/people/forms/63542
 - link: https://daybreak.churchcenter.com/people/forms/63542
 ---
-
-##### BECOME A STEPHEN MINISTER - Join our Team
-
-Join us for an informational meeting on **February 21, 2021 at 12:00pm** on Zoom, that will offer a comprehensive overview of our Care Ministry. Register [HERE](https://daybreak.churchcenter.com/registrations/events/696088) 
-
-For those of you who want to come alongside and support others in a more intentional way, we provide in-depth training to become Care Ministers. 
 
 ##### WHAT IS THE CARE MINISTRY?
 
