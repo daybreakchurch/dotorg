@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* February 20: Ephesians 2
-* February 21: Ephesians 3
-* February 22: Ephesians 4
-* February 23: Ephesians 5
-* February 24: Ephesians 6
-* February 25: Philippians 1
-* February 26: Philippians 2
 * February 27: Philippians 3
+* February 28: Philippians 4
+* March 1: Colossians 1
+* March 2: Colossians 2
+* March 3: Colossians 3
+* March 4: Colossians 4
+* March 5: 1 Thessalonians 1
+* March 6: 1 Thessalonians 2
 
 ##### How to Journal
 
