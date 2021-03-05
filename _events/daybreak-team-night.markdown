@@ -12,3 +12,4 @@ primary_button:
   link: https://daybreak.churchcenter.com/registrations/events/761552
 ---
 
+Daybreak Team Night - March 14, 2021. 6:30-8:00pm
