@@ -14,4 +14,4 @@ Last weekend we got to hear from a super cool couple who started a business that
 
 *"Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you." -Ephesians 4:32*
 
-Remember check in begins **15 minutes prior **to each service time.
+Remember check in begins **15 minutes prior** to each service time.
