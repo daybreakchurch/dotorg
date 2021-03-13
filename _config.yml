@@ -162,7 +162,7 @@ exclude:
 - Rakefile
 - vendor/bootstrap/
 homepage:
-  title: Indoor Service 9:00a Register in Advance, Outdoor Services 9:00 & 10:00a
+  title: Indoor Service 9:00a (Register in Advance), Outdoor Services 9:00 & 10:00a
     Every Sunday
   subtitle: Watch Online 9:00 & 10:00a
   button:
