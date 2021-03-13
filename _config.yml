@@ -162,7 +162,7 @@ exclude:
 - Rakefile
 - vendor/bootstrap/
 homepage:
-  title: Outdoor Services Every Sunday | 9:00 & 10:00a
+  title: Indoor Service Every Sunday 9:00a | Register in Advance
   subtitle: Watch Online 9:00 & 10:00a
   button:
     label: Click here to watch the online service
@@ -175,10 +175,10 @@ address:
 phone: "(760) 931-7773"
 email: info@daybreakchurch.org
 service_times:
-- Sunday: Outdoors  9:00, 10:00a  & Online
+- Sunday: Indoors 9:00a, Outdoors  9:00, 10:00a  & Online
 youth_service_times:
 - Birth - kindergarten: Indoors and Online
 - 1st - 5th Grade: 'Indoors and Online '
-- 6th-8th Grade: Sunday at 6:00-7:30p Outdoors
-- High School: Sunday at 6:00-7:30p Outdoors
+- 6th-8th Grade: Sunday at 6:00-7:30p Indoors
+- High School: Sunday at 6:00-7:30p Indoors
 - Young Adults: Mondays at 7:00p Indoors
