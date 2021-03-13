@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* March 6: 1 Thessalonians 2
-* March 7: 1 Thessalonians 3
-* March 8: 1 Thessalonians 4
-* March 9: 1 Thessalonians 5
-* March 10: 2 Thessalonians 1
-* March 11: 2 Thessalonians 2 
-* March 12: 2 Thessalonians 3
 * March 13: 1 Timothy 1
+* March 14: 1 Timothy 2
+* March 15: 1 Timothy 3
+* March 16: 1 Timothy 4
+* March 17: 1 Timothy 5
+* March 18: 1 Timothy 6
+* March 19: 2 Timothy 1
+* March 20: 2 Timothy 2
 
 ##### How to Journal
 
