@@ -4,7 +4,7 @@ date: 2020-09-05 14:56:00 -07:00
 tags:
 - events
 - classes
-position: 10
+position: 8
 custom_dates: Ongoing
 image: "/uploads/A9A9D8B5-66EB-42BE-A0EC-B77AA50A888C.jpeg"
 primary_button:
