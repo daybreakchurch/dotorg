@@ -5,7 +5,7 @@ published: false
 tags:
 - events
 - womens
-position: 0
+position: 1
 custom_dates: February 5 | 7:00p
 image: "/uploads/Lovely_Slide-1001080.jpg"
 small_image: "/uploads/Lovely_Slide-100960.jpg"

@@ -4,7 +4,7 @@ published: false
 tags:
 - events
 - womens
-position: 13
+position: 12
 image: "/uploads/Moms-at-the-Park_1920.jpg"
 small_image: "/uploads/Moms-at-the-Park_480.jpg"
 ---
