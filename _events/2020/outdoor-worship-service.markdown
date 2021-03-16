@@ -4,7 +4,7 @@ date: 2020-11-25 18:00:00 -08:00
 published: false
 tags:
 - events
-position: 14
+position: 15
 image: "/uploads/Thanks%20Worship%20Night_1920.jpg"
 small_image: "/uploads/Thanks%20Worship%20Night_1920.jpg"
 ---

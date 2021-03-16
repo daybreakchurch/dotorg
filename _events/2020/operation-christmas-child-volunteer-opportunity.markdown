@@ -4,7 +4,7 @@ date: 2020-11-15 21:17:00 -08:00
 published: false
 tags:
 - events
-position: 15
+position: 16
 custom_dates: November 27, 2020 and December 5, 2020
 image: "/uploads/OperationChristmas%20CHild%20girl%20by%20truck.jpg"
 small_image: "/uploads/12117US-D-008.jpg"
