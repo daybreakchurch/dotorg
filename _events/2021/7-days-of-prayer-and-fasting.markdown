@@ -4,7 +4,7 @@ date: 2021-01-11 13:35:00 -08:00
 published: false
 tags:
 - events
-position: 2
+position: 12
 image: "/uploads/Prayer%20Fasting_title_1080.jpg"
 small_image: "/uploads/Prayer%20Fasting_title_960.jpg"
 primary_button:
