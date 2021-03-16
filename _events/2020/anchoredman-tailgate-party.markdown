@@ -5,7 +5,7 @@ published: false
 tags:
 - events
 - mens
-position: 20
+position: 8
 custom_dates: September 21, 2020
 image: "/uploads/77ADE6F5-8466-4DE5-A804-92EC30F01407.jpeg"
 small_image: "/uploads/77ADE6F5-8466-4DE5-A804-92EC30F01407.jpeg"

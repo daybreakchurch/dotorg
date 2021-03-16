@@ -5,7 +5,7 @@ published: false
 categories:
 - event
 - events
-position: 18
+position: 6
 custom_dates: Wednesday,  Dec 23 - 5:00 & 6:00p | Thursday,  Dec 24 - 4:00, 5:00 &
   6:00p
 image: "/uploads/Christmas_title_1920.jpg"
