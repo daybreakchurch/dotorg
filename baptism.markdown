@@ -7,6 +7,8 @@ primary_button:
   link: https://daybreak.churchcenter.com/registrations/events/782635
 ---
 
+**Our next Baptism is on April 11, 2021**
+
 Baptism is an important step in your journey as a follower of Christ and an outward symbol of the work He has already done in your life. The Bible paints a beautiful picture of baptism as our identification with Jesus in His death, burial, and resurrection. When you make the decision to accept Christ as your Savior, the Bible says that your old way of life is dead, and you are beginning a new life with Christ.
 
 Accepting Christ as your Savior means you believe that Jesus Christ died on the cross for your sins and that by His death and bodily resurrection, He bridged the gap between you and God for all time. If you have come to this point in your spiritual journey, you are ready to be baptized. At Daybreak, our church family comes together on this special occasion to celebrate your commitment to your new life in Christ.
