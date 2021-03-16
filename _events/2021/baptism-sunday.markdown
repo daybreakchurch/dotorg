@@ -3,6 +3,7 @@ title: Baptism Sunday
 date: 2021-03-16 15:54:00 -07:00
 tags:
 - events
+position: 1
 custom_dates: April 11, 2021
 image: "/uploads/F56D9793-E11E-4118-A0B3-E67814B0103E.png"
 small_image: "/uploads/Baptism_sunday_1920.jpg"
