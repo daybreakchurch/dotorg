@@ -5,8 +5,8 @@ tags:
 - events
 position: 3
 custom_dates: April 11, 2021
-image: "/uploads/F56D9793-E11E-4118-A0B3-E67814B0103E.png"
-small_image: "/uploads/Baptism_sunday_1920.jpg"
+image: "/uploads/Baptism_sunday_1920.jpg"
+small_image: "/uploads/F56D9793-E11E-4118-A0B3-E67814B0103E.png"
 primary_button:
   label: Sign Up To Be Baptized Here
   link: https://daybreak.churchcenter.com/registrations/events/782635
