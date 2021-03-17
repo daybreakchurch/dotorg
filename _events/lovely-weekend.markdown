@@ -3,6 +3,7 @@ title: Lovely Weekend
 date: 2021-03-17 16:52:00 -07:00
 tags:
 - events
+- womens
 custom_dates: April 30 - May 1, 2021
 image: "/uploads/A06EBD8A-046F-4BE8-B296-957DE0FBEDBB.jpeg"
 small_image: "/uploads/A06EBD8A-046F-4BE8-B296-957DE0FBEDBB.jpeg"
