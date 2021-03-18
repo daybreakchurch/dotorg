@@ -4,7 +4,7 @@ date: 2020-10-25 20:41:00 -07:00
 published: false
 tags:
 - events
-position: 7
+position: 6
 custom_dates: November 15, 2020  10:00am - 12:00pm
 image: "/uploads/79A2ED23-D232-47AE-8A38-FBA5A3B4691E.jpeg"
 small_image: "/uploads/424BFC06-243A-4EE6-AA19-16D0785481C2.jpeg"
