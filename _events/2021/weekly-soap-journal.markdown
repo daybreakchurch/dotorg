@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* March 13: 1 Timothy 1
-* March 14: 1 Timothy 2
-* March 15: 1 Timothy 3
-* March 16: 1 Timothy 4
-* March 17: 1 Timothy 5
-* March 18: 1 Timothy 6
-* March 19: 2 Timothy 1
 * March 20: 2 Timothy 2
+* March 21: 2 Timothy 3
+* March 22: 2 Timothy 4
+* March 23: Titus 1
+* March 24: Titus 2
+* March 25: Titus 3
+* March 26: Philemon 1
+* March 27: Hebrews 1
 
 ##### How to Journal
 
