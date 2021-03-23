@@ -30,46 +30,6 @@ Cost for Military and Students is $109.00
 
 There will be both indoor and outdoor seating available. Indoor seating will be based on current guidelines.
 
-**Lovely Weekend Schedule:
-**
-**Friday Night**
-
-5:00-6:30p - Registration/Dinner
-
-6:30-8:00p - Worship and Speaker
-
-8:30p - Dessert/Comedian
-
-**Saturday Morning**
-
-7:00-7:45a - Holy Yoga (optional)
-
-8:00-8:45a - Breakfast
-
-9:00-10:30a - Worship and Speaker
-
-10:30-12:00p - Breakouts
-
-12:00-5:00p - Activities and lunch on own  
-
-*Choose from a Carlsbad Scavenger Hunt, Beach Walk, or Hang out on Daybreak Campus for a Macrame craft/hangout/movie
-
-**Breakout Options** (you will choose one from the following):
-
-**Breakout #1:  PARENTING** - Raising kids in our current culture
-
-**Breakout #2:  MARRIAGE** - Pursuing the Oneness that God desires for your marriage
-
-**Breakout #3:  LIVING LOVELY AS A TEEN AND YOUNG ADULT**: What does it look like to be available for God's purpose as a teen and young adult
-
-**Breakout #4:  LOVELIES OVER 50** - Opening up your life to pour into a younger generation of women
-
-**Breakout #5:  DEVOTIONAL LIFE/PRAYER AND THE WORD** - Discover how time with God can transform your life
-
-**Saturday Night**
-
-5:00-6:45p - Dinner/DJ
-
-6:45-8:15p - Worship and Teaching
+See Registration for weekend schedule and breakout session details.
 
 Please email women@daybreakchurch.org with any questions.
