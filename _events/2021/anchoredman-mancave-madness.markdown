@@ -5,7 +5,7 @@ tags:
 - events
 - anchoredman
 - mens
-position: 0
+position: 2
 custom_dates: April 5, 2021
 location: Daybreak Church
 image: "/uploads/423D758B-4868-420E-B0DA-BDBF10492C87_4_5005_c.jpeg"
