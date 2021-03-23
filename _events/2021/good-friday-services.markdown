@@ -1,5 +1,5 @@
 ---
-title: Good Friday Indoor Services
+title: Good Friday Indoor Services - Registration Required
 date: 2021-03-23 11:37:00 -07:00
 tags:
 - events
