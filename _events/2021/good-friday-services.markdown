@@ -15,4 +15,4 @@ primary_button:
 
 Join us for one of our **Good Friday indoor services** on **April 2nd at 6:00p or 7:30p.**
 
-Advance registration required.
+Advance registration required. 
