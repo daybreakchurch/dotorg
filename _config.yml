@@ -162,8 +162,8 @@ exclude:
 - Rakefile
 - vendor/bootstrap/
 homepage:
-  title: Indoor Service 9:00a, Outdoor Services 9:00 & 10:00a Every Sunday
-  subtitle: Watch Online 9:00 & 10:00a
+  title: Indoor Service 9:00a, Outdoor Services 9:00a & 10:00a Every Sunday
+  subtitle: Watch Online 9:00a & 10:00a
   button:
     label: Click here to watch online service
     link: https://daybreakca.online.church
@@ -175,7 +175,7 @@ address:
 phone: "(760) 931-7773"
 email: info@daybreakchurch.org
 service_times:
-- Sunday: Indoors 9:00a, Outdoors  9:00, 10:00a  & Online
+- Sunday: Indoors 9:00a, Outdoors  9:00a, 10:00a  & Online
 youth_service_times:
 - Birth - kindergarten: Indoors and Online
 - 1st - 5th Grade: 'Indoors and Online '
