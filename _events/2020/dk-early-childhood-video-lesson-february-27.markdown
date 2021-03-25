@@ -1,7 +1,7 @@
 ---
 title: DK Early Childhood Video Lesson | February 27
 date: 2021-02-25 20:46:00 -08:00
-position: 24
+position: 25
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/XHrGKOhJkwA"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
   gyroscope; picture-in-picture" allowfullscreen></iframe>
