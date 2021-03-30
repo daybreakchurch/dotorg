@@ -162,7 +162,7 @@ exclude:
 - Rakefile
 - vendor/bootstrap/
 homepage:
-  title: "Outdoor Easter Services \n\n8:30a | 10:00a | 11:30a"
+  title: "Outdoor Easter Services \n8:30a | 10:00a | 11:30a"
   subtitle: Watch Online 8:30a | 10:00a | 11:30a
   button:
     label: Click here to watch online service
