@@ -1,6 +1,5 @@
 ---
 title: Anchoredman Boot Camp
-date: 2021-02-03 18:30:00 -08:00
 tags:
 - classes
 - events
