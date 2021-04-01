@@ -1,6 +1,5 @@
 ---
 title: Marriage Enrichment
-date: 2021-02-02 19:00:00 -08:00
 tags:
 - classes
 - events
