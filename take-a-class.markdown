@@ -3,13 +3,13 @@ title: Take a Class
 date: 2021-01-01 16:39:00 -08:00
 header_bg_image: "/uploads/638593A9-6932-42F2-8D38-BEE796A8C3E6.png"
 primary_button:
-  label: Anchoredman Bootcamp
+  label: Anchoredman Bootcamp coming up soon
   link: https://daybreak.churchcenter.com/registrations/events/672572
   Name: Anchordman Bootcamp
   image: "/uploads/23A13181-3CBD-447B-9D42-23B0131CFC42-1afc98.png"
 seconday_buttons:
-- label: Marriage Enrichment
-  link: https://daybreak.churchcenter.com/registrations/events/684656
+- label: 
+  link: 
   image: "/uploads/285D6269-761E-48B2-8DFA-162AEAFC6725.png"
 - label: FPU
   link: https://daybreak.churchcenter.com/registrations/events/672560
