@@ -31,4 +31,4 @@ layout: single_item
 
 At Daybreak, we have a full line-up of classes for you to choose from!  We are offering a choice for groups to meet in person or on Zoom, so no matter your comfort level we have something for you to take your Next Step.  
 
-Take a look at our winter classes that you can sign-up for now:  **Anchoredman Bootcamp, Financial Peace University, Marriage Enrichment, GriefShare, and DivorceCare, and Care Ministry.**  
+Take a look at our classes that you can sign-up for now:  **Anchoredman Bootcamp - coming soon, Financial Peace University,  GriefShare, and DivorceCare.**  
