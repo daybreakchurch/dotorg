@@ -1,7 +1,7 @@
 ---
 title: DK Elementary Video Lesson | March 20
 date: 2021-03-18 14:53:00 -07:00
-position: 18
+position: 19
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/LZBvvX0zli0"
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
