@@ -6,7 +6,7 @@ tags:
 - anchoredman
 - men
 - mens
-position: 17
+position: 18
 custom_dates: Coming in April 2021
 image: "/uploads/7C533B3D-B61C-4EC5-94A2-B5471AA7EB29.png"
 small_image: "/uploads/7C533B3D-B61C-4EC5-94A2-B5471AA7EB29.png"
