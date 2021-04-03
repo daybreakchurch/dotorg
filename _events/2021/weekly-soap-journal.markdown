@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* March 27: Hebrews 1
-* March 28: Hebrews 2
-* March 29: Hebrews 3
-* March 30: Hebrews 4
-* March 31: Hebrews 5
-* April 1: Hebrews 6
-* April 2: Hebrews 7
 * April 3: Hebrews 8
+* April 4: Hebrews 9
+* April 5: Hebrews 10
+* April 6: Hebrews 11
+* April 7: Hebrews 12
+* April 8: Hebrews 13
+* April 9: James 1
+* April 10: James 2
 
 ##### How to Journal
 
