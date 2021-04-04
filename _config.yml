@@ -175,7 +175,7 @@ address:
 phone: "(760) 931-7773"
 email: info@daybreakchurch.org
 service_times:
-- Sunday: 8:30a | 10:00a | 11:30a
+- Sunday: '9:00a | 10:00a '
 youth_service_times:
 - Birth - kindergarten: Indoors and Online
 - 1st - 5th Grade: 'Indoors and Online '
