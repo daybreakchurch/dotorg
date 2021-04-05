@@ -1,5 +1,5 @@
 ---
-title: Anchoredman Boot Camp
+title: Anchoredman Boot Camp - Begins April 14
 date: 2021-04-14 00:00:00 -07:00
 tags:
 - classes
@@ -9,6 +9,7 @@ tags:
 - mens
 position: 1
 custom_dates: April 14 - May 12, 2021
+location: Daybreak Church
 image: "/uploads/7C533B3D-B61C-4EC5-94A2-B5471AA7EB29.png"
 small_image: "/uploads/7C533B3D-B61C-4EC5-94A2-B5471AA7EB29.png"
 primary_button:
