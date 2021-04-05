@@ -3,18 +3,6 @@ title: Jobs
 header_bg_image: "/uploads/patio_1920.jpg"
 ---
 
-#### COMMUNICATIONS DIRECTOR
-
-###### POSITION DESCRIPTION
-
-Responsible for and focused on leadership and team development, oversight and execution of all aspects of Communications and Marketing outlined below 
-
-[(Continue reading...)](/uploads/Communication%20Director%20-%20Job%20Description%20-%2012.17.2020.pdf)
-
-
-
-––
-
 #### EXECUTIVE ASSISTANT
 
 ###### POSITION DESCRIPTION
