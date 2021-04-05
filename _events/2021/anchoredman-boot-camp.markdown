@@ -7,7 +7,7 @@ tags:
 - anchoredman
 - men
 - mens
-position: 18
+position: 1
 custom_dates: April 14 - May 12, 2021
 image: "/uploads/7C533B3D-B61C-4EC5-94A2-B5471AA7EB29.png"
 small_image: "/uploads/7C533B3D-B61C-4EC5-94A2-B5471AA7EB29.png"

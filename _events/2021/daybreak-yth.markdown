@@ -4,7 +4,7 @@ categories:
 - event
 tags:
 - events
-position: 7
+position: 8
 image: "/uploads/WEB%20SLIDE_1920.jpg"
 small_image: "/uploads/WEB%20SLIDE_960.jpg"
 ---
