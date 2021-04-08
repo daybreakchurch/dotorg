@@ -5,7 +5,7 @@ tags:
 - classes
 - events
 - fpu
-position: 18
+position: 19
 custom_dates: February 7 - April 18, 2021
 image: "/uploads/C32D63A5-6FE2-485E-AB3E-ED9FD613FA76.png"
 small_image: "/uploads/C32D63A5-6FE2-485E-AB3E-ED9FD613FA76.png"
