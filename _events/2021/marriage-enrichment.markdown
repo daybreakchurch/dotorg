@@ -5,13 +5,19 @@ tags:
 - events
 - marriage
 position: 19
+custom_dates: April 27 - May 25
+location: Daybreak
 image: "/uploads/285D6269-761E-48B2-8DFA-162AEAFC6725.png"
 small_image: "/uploads/285D6269-761E-48B2-8DFA-162AEAFC6725.png"
+primary_button:
+  label: Register Here
+  link: https://daybreak.churchcenter.com/registrations/events/811695
 ---
 
-Marriage should be a source of joy to both husband and wife, and a source of strength, confidence, and encouragement to all the members of the family.  God intended it to be an awe-inspiring, intimate, fruitful, joyous relationship - in short, life-giving!
-Whether you are just about to begin your marriage or have been working on yours for decades, Marriage Enrichment classes will help you keep your marriage healthy, vibrant and Christ-centered.  
+Falling in love is easy. But staying in love requires a plan.
 
-Our class sessions meet two to three times per year. 
+Join us for a 5-week study, **Staying in Love** **by Andy Stanley**. Is it possible for two people to fall in love and actually stay there? Absolutely! Let Andy show you how in this five-week, video-based study with small group discussion.
 
-Join us for our next Marriage Enrichment class coming soon!
+Join us on Tuesday evenings at Daybreak (7:00-8:30p) beginning April 27th.  Cost is $25/couple.
+
+For more information, contact Melissa at 760.505.6186.
