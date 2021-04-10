@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* April 3: Hebrews 8
-* April 4: Hebrews 9
-* April 5: Hebrews 10
-* April 6: Hebrews 11
-* April 7: Hebrews 12
-* April 8: Hebrews 13
-* April 9: James 1
 * April 10: James 2
+* April 11: James 3
+* April 12: James 4
+* April 13: James 5
+* April 14: 1 Peter 1
+* April 15: 1 Peter 2
+* April 16: 1 Peter 3
+* April 17: 1 Peter 4
 
 ##### How to Journal
 
