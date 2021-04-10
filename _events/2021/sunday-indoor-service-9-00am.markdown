@@ -1,5 +1,5 @@
 ---
-title: Register for Sunday Indoor Service 9:00am
+title: Register for Sunday Indoor Service, April 18, 9:00a
 date: 2021-03-07 09:22:00 -08:00
 tags:
 - events
