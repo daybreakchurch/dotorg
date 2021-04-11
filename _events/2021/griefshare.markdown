@@ -5,7 +5,7 @@ tags:
 - groups
 - events
 - grief
-position: 15
+position: 14
 custom_dates: January 28 - April 22, 2021
 image: "/uploads/1D11CA4C-D429-48A5-93BC-DDE410FD3E46.png"
 small_image: "/uploads/1D11CA4C-D429-48A5-93BC-DDE410FD3E46.png"
