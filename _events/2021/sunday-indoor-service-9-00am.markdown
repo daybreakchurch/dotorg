@@ -3,7 +3,7 @@ title: Register for Sunday Indoor Service, April 18, 9:00a
 date: 2021-03-07 09:22:00 -08:00
 tags:
 - events
-position: 3
+position: 1
 custom_dates: April 18, 2021
 location: Daybreak Worship Center
 image: "/uploads/6F0F7904-2BB3-485A-8E02-F6C8C8A66C55.jpeg"
