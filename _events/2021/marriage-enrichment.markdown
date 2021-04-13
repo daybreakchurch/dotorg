@@ -18,6 +18,6 @@ Falling in love is easy. But staying in love requires a plan.
 
 Join us for a 5-week study, **Staying in Love** **by Andy Stanley**. Is it possible for two people to fall in love and actually stay there? Absolutely! Let Andy show you how in this five-week, video-based study with small group discussion.
 
-Join us on Tuesday evenings at Daybreak (7:00-8:30p) beginning April 27th.  Cost is $25/couple.
+Join us on Tuesday evenings at Daybreak (7:00-8:30p) beginning April 27th.  Cost is $25/couple.  **Childcare is available for children 2yrs - 10yrs for a small fee. **
 
 For more information, contact Melissa at 760.505.6186.
