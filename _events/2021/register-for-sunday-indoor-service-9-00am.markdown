@@ -4,7 +4,7 @@ date: 2021-03-16 14:06:00 -07:00
 published: false
 tags:
 - events
-position: 2
+position: 9
 custom_dates: April 11, 2021
 location: Daybreak Worship Center
 image: "/uploads/6F0F7904-2BB3-485A-8E02-F6C8C8A66C55.jpeg"
