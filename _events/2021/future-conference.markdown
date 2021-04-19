@@ -1,6 +1,7 @@
 ---
 title: Future Conference
 date: 2021-04-19 16:14:00 -07:00
+position: 3
 custom_dates: May 14-15
 location: Daybreak Church
 image: "/uploads/FUTURE%20CONF%20UPDATED%20GRAPHIC.jpg"
