@@ -5,6 +5,7 @@ position: 3
 custom_dates: May 14-15
 location: Daybreak Church
 image: "/uploads/FUTURE%20CONF%20UPDATED%20GRAPHIC.jpg"
+small_image: "/uploads/FUTURE%20CONF%20UPDATED%20GRAPHIC.jpg"
 primary_button:
   label: Register
   link: https://daybreak.churchcenter.com/registrations/events/701556
