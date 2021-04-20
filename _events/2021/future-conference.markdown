@@ -4,7 +4,7 @@ date: 2021-04-19 16:14:00 -07:00
 tags:
 - events
 - students
-position: 3
+position: 2
 custom_dates: May 14-15
 location: Daybreak Church
 image: "/uploads/FUTURE%20CONF%20UPDATED%20GRAPHIC.jpg"
