@@ -7,7 +7,7 @@ location: Daybreak Church
 image: "/uploads/FUTURE%20CONF%20UPDATED%20GRAPHIC.jpg"
 primary_button:
   label: Register
-  link: https://daybreak.churchcenter.com/login?return=https%3A%2F%2Fdaybreak.churchcenter.com%2Fregistrations%2Fevents%2F701556%2Fregistrations%2Fnew
+  link: https://daybreak.churchcenter.com/registrations/events/701556
 ---
 
 We are so excited to invite you to join us for Future Conference 2021!
