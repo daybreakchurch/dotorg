@@ -3,7 +3,7 @@ title: DK Elementary Video Lesson | April 3
 date: 2021-04-02 21:40:00 -07:00
 tags:
 - kids
-position: 17
+position: 18
 video_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/gLOnXHFRycI"
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
