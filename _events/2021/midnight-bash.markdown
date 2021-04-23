@@ -5,7 +5,7 @@ tags:
 - events
 - kids
 position: 3
-custom_dates: May 9th
+custom_dates: May 7th
 location: Daybreak Church
 image: "/uploads/MidnightBash.jpg"
 small_image: "/uploads/MidnightBash.jpg"
