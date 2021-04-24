@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* April 17: 1 Peter 4
-* April 18: 1 Peter 5
-* April 19: 2 Peter 1
-* April 20: 2 Peter 2
-* April 21: 2 Peter 3
-* April 22: 1 John 1
-* April 23: 1 John 2
 * April 24: 1 John 3
+* April 24: 1 John 4
+* April 26: 1 John 5
+* April 27: 2 John 1
+* April 28: 3 John 1
+* April 29: Jude
+* April 30: Psalm 1
+* May 1: Psalm 2
 
 ##### How to Journal
 
