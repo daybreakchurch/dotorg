@@ -5,7 +5,7 @@ tags:
 - events
 - marriage
 position: 1
-custom_dates: April 27 - May 25
+custom_dates: May 4 - June 1
 location: Daybreak
 image: "/uploads/285D6269-761E-48B2-8DFA-162AEAFC6725.png"
 small_image: "/uploads/285D6269-761E-48B2-8DFA-162AEAFC6725.png"
