@@ -1,5 +1,5 @@
 ---
-title: Marriage Enrichment - Begins April 27
+title: Marriage Enrichment - Begins May 4
 tags:
 - classes
 - events
