@@ -4,7 +4,7 @@ date: 2021-04-22 15:47:00 -07:00
 tags:
 - events
 - kids
-position: 3
+position: 2
 custom_dates: May 7th
 location: Daybreak Church
 image: "/uploads/MidnightBash.jpg"

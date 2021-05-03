@@ -4,7 +4,7 @@ tags:
 - classes
 - events
 - marriage
-position: 1
+position: 0
 custom_dates: May 4 - June 1
 location: Daybreak
 image: "/uploads/285D6269-761E-48B2-8DFA-162AEAFC6725.png"
