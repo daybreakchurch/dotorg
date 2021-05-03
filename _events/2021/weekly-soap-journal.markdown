@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* April 24: 1 John 3
-* April 24: 1 John 4
-* April 26: 1 John 5
-* April 27: 2 John 1
-* April 28: 3 John 1
-* April 29: Jude
-* April 30: Psalm 1
 * May 1: Psalm 2
+* May 2: Psalm 3
+* May 3: Psalm 4
+* May 4: Psalm 5
+* May 5: Psalm 6
+* May 6: Psalm 7
+* May 7: Psalm 8
+* May 8: Psalm 9
 
 ##### How to Journal
 
