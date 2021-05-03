@@ -164,8 +164,8 @@ exclude:
 homepage:
   title: |-
     Sunday Service Times
-    9:00a  Indoor| 10:00a Outdoor
-  subtitle: Watch Online 9:00a | 10:00a
+    9:00a | 10:30a
+  subtitle: Watch Online 9:00a | 10:30a
   button:
     label: Click here to watch online service
     link: https://daybreakca.online.church
@@ -177,7 +177,7 @@ address:
 phone: "(760) 931-7773"
 email: info@daybreakchurch.org
 service_times:
-- Sunday: '9:00a | 10:00a '
+- Sunday: '9:00a | 10:30a '
 youth_service_times:
 - Birth - kindergarten: Indoors and Online
 - 1st - 5th Grade: 'Indoors and Online '
