@@ -11,6 +11,7 @@ image: "/uploads/MidnightBash.jpg"
 small_image: "/uploads/MidnightBash.jpg"
 primary_button:
   label: Register
+  link: https://daybreak.churchcenter.com/registrations/events/832798
 ---
 
 **3RD – 5TH GRADES ONLY**
