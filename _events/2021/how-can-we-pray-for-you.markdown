@@ -3,7 +3,7 @@ title: How Can We Pray For You?
 date: 2020-11-15 21:33:00 -08:00
 tags:
 - events
-position: 4
+position: 5
 custom_dates: Ongoing
 image: "/uploads/F3FEF11C-291D-4DAC-8DA3-6EAE00D74ACB.jpeg"
 small_image: "/uploads/E7DFC29A-C83D-444E-9621-93DC4631E17E.jpeg"
