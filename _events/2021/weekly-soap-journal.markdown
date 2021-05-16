@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* May 8: Psalm 9
-* May 9: Psalm 10
-* May 10: Psalm 11
-* May 11: Psalm 12
-* May 12: Psalm 13
-* May 13: Psalm 14
-* May 14: Psalm 15
 * May 15: Psalm 16
+* May 16: Psalm 17
+* May 17: Psalm 18
+* May 18: Psalm 19
+* May 19: Psalm 20
+* May 20: Psalm 21
+* May 21: Psalm 22
+* May 22: Psalm 23
 
 ##### How to Journal
 
