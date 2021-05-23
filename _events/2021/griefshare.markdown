@@ -9,9 +9,6 @@ position: 16
 custom_dates: January 28 - April 22, 2021
 image: "/uploads/1D11CA4C-D429-48A5-93BC-DDE410FD3E46.png"
 small_image: "/uploads/1D11CA4C-D429-48A5-93BC-DDE410FD3E46.png"
-primary_button:
-  label: REGISTER HERE
-  link: https://daybreak.churchcenter.com/registrations/events/672551
 ---
 
 If you have lost a spouse, child, family member or friend, you’ve probably found there are not many people who understand the deep hurt you feel. You don’t have to go through the grieving process alone. GriefShare offers a biblical approach to grief recovery and the return to emotional health. Each session includes a video seminar, group discussion and journaling/workbook exercises. Among many others, you will find answers to the following questions:
