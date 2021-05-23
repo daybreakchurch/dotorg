@@ -6,7 +6,6 @@ tags:
 - events
 - fpu
 position: 21
-custom_dates: February 7 - April 18, 2021
 image: "/uploads/C32D63A5-6FE2-485E-AB3E-ED9FD613FA76.png"
 small_image: "/uploads/C32D63A5-6FE2-485E-AB3E-ED9FD613FA76.png"
 meta_text: For more information, contact Eric or Theresa at 760.943.7780 or email
