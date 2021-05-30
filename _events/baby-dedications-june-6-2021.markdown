@@ -15,3 +15,5 @@ primary_button:
 **Our next Baby Dedication will be on June 6th 2021.**
 
 Baby Dedication is a special service where parents make a commitment to help their kids find and follow Jesus, and the Daybreak family makes a commitment to stand with the parents and support them in this journey. Our kids matter! As parents, it's our responsibility to help our kids grow in their faith...but it's a BIG responsibility!
+
+The baby dedications will be at both the 9:00am and the 10:30am service. You can choose which service works
