@@ -5,7 +5,7 @@ tags:
 - group
 - classes
 - events
-position: 3
+position: 4
 custom_dates: 'Ongoing '
 image: "/uploads/0EB18F7D-3BAA-4FEF-8570-5EAA2E672E15-b8e7d5.png"
 small_image: "/uploads/4212E857-BAC0-4BE6-92AB-FFA56C7445B2.png"

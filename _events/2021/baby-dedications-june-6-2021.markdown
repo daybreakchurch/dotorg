@@ -3,6 +3,7 @@ title: Baby Dedications - June 6, 2021
 date: 2021-05-29 18:28:00 -07:00
 tags:
 - events
+position: 1
 custom_dates: June 6, 2021
 location: Daybreak Church
 image: "/uploads/156CF81C-1D3E-4CAC-AA8C-79BD79C3CC9A_4_5005_c.jpeg"
