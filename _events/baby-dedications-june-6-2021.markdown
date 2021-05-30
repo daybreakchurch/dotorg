@@ -5,6 +5,11 @@ tags:
 - events
 custom_dates: June 6, 2021
 location: Daybreak Church
+image: "/uploads/156CF81C-1D3E-4CAC-AA8C-79BD79C3CC9A_4_5005_c.jpeg"
+small_image: "/uploads/156CF81C-1D3E-4CAC-AA8C-79BD79C3CC9A_4_5005_c.jpeg"
+primary_button:
+  label: Sign Up Here
+  link: https://daybreak.churchcenter.com/registrations/events/880974
 ---
 
 **Our next Baby Dedication will be on June 6th 2021.**
