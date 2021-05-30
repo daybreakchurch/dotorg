@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* May 22: Psalm 23
-* May 23: Psalm 24
-* May 24: Psalm 25
-* May 25: Psalm 26
-* May 26: Psalm 27
-* May 27: Psalm 28
-* May 28: Psalm 29
 * May 29: Psalm 30
+* May 30: Psalm 31
+* May 31: Psalm 32
+* June 1: Psalm 33
+* June 2: Psalm 34
+* June 3: Psalm 35
+* June 4: Psalm 36
+* June 5: Psalm 37
 
 ##### How to Journal
 
