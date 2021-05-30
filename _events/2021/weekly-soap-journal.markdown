@@ -11,7 +11,7 @@ small_image: "/uploads/Weekly%20Soap_960.jpg"
 
 * May 29: Psalm 30
 * May 30: Psalm 31
-* May 31: Psalm 32
+* May 31: Psalm 32 
 * June 1: Psalm 33
 * June 2: Psalm 34
 * June 3: Psalm 35
