@@ -6,8 +6,8 @@ tags:
 position: 2
 custom_dates: June 6, 2021
 location: Daybreak Church
-image: "/uploads/156CF81C-1D3E-4CAC-AA8C-79BD79C3CC9A_4_5005_c.jpeg"
-small_image: "/uploads/156CF81C-1D3E-4CAC-AA8C-79BD79C3CC9A_4_5005_c.jpeg"
+image: "/uploads/BabyDedications4.jpg"
+small_image: "/uploads/BabyDedications4.jpg"
 primary_button:
   label: Sign Up For Future Opportunity
   link: https://daybreak.churchcenter.com/registrations/events/880974
