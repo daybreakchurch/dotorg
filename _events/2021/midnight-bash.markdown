@@ -5,7 +5,7 @@ published: false
 tags:
 - events
 - kids
-position: 13
+position: 14
 custom_dates: May 7th
 location: Daybreak Church
 image: "/uploads/MidnightBash.jpg"
