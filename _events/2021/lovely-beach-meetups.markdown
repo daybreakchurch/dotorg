@@ -23,6 +23,7 @@ Look for the pink and white striped umbrellas just north of the lifeguard statio
 **Parking, snack stand and bathrooms are available.**
 
 **Lovely Beach Bonfire**
+
 August 12th - 6:30p  Ponto Beach
 
 Ladies only!! Grab your beach chair and come join us for a relaxing evening around the fire. We can't wait to share some s'mores and watch the sun go down will have fun watching the sun go down together! 
