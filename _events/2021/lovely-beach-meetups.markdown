@@ -6,7 +6,12 @@ categories:
 - events
 tags:
 - events
+- womens
 position: 2
+custom_dates: June 24th - Next Meet Up
+location: Moonlight Beach
+image: "/uploads/7E57AB42-66D8-4580-9314-6E2094105DC4.jpeg"
+small_image: "/uploads/7E57AB42-66D8-4580-9314-6E2094105DC4.jpeg"
 ---
 
 **Lovely Beach Meetups**
