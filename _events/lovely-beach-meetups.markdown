@@ -2,6 +2,8 @@
 title: Lovely Beach Meetups
 date: 2021-06-10 15:26:00 -07:00
 published: false
+tags:
+- events
 ---
 
 **Lovely Beach Meetups**
