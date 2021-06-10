@@ -25,4 +25,4 @@ You shouldn’t feel overwhelmed and powerless over your money. You can be in co
 
 Our next session will begin in September 2021!
 
-For more information, contact Eric or Theresa at 760.943.7780 or email [FPU@daybreakchurch.org](FPU@daybreakchurch.org). 
+For more information, contact Eric or Theresa at 760.576.4673 or email [FPU@daybreakchurch.org](FPU@daybreakchurch.org). 
