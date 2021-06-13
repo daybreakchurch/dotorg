@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* June 5: Psalm 37
-* June 6: Psalm 38
-* June 7: Psalm 39 
-* June 8: Psalm 40
-* June 9: Psalm 41
-* June 10: Psalm 42
-* June 11: Psalm 43
 * June 12: Psalm 44
+* June 13: Psalm 45
+* June 14: Psalm 46 
+* June 15: Psalm 47
+* June 16: Psalm 48
+* June 17: Psalm 49
+* June 18: Psalm 50
+* June 19: Psalm 51
 
 ##### How to Journal
 
