@@ -31,4 +31,4 @@ blocks:
 
 Daybreak Kids is a place where fun, creativity, and the Bible come to life. Even with the stay at home order, we provide your child with the opportunity to develop and grow spiritually through our online resources. Our DK staff and volunteers are here to pray for your children and come alongside families during all seasons in life. Our prayer is that you find sweet moments even in hard situations and lean into God as a family. Please reach out to us anytime at dk@daybreakchurch.org.
 
-During the COVID-19 season, while we can not meet at church, we have exciting and interactive lessons each week online (see below) for both early childhood and elementary students .  We also have activities, information and fun on our [DK Instagram Kids](https://www.instagram.com/daybreak.kids/) feed.
+We also have activities, information and fun on our [DK Instagram Kids](https://www.instagram.com/daybreak.kids/) feed.
