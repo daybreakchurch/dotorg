@@ -4,7 +4,7 @@ date: 2021-09-12 15:00:00 -07:00
 published: false
 tags:
 - events
-position: 9
+position: 2
 custom_dates: September 12, 2021
 image: "/uploads/BeachBaptisms%20.jpg"
 small_image: "/uploads/BeachBaptisms%20.jpg"

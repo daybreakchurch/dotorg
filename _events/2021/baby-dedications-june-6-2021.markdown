@@ -4,7 +4,7 @@ date: 2021-05-29 18:28:00 -07:00
 published: false
 tags:
 - events
-position: 3
+position: 4
 custom_dates: June 6, 2021
 location: Daybreak Church
 image: "/uploads/BabyDedications4.jpg"
