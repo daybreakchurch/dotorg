@@ -1,5 +1,5 @@
 ---
-title: Baptism Sunday - September 12
+title: Beach Baptism - September 12
 date: 2021-09-12 15:00:00 -07:00
 published: false
 tags:
