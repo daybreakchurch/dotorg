@@ -1,6 +1,6 @@
 ---
 title: Baptism
-date: 2018-09-03 14:45:00 -07:00
+date: 2021-09-12 00:00:00 -07:00
 image: "/uploads/baptism_960.jpg"
 primary_button:
   label: " Interested in the Next Baptism Opportunity"
