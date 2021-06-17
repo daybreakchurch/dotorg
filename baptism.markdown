@@ -1,6 +1,7 @@
 ---
 title: Baptism
 date: 2021-09-12 00:00:00 -07:00
+published: false
 position: 0
 image: "/uploads/BeachBaptisms%20.jpg"
 primary_button:
