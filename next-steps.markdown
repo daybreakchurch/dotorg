@@ -1,6 +1,6 @@
 ---
 title: Next Steps
-position: 5
+position: 23
 is_in_top_nav: true
 header_bg_image: "/uploads/1871123B-5F68-4E89-87DB-2C55A8618EF7.png"
 sections:

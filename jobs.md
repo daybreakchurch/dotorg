@@ -1,5 +1,6 @@
 ---
 title: Jobs
+position: 9
 header_bg_image: "/uploads/patio_1920.jpg"
 ---
 

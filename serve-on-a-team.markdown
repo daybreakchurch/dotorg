@@ -1,6 +1,7 @@
 ---
 title: Serve on a Team
 date: 2018-09-03 14:45:00 -07:00
+position: 12
 image: "/uploads/teamsgroupsclass_social_janV2-07.png"
 primary_button:
   label: Sign Up to Serve

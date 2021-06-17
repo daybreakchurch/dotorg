@@ -1,6 +1,7 @@
 ---
 title: Pastor Chat
 date: 2018-09-03 14:45:00 -07:00
+position: 2
 image: "/uploads/pastor's_chat_pic_960.jpg"
 ---
 

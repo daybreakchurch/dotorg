@@ -1,6 +1,6 @@
 ---
 title: Messages
-position: 7
+position: 25
 is_in_top_nav: true
 header_bg_image: "/uploads/messages_1920.jpg"
 layout: messages

@@ -1,5 +1,6 @@
 ---
 title: Men
+position: 17
 header_bg_image: "/uploads/AnchoredMan.jpg"
 sections:
 - Upcoming Events for Men

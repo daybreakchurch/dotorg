@@ -1,6 +1,6 @@
 ---
 title: Kids & Youth
-position: 3
+position: 21
 is_in_top_nav: true
 header_bg_image: "/uploads/UTS_1920.jpg"
 sections:

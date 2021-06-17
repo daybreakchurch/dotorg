@@ -1,6 +1,7 @@
 ---
 title: Baptism
 date: 2021-09-12 00:00:00 -07:00
+position: 0
 image: "/uploads/baptism_960.jpg"
 primary_button:
   label: " Interested in the Next Baptism Opportunity"

@@ -1,6 +1,7 @@
 ---
 title: Mission Trips
 date: 2018-09-03 14:40:00 -07:00
+position: 5
 image: "/uploads/missions_960.jpg"
 ---
 

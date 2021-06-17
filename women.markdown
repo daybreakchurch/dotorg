@@ -1,6 +1,7 @@
 ---
 title: Women
 date: 2019-01-08 07:54:00 -08:00
+position: 6
 header_bg_image: "/uploads/daybreak-59.jpg"
 sections:
 - Upcoming Events for Women

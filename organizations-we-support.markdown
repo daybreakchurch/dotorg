@@ -1,6 +1,7 @@
 ---
 title: Organizations We Support
 date: 2018-09-03 14:39:00 -07:00
+position: 7
 header_bg_image: "/uploads/missions_2.jpg"
 ---
 

@@ -1,5 +1,5 @@
 ---
-position: 8
+position: 26
 layout: home
 ---
 

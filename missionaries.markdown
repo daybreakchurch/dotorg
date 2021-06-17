@@ -1,6 +1,7 @@
 ---
 title: Missionaries
 date: 2018-09-03 14:41:00 -07:00
+position: 8
 header_bg_image: "/uploads/missions_1.jpg"
 ---
 

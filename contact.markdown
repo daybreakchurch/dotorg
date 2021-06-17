@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 date: 2018-08-27 19:39:00 -07:00
-position: 0
+position: 18
 header_bg_image: "/uploads/contact.jpg"
 ---
 

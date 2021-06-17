@@ -1,6 +1,6 @@
 ---
 title: Give
-position: 6
+position: 24
 is_in_top_nav: true
 header_bg_image: "/uploads/daybreak-104%20(edited-Pixlr).jpg"
 meta_text: If you have any questions about giving, feel free to [contact us](/contact).

@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-position: 1
+position: 19
 is_in_top_nav: true
 header_bg_image: "/uploads/Christmas18.jpg"
 sections:

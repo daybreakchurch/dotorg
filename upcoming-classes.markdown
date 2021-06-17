@@ -2,6 +2,7 @@
 title: Upcoming Classes
 date: 2020-09-07 20:36:00 -07:00
 published: false
+position: 14
 image: "/uploads/nicole-honeywill-703542-unsplash.jpg"
 primary_button:
   label: Anchoredman Bootcamp

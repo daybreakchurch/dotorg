@@ -1,6 +1,7 @@
 ---
 title: Take a Class
 date: 2021-01-01 16:39:00 -08:00
+position: 15
 header_bg_image: "/uploads/638593A9-6932-42F2-8D38-BEE796A8C3E6.png"
 primary_button:
   label: 'Anchoredman Bootcamp '

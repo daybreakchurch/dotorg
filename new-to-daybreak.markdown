@@ -1,7 +1,7 @@
 ---
 title: New to Daybreak?
 date: 2018-08-25 13:34:00 -07:00
-position: 2
+position: 20
 header_bg_image: "/uploads/patio_1920.jpg"
 sections:
 - What to Expect
