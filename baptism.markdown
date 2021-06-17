@@ -1,11 +1,10 @@
 ---
 title: Baptism
 date: 2021-09-12 00:00:00 -07:00
-published: false
 position: 0
-image: "/uploads/BeachBaptisms%20.jpg"
+image: "/uploads/baptism_960.jpg"
 primary_button:
-  label: " Interested in an indoor church Baptism Opportunity"
+  label: " Interested in the Next Baptism Opportunity"
   link: https://daybreak.churchcenter.com/people/forms/239039
 ---
 
