@@ -30,4 +30,3 @@ You shouldn’t feel overwhelmed and powerless over your money. You can be in co
 
 Join us for 10-weeks of class starting **Monday, September 13th, 6:00-8:00p**. There is a fee for class materials, which can be purchased through registration.
 
-For more information, contact Eric or Theresa at 760.576.4673 or email [FPU@daybreakchurch.org](FPU@daybreakchurch.org). 
