@@ -22,4 +22,4 @@ If you are a follower of Jesus Christ and have not yet been baptized, we encoura
 
 IMPORTANT: If your elementary-aged child, between 3rd and 5th grade, would like to be baptized they will need to meet with Pastor Christa prior to being baptized. This class is required for all children to help prepare them for baptism and the deadline for this class is August 29th. Children's inquiries can be directed to Christa Katona at christa@daybreakchurch.org .
 
-For more information contact Pastor Laura at laura@daybreakchurch.org
+For more information contact Nicole at nicole@daybreakchurch.org
