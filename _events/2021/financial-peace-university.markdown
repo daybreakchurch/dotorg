@@ -13,7 +13,7 @@ small_image: "/uploads/C32D63A5-6FE2-485E-AB3E-ED9FD613FA76.png"
 meta_text: For more information, contact Eric or Theresa at 760.576.4673 or email
   FPU@daybreakchurch.org.
 primary_button:
-  label: Register Now for FPU
+  label: Register for FPU
   link: https://daybreak.churchcenter.com/registrations/events/909742
 ---
 
