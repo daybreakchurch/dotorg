@@ -8,7 +8,7 @@ custom_dates: September 12, 2021
 image: "/uploads/BeachBaptisms%20.jpg"
 small_image: "/uploads/BeachBaptisms%20.jpg"
 primary_button:
-  label: Sign Up To Be Baptized Here
+  label: Sign Up For Beach Baptism
   link: https://daybreak.churchcenter.com/registrations/events/892589
 seconday_buttons:
 - label: Interested in the Next Baptism Opportunity at Daybreak Church
