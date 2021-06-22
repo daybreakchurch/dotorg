@@ -2,7 +2,6 @@
 title: Marriage Enrichment
 tags:
 - classes
-- events
 - marriage
 position: 15
 location: Daybreak
