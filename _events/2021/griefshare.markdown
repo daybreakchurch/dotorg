@@ -6,6 +6,7 @@ tags:
 position: 11
 image: "/uploads/1D11CA4C-D429-48A5-93BC-DDE410FD3E46.png"
 small_image: "/uploads/1D11CA4C-D429-48A5-93BC-DDE410FD3E46.png"
+meta_text: For more information, contact Lauren at 858-925-3911.
 ---
 
 If you have lost a spouse, child, family member or friend, you’ve probably found there are not many people who understand the deep hurt you feel. You don’t have to go through the grieving process alone. GriefShare offers a biblical approach to grief recovery and the return to emotional health. Each session includes a video seminar, group discussion and journaling/workbook exercises. Among many others, you will find answers to the following questions:
@@ -19,6 +20,11 @@ If you have lost a spouse, child, family member or friend, you’ve probably fou
 * How should I handle the big decisions that need to
   be made?
 
-Our next GriefShare session will begin in September 2021.
+Our next GriefShare session will begin September 16, 2021.
 
-For more information, contact Lauren at 858-925-3911.
+The group will meet on Thursday mornings from 10:00am -11:30am
+for 13 weeks beginning September 16, 2021. You may join the
+class at any time during the 13 weeks. There is a $20
+fee for materials.
+
+
