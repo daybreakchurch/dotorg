@@ -18,7 +18,7 @@ seconday_buttons:
   link: https://daybreak.churchcenter.com/registrations/events/914268
   image: "/uploads/1D11CA4C-D429-48A5-93BC-DDE410FD3E46.png"
 - label: DivorceCare
-  link: https://daybreak.churchcenter.com/registrations/events/672541
+  link: https://daybreak.churchcenter.com/registrations/events/914771
   image: "/uploads/B41B3424-26AB-4A1A-8E6C-0BAA3CAA1790.png"
 - label: 
   link: 
