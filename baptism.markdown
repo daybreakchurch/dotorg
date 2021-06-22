@@ -24,5 +24,7 @@ Accepting Christ as your Savior means you believe that Jesus Christ died on the 
 
 At Daybreak we have baptism celebrations a number of times each year. We encourage the whole church to come out and celebrate as people of all ages make this public commitment.
 
+**Our Beach Baptism is coming up on September 12, 2021**
+
 
 For more information on baptism contact [laura@daybreakchurch.org](mailto:laura@daybreakchurch.org)
