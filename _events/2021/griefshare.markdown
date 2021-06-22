@@ -1,8 +1,6 @@
 ---
 title: GriefShare
-date: 2021-01-28 10:00:00 -08:00
 tags:
-- groups
 - grief
 - classes
 position: 11
