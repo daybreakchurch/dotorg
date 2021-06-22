@@ -3,8 +3,8 @@ title: DivorceCare
 date: 2020-02-02 00:00:00 -08:00
 tags:
 - groups
-- events
 - divorce
+- classes
 position: 24
 image: "/uploads/B41B3424-26AB-4A1A-8E6C-0BAA3CAA1790.png"
 small_image: "/uploads/B41B3424-26AB-4A1A-8E6C-0BAA3CAA1790.png"
