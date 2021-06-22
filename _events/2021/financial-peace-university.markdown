@@ -3,7 +3,6 @@ title: Financial Peace University
 date: 2021-02-07 18:00:00 -08:00
 tags:
 - classes
-- events
 - fpu
 position: 10
 custom_dates: September 13 - November 15, 2021
