@@ -3,7 +3,7 @@ title: 35 Lagoon Day
 date: 2021-06-22 11:01:00 -07:00
 tags:
 - kids
-position: 11
+position: 5
 custom_dates: August 2, 2021  - 10:30am - 2:30pm
 location: Carlsbad Lagoon
 primary_button:

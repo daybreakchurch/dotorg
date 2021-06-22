@@ -5,7 +5,7 @@ categories:
 - event
 tags:
 - events
-position: 16
+position: 15
 custom_dates: 6:30pm Daybreak Church
 image: "/uploads/WEB%20SLIDE_1920.jpg"
 small_image: "/uploads/WEB%20SLIDE_960.jpg"
