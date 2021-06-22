@@ -21,4 +21,4 @@ If you have lost a spouse, child, family member or friend, you’ve probably fou
 
 Our next GriefShare session will begin in September 2021.
 
-For more information, contact Lorie at 714-747-6614.
+For more information, contact Lauren at 858-925-3911.
