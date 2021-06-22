@@ -5,6 +5,9 @@ tags:
 - kids
 custom_dates: August 2, 2021  - 10:30am - 2:30pm
 location: Carlsbad Lagoon
+primary_button:
+  label: Register Here
+  link: https://daybreak.churchcenter.com/registrations/events/908563
 ---
 
 **3th - 5th Graders! Join us for Lagoon Day this summer!
