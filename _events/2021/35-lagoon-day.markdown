@@ -10,9 +10,9 @@ primary_button:
   link: https://daybreak.churchcenter.com/registrations/events/908563
 ---
 
-**3th - 5th Graders! Join us for Lagoon Day this summer!
-**
-**Must be a good swimmer to attend this event.** 
+**3th - 5th Graders! Join us for Lagoon Day this summer!**
+
+*Must be a good swimmer to attend this event.*
 Cost is $20/person and space is limited. 
 
 More details and directions available when you register.
