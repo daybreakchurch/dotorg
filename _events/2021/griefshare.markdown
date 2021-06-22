@@ -7,6 +7,9 @@ position: 11
 image: "/uploads/1D11CA4C-D429-48A5-93BC-DDE410FD3E46.png"
 small_image: "/uploads/1D11CA4C-D429-48A5-93BC-DDE410FD3E46.png"
 meta_text: For more information, contact Lauren at 858-925-3911.
+primary_button:
+  label: Register Here
+  link: https://daybreak.churchcenter.com/registrations/events/914268
 ---
 
 If you have lost a spouse, child, family member or friend, you’ve probably found there are not many people who understand the deep hurt you feel. You don’t have to go through the grieving process alone. GriefShare offers a biblical approach to grief recovery and the return to emotional health. Each session includes a video seminar, group discussion and journaling/workbook exercises. Among many others, you will find answers to the following questions:
