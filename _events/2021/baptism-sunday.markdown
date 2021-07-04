@@ -3,7 +3,7 @@ title: Beach Baptism - September 12
 date: 2021-09-12 15:00:00 -07:00
 tags:
 - events
-position: 2
+position: 3
 custom_dates: September 12, 2021
 image: "/uploads/BeachBaptisms%20.jpg"
 small_image: "/uploads/BeachBaptisms%20.jpg"
