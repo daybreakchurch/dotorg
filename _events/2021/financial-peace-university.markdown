@@ -4,7 +4,7 @@ date: 2021-02-07 18:00:00 -08:00
 tags:
 - classes
 - fpu
-position: 8
+position: 9
 custom_dates: September 13 - November 15, 2021
 location: Daybreak Church
 image: "/uploads/C32D63A5-6FE2-485E-AB3E-ED9FD613FA76.png"

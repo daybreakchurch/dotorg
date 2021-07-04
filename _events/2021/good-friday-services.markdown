@@ -4,7 +4,7 @@ date: 2021-03-23 11:37:00 -07:00
 published: false
 tags:
 - events
-position: 18
+position: 19
 custom_dates: 'April 2, 2021 6:00p and 7:30p Indoors '
 location: Daybreak Church
 image: "/uploads/7F719975-C967-4318-9178-9AE4E03FD3A7.jpeg"
