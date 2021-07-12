@@ -1,6 +1,7 @@
 ---
 title: YTH Summer Camp
 date: 2021-06-03 15:11:00 -07:00
+published: false
 tags:
 - events
 position: 2
