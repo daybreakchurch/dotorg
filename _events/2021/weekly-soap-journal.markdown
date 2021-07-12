@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* July 4: Psalm 67
-* July 5: Psalm 68
-* July 6: Psalm 69 
-* July 7: Psalm 70
-* July 8: Psalm 71
-* July 9: Psalm 72
-* July 10: Psalm 73
-* July 11: Psalm 74
+* July 12: Psalm 75
+* July 13: Psalm 76
+* July 14: Psalm 77 
+* July 15: Psalm 78
+* July 16: Psalm 79
+* July 17: Psalm 80
+* July 18: Psalm 81
+* July 19: Psalm 82
 
 ##### How to Journal
 
