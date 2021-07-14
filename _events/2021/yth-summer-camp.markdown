@@ -4,7 +4,7 @@ date: 2021-06-03 15:11:00 -07:00
 published: false
 tags:
 - events
-position: 2
+position: 3
 external_url: https://daybreak.churchcenter.com/registrations/events/871443
 image: "/uploads/medium_image-1621869933905.jpeg"
 small_image: "/uploads/medium_image-1621869933905.jpeg"

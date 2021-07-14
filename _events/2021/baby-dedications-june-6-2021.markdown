@@ -3,7 +3,7 @@ title: Baby Dedications
 date: 2021-05-29 18:28:00 -07:00
 tags:
 - events
-position: 4
+position: 5
 location: Daybreak Church
 image: "/uploads/BabyDedications4.jpg"
 small_image: "/uploads/BabyDedications4.jpg"

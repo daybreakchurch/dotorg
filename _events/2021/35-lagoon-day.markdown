@@ -5,7 +5,7 @@ published: false
 tags:
 - kids
 - events
-position: 5
+position: 6
 custom_dates: August 2, 2021  - 10:30am - 2:30pm
 location: Carlsbad Lagoon
 primary_button:

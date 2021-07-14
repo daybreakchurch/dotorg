@@ -3,7 +3,7 @@ title: Marriage Enrichment
 tags:
 - classes
 - marriage
-position: 11
+position: 12
 custom_dates: September 14th - October 19th 2021
 location: Daybreak Church
 image: "/uploads/285D6269-761E-48B2-8DFA-162AEAFC6725.png"
