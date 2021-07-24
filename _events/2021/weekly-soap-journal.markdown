@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-* July 17: Psalm 83
-* July 18: Psalm 84
-* July 19: Psalm 85 
-* July 20: Psalm 86
-* July 21: Psalm 87
-* July 22: Psalm 88
-* July 23: Psalm 89
-* July 24: Psalm 90
+* July 25: Psalm 91
+* July 26: Psalm 92
+* July 27: Psalm 93 
+* July 28: Psalm 94
+* July 29: Psalm 95
+* July 30: Psalm 96
+* July 31: Psalm 97
+* August 1: Psalm 98
 
 ##### How to Journal
 
