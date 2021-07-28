@@ -1,6 +1,5 @@
 ---
 title: Baby Dedications
-date: 2021-05-29 18:28:00 -07:00
 tags:
 - events
 position: 1
