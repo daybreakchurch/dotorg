@@ -9,14 +9,14 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
+* July 31: Psalm 97
 * August 1: Psalm 98
-* August 2: Psalm 99
-* August 3: Psalm 100 
+* August 2: Psalm 99 
+* August 3: Psalm 100
 * August 4: Psalm 101
 * August 5: Psalm 102
 * August 6: Psalm 103
 * August 7: Psalm 104
-* August 8: Psalm 105
 
 ##### How to Journal
 
