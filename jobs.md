@@ -6,8 +6,8 @@ header_bg_image: "/uploads/patio_1920.jpg"
 
 #### EXECUTIVE ASSISTANT
 ###### POSITION DESCRIPTION
-[(Continue reading...)]
-[ExecutiveAssistantJD.pdf](/uploads/ExecutiveAssistantJD.pdf)
+[(Continue reading...)
+(/uploads/ExecutiveAssistantJD.pdf)]
 
 #### Daybreak Videography Director
 ###### POSITION DESCRIPTION
