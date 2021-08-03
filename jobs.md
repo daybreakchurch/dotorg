@@ -15,5 +15,5 @@ header_bg_image: "/uploads/patio_1920.jpg"
 #### Daybreak Leadership College Administrative Assistant
 ###### POSITION DESCRIPTION
 [(Continue reading...)]
-[Job Description - Administrative Assistant for DLC 2.pdf](/uploads/Job%20Description%20-%20Administrative%20Assistant%20for%20DLC%202.pdf)
+[Job Description - Administrative Assistant for DLC 2-36d019.pdf](/uploads/Job%20Description%20-%20Administrative%20Assistant%20for%20DLC%202-36d019.pdf)
 
