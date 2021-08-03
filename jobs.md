@@ -16,9 +16,11 @@ header_bg_image: "/uploads/patio_1920.jpg"
 
 [(Continue reading...)](/uploads/Executive%20Assistant%20-%20Job%20Description%20-%201.3.2021.pdf)
 
+#### Daybreak Videography Director
+###### POSITION DESCRIPTION
+[Videography Job Description Daybreak.pdf](/uploads/Videography%20Job%20Description%20Daybreak.pdf)
 
 #### Daybreak Leadership College Administrative Assistant
 ###### POSITION DESCRIPTION
-[Job Description - Administrative Assistant for DLC.docx](/uploads/Job%20Description%20-%20Administrative%20Assistant%20for%20DLC.docx)
-
+[DLC Job Description - Administrative Assistant for DLC.pdf](/uploads/DLC%20Job%20Description%20-%20Administrative%20Assistant%20for%20DLC.pdf)
 
