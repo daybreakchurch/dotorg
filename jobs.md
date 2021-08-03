@@ -18,9 +18,9 @@ header_bg_image: "/uploads/patio_1920.jpg"
 
 #### Daybreak Videography Director
 ###### POSITION DESCRIPTION
-[Videography Job Description Daybreak.pdf](/uploads/Videography%20Job%20Description%20Daybreak.pdf)
+[(Continue reading...)](/uploads/Videography%20Job%20Description%20Daybreak.pdf)
 
 #### Daybreak Leadership College Administrative Assistant
 ###### POSITION DESCRIPTION
-[DLC Job Description - Administrative Assistant for DLC.pdf](/uploads/DLC%20Job%20Description%20-%20Administrative%20Assistant%20for%20DLC.pdf)
+[(Continue reading...)](/uploads/DLC%20Job%20Description%20-%20Administrative%20Assistant%20for%20DLC.pdf)
 
