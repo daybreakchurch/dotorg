@@ -8,11 +8,8 @@ custom_dates: September 12, 2021
 image: "/uploads/Baptism%20Sunday.jpeg"
 small_image: "/uploads/Baptism%20Sunday.jpeg"
 primary_button:
-  label: Sign Up For Beach Baptism
+  label: Sign Up For Baptism
   link: https://daybreak.churchcenter.com/registrations/events/892589
-seconday_buttons:
-- label: Interested in the Next Baptism Opportunity at Daybreak Church
-  link: https://daybreak.churchcenter.com/people/forms/239039
 ---
 
 Our Next Baptism is coming up on September 12th. 
