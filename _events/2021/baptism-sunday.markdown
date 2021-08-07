@@ -1,5 +1,5 @@
 ---
-title: Beach Baptism - September 12
+title: Baptism - September 12
 date: 2021-09-12 15:00:00 -07:00
 tags:
 - events
@@ -15,7 +15,7 @@ seconday_buttons:
   link: https://daybreak.churchcenter.com/people/forms/239039
 ---
 
-Our Beach Baptism is coming up on September 12th. 
+Our Next Baptism is coming up on September 12th. 
 
 If you are a follower of Jesus Christ and have not yet been baptized, we encourage you to take a step of obedience and be baptized. 
 
