@@ -10,4 +10,5 @@ header_bg_image: "/uploads/patio_1920.jpg"
 
 #### Daybreak Videography Director
 ###### POSITION DESCRIPTION
-[Continue reading...](/uploads/Videography%20Job%20Description%20Daybreak.pdf)
+[Continue reading...]
+[Videographer Job Description Daybreak - 8.9.21.pdf](/uploads/Videographer%20Job%20Description%20Daybreak%20-%208.9.21.pdf)
