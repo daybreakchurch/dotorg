@@ -1,6 +1,6 @@
 ---
 title: Baby Dedications
-date: 2021-08-22 00:00:00 -07:00
+date: 2021-08-29 00:00:00 -07:00
 tags:
 - events
 position: 1
