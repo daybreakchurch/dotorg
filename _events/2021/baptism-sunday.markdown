@@ -5,8 +5,8 @@ tags:
 - events
 position: 2
 custom_dates: September 12, 2021
-image: "/uploads/Baptism%20Sunday.jpeg"
-small_image: "/uploads/Baptism%20Sunday.jpeg"
+image: "/uploads/BaptimGraphic2-a6c8d5.jpg"
+small_image: "/uploads/BaptimGraphic2-a6c8d5.jpg"
 primary_button:
   label: Sign Up For Baptism
   link: https://daybreak.churchcenter.com/registrations/events/892589
