@@ -4,7 +4,7 @@ date: 2021-09-12 00:00:00 -07:00
 position: 0
 image: "/uploads/baptism_960.jpg"
 primary_button:
-  label: Sign up for Beach Baptism
+  label: Sign up for Baptism on September 12th
   link: https://daybreak.churchcenter.com/registrations/events/892589
 seconday_buttons:
 - label: " Interested in the Next Baptism Opportunity"
@@ -24,7 +24,7 @@ Accepting Christ as your Savior means you believe that Jesus Christ died on the 
 
 At Daybreak we have baptism celebrations a number of times each year. We encourage the whole church to come out and celebrate as people of all ages make this public commitment.
 
-**Our Beach Baptism is coming up on September 12, 2021**
+**Our next Baptism is coming up on September 12, 2021**
 
 
 For more information on baptism contact [laura@daybreakchurch.org](mailto:laura@daybreakchurch.org)
