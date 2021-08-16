@@ -9,13 +9,20 @@ image: "/uploads/Weekly%20Soap_1080.jpg"
 small_image: "/uploads/Weekly%20Soap_960.jpg"
 ---
 
-*August 14: Psalm 111*
-*August 15: Psalm 112*
-**August 16: Psalm 113
-**August 17: Psalm 114
-**August 18: Psalm 115
-**August 19: Psalm 116
-**August 20: Psalm 117
+August 14: Psalm 111
+
+August 15: Psalm 112
+
+August 16: Psalm 113
+
+August 17: Psalm 114
+
+August 18: Psalm 115
+
+August 19: Psalm 116
+
+August 20: Psalm 117
+
 August 21: Psalm 118
 
 ##### How to Journal
