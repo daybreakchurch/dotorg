@@ -3,7 +3,7 @@ title: Baptism - September 12
 date: 2021-09-12 15:00:00 -07:00
 tags:
 - events
-position: 4
+position: 3
 custom_dates: September 12, 2021
 image: "/uploads/BaptimGraphic2-a6c8d5.jpg"
 small_image: "/uploads/BaptimGraphic2-a6c8d5.jpg"

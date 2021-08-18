@@ -2,7 +2,7 @@
 title: Daybreak Kids Lagoon Day
 date: 2021-07-14 13:42:00 -07:00
 published: false
-position: 0
+position: 4
 custom_dates: August 2
 location: Carlsbad
 external_url: https://daybreak.churchcenter.com/unproxy/registrations/events/908563
