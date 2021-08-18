@@ -1,6 +1,7 @@
 ---
 title: Team Night
 date: 2021-09-01 09:31:00 -07:00
+position: 1
 custom_dates: September 1 at 6:30pm
 location: Daybreak Church
 image: "/uploads/TeamNightEmail.jpg"

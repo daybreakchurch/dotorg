@@ -3,7 +3,7 @@ title: GriefShare
 tags:
 - grief
 - classes
-position: 13
+position: 15
 image: "/uploads/1D11CA4C-D429-48A5-93BC-DDE410FD3E46.png"
 small_image: "/uploads/1D11CA4C-D429-48A5-93BC-DDE410FD3E46.png"
 meta_text: For more information, contact Lauren at 858-925-3911.

@@ -1,6 +1,7 @@
 ---
 title: Relief for Haiti
 date: 2021-08-15 07:33:00 -07:00
+position: 2
 image: "/uploads/ReliefForHaiti.jpg"
 small_image: "/uploads/ReliefForHaiti.jpg"
 primary_button:
