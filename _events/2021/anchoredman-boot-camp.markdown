@@ -1,6 +1,5 @@
 ---
 title: Anchoredman Boot Camp
-date: 2021-04-14 00:00:00 -07:00
 tags:
 - classes
 - anchoredman
