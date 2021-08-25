@@ -26,7 +26,7 @@ If you have lost a spouse, child, family member or friend, you’ve probably fou
 Our next GriefShare session will begin September 16, 2021.
 
 The group will meet on Thursday mornings from 10:00am -11:30am
-for 13 weeks beginning September 16, 2021. You may join the
+for 13 weeks beginning September 23, 2021. You may join the
 class at any time during the 13 weeks. There is a $20
 fee for materials.
 
