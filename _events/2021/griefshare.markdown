@@ -23,7 +23,7 @@ If you have lost a spouse, child, family member or friend, you’ve probably fou
 * How should I handle the big decisions that need to
   be made?
 
-Our next GriefShare session will begin September 16, 2021.
+Our next GriefShare session will begin September 23, 2021.
 
 The group will meet on Thursday mornings from 10:00am -11:30am
 for 13 weeks beginning September 23, 2021. You may join the
